@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">റെക്കോർഡിംഗ് സമയത്ത് %d കോൾ തടയപ്പെട്ടു</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">റെക്കോർഡിംഗ് സമയത്ത് %d കോളുകൾ തടയപ്പെട്ടു</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d വിഭാഗത്തെ ഇല്ലാതാക്കണോ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d വിഭാഗങ്ങളെ ഇല്ലാതാക്കണോ?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 മണിക്കൂര്‍</item>
+        <item quantity="other">%d മണിക്കൂര്‍</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 മിനിറ്റ്</item>
+        <item quantity="other">%d മിനിട്ടുകള്‍</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 സെക്കന്‍റ്</item>
+        <item quantity="other">%d നിമിഷം</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ട്രാഷിലെ ഇനങ്ങൾ %d ദിവസത്തിന് ശേഷം ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ട്രാഷിലെ ഇനങ്ങൾ %d ദിവസത്തിന് ശേഷം ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ട്രാഷിലെ ഇനങ്ങൾ %d ദിവസത്തിന് ശേഷം ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും. നിങ്ങളുടെ SD കാർഡ് നീക്കംചെയ്യുന്നതിന് മുമ്പ്, അതിനുള്ളിലെ സകലതും പൂർണ്ണമായി ഇല്ലാതാക്കപ്പെടുന്നുണ്ടെന്ന് ഉറപ്പാക്കാൻ ട്രാഷ് ശൂന്യമാക്കുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ട്രാഷിലെ ഇനങ്ങൾ %d ദിവസത്തിന് ശേഷം ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും. നിങ്ങളുടെ SD കാർഡ് നീക്കംചെയ്യുന്നതിന് മുമ്പ്, അതിനുള്ളിലെ സകലതും പൂർണ്ണമായി ഇല്ലാതാക്കപ്പെടുന്നുണ്ടെന്ന് ഉറപ്പാക്കാൻ ട്രാഷ് ശൂന്യമാക്കുക.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d റെക്കോർഡിംഗിനെ ട്രാഷിലേക്ക് നീക്കണോ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d റെക്കോർഡിംഗുകളെ ട്രാഷിലേക്ക് നീക്കണോ?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ഇല്ലാതാക്കപ്പെടുന്ന റെക്കോർഡിംഗുകൾ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് അവയെ %d ദിവസം ട്രാഷിൽ സൂക്ഷിക്കുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ഇല്ലാതാക്കപ്പെടുന്ന റെക്കോർഡിംഗുകൾ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് അവയെ %d ദിവസം ട്രാഷിൽ സൂക്ഷിക്കുക.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">നിങ്ങൾ ഇല്ലാതാക്കുന്ന ഏത് റെക്കോർഡിംഗുകളും അവ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് %d ദിവസം ഇവിടെ നിലനിൽക്കും.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">നിങ്ങൾ ഇല്ലാതാക്കുന്ന ഏത് റെക്കോർഡിംഗുകളും അവ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് %d ദിവസം ഇവിടെ നിലനിൽക്കും.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d റെക്കോർഡിംഗ് ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d റെക്കോർഡിംഗുകൾ ശാശ്വതമായി ഇല്ലാതാക്കപ്പെടും.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ഇല്ലാതാക്കപ്പെടുന്ന റെക്കോർഡിംഗുകൾ അവ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് %d ദിവസം ട്രാഷിൽ നിലനിൽക്കും.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ഇല്ലാതാക്കപ്പെടുന്ന റെക്കോർഡിംഗുകൾ അവ എന്നന്നേയ്ക്കും ഇല്ലാതാക്കപ്പെടുന്നതിന് മുമ്പ് %d ദിവസം ട്രാഷിൽ നിലനിൽക്കും.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d റെക്കോർഡിംഗ്</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d റെക്കോർഡിംഗുകൾ</item>
+    </plurals>
+</resources>

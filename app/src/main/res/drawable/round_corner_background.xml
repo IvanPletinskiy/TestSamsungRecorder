@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="top|left|center_vertical|center_horizontal|center" android:height="@dimen/round_corner_size" android:width="@dimen/round_corner_size" android:drawable="@drawable/custom_sesl_top_left_round_stroke"/>
+    <item android:gravity="top|right|center_vertical|center_horizontal|center" android:height="@dimen/round_corner_size" android:width="@dimen/round_corner_size" android:drawable="@drawable/custom_sesl_top_right_round_stroke"/>
+    <item android:gravity="bottom|left|center_vertical|center_horizontal|center" android:height="@dimen/round_corner_size" android:width="@dimen/round_corner_size" android:drawable="@drawable/custom_sesl_bottom_left_round_stroke"/>
+    <item android:gravity="bottom|right|center_vertical|center_horizontal|center" android:height="@dimen/round_corner_size" android:width="@dimen/round_corner_size" android:drawable="@drawable/custom_sesl_bottom_right_round_stroke"/>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/round_corner_size"/>
+            <stroke android:width="@dimen/round_corner_stroke_height" android:color="@color/round_corner_stroke_color"/>
+        </shape>
+    </item>
+</layer-list>

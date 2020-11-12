@@ -1,0 +1,17 @@
+
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¥°¾Œşÿÿÿÿ
+[
+java:S3516,"9Refactor this method to not always return the same value.(îü…áùÿÿÿÿ8Óİ¸Û.
+L
+java:S2696)"6Make the enclosing method "static" or remove this set.(‰İšó
+K
+java:S1068"5Remove this unused "DISPLAY_TYPE_DUAL" private field.(ê•Ì
+U
+java:S1068"3Remove this unused "mGetDisplayType" private field.(·¤†èıÿÿÿÿ8™ïİ¸Û.
+C
+java:S3010"(Remove this assignment of "mAppContext".(˜Ì“ßıÿÿÿÿ
+[
+java:S1144†"8Remove this unused private "stopRecordingForDex" method.(ìÕ”øÿÿÿÿ8ì¸Ş¸Û.
+g
+java:S1144–"DRemove this unused private "stopRecordingForDexOnSimpleMode" method.(¥¹Óşÿÿÿÿ8ì¸Ş¸Û.

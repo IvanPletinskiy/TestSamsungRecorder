@@ -1,0 +1,25 @@
+
+h	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍðØ·ýÿÿÿÿ
+h	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì”öëúÿÿÿÿ
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›òÑØÿÿÿÿÿ
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹âìž
+u	java:S116"[Rename this field "interface_handle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶½û…ùÿÿÿÿ
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™„†
+i	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙË†˜ÿÿÿÿÿ
+>
+java:S1148f"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+c	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à›Êñ
+c	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁøçÈ
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“™°Ïÿÿÿÿÿ
+>
+java:S1148i"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+i
+java:S1192R"NDefine a constant instead of duplicating this literal "svoiceapi_jar" 6 times.(Ó–Ò¦ÿÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ³ŒŸýÿÿÿÿ
+>
+java:S1148Y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Z
+java:S4719‹">Replace charset name argument with StandardCharsets.ISO_8859_1(·¹†Íøÿÿÿÿ
+o	java:S116"ZRename this field "sentinel_handle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ¸›Ú
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¶ŠÝ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÑ»„úÿÿÿÿ

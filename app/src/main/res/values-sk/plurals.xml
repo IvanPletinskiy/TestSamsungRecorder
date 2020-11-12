@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Počas nahrávania bol zablokovaný %d hovor</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Počas nahrávania boli zablokované %d hovory</item>
+        <item quantity="many">Počas nahrávania bolo zablokovaného %d hovoru</item>
+        <item quantity="other">Počas nahrávania bolo zablokovaných %d hovorov</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odstrániť %d kategóriu?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Odstrániť %d kategórie?</item>
+        <item quantity="many">Odstrániť %d kategórie?</item>
+        <item quantity="other">Odstrániť %d kategórií?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 hodina</item>
+        <item quantity="other">%d hodín</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 minúta</item>
+        <item quantity="other">Počet minút: %d</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 sekunda</item>
+        <item quantity="other">Počet sekúnd: %d</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Položky v Koši sa za %d deň natrvalo odstránia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Položky v Koši sa za %d dni natrvalo odstránia.</item>
+        <item quantity="many">Položky v Koši sa za %d dňa natrvalo odstránia.</item>
+        <item quantity="other">Položky v Koši sa za %d dní natrvalo odstránia.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Položky v Koši sa za %d deň natrvalo odstránia. Pred vybratím karty SD vyprázdnite Kôš, aby sa zaručilo, že z neho budú kompletne odstránené všetky položky.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Položky v Koši sa za %d dni natrvalo odstránia. Pred vybratím karty SD vyprázdnite Kôš, aby sa zaručilo, že z neho budú kompletne odstránené všetky položky.</item>
+        <item quantity="many">Položky v Koši sa za %d dňa natrvalo odstránia. Pred vybratím karty SD vyprázdnite Kôš, aby sa zaručilo, že z neho budú kompletne odstránené všetky položky.</item>
+        <item quantity="other">Položky v Koši sa za %d dní natrvalo odstránia. Pred vybratím karty SD vyprázdnite Kôš, aby sa zaručilo, že z neho budú kompletne odstránené všetky položky.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Premiestniť %d nahrávku do Koša?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Premiestniť %d nahrávky do Koša?</item>
+        <item quantity="many">Premiestniť %d nahrávky do Koša?</item>
+        <item quantity="other">Premiestniť %d nahrávok do Koša?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odstránené nahrávky sa budú uchovávať po dobu %d dňa v Koši a potom budú natrvalo odstránené.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Odstránené nahrávky sa budú uchovávať po dobu %d dní v Koši a potom budú natrvalo odstránené.</item>
+        <item quantity="many">Odstránené nahrávky sa budú uchovávať po dobu %d dňa v Koši a potom budú natrvalo odstránené.</item>
+        <item quantity="other">Odstránené nahrávky sa budú uchovávať po dobu %d dní v Koši a potom budú natrvalo odstránené.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Všetky nahrávky, ktoré odstránite, tu zostanú po dobu %d dňa pred tým, než sa natrvalo odstránia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Všetky nahrávky, ktoré odstránite, tu zostanú po dobu %d dní pred tým, než sa natrvalo odstránia.</item>
+        <item quantity="many">Všetky nahrávky, ktoré odstránite, tu zostanú po dobu %d dňa pred tým, než sa natrvalo odstránia.</item>
+        <item quantity="other">Všetky nahrávky, ktoré odstránite, tu zostanú po dobu %d dní pred tým, než sa natrvalo odstránia.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nahrávka sa natrvalo odstráni.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nahrávky sa natrvalo odstránia.</item>
+        <item quantity="many">%d nahrávky sa natrvalo odstráni.</item>
+        <item quantity="other">%d nahrávok sa natrvalo odstráni.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odstránené nahrávky zostanú v Koši po dobu %d dňa a potom sa navždy odstránia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Odstránené nahrávky zostanú v Koši po dobu %d dní a potom sa navždy odstránia.</item>
+        <item quantity="many">Odstránené nahrávky zostanú v Koši po dobu %d dňa a potom sa navždy odstránia.</item>
+        <item quantity="other">Odstránené nahrávky zostanú v Koši po dobu %d dní a potom sa navždy odstránia.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nahrávka</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d nahrávky</item>
+        <item quantity="many">%d nahrávky</item>
+        <item quantity="other">%d nahrávok</item>
+    </plurals>
+</resources>

@@ -1,0 +1,99 @@
+
+W
+java:S1144Ï	"4Remove this unused private "isInMultiWindow" method.(³Ó»Åúÿÿÿÿ8í–Á¹Û.
+F
+java:S1125K")Remove the literal "false" boolean value.(‚åø8í–Á¹Û.
+\
+java:S1118B":Add a private constructor to hide the implicit public one.(ÕŞĞùÿÿÿÿ8í–Á¹Û.
+G
+java:S1172 ")Remove this unused method parameter "r4".(Ú•¾8í–Á¹Û.
+K
+java:S1144‰"(Remove this unused private "put" method.(á™¡¹ıÿÿÿÿ8í–Á¹Û.
+M
+java:S3740Æ"/Provide the parametrized type for this generic.(ÊÃÄÄ8í–Á¹Û.
+p
+java:S11043"UMake mActivity a static final constant or non-public and provide accessors if needed.(ŒƒğÄúÿÿÿÿ
+t	java:S115E"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸Æ›ˆşÿÿÿÿ
+e
+java:S1126Ø"BReplace this if-then-else statement by a single method invocation.(¸ŞÁ®øÿÿÿÿ8í–Á¹Û.
+l	java:S1160"WRename this field "RECORD_SCENE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÊÄ¤
+9
+java:S3626’"Remove this redundant jump.(ûÁİ…8í–Á¹Û.
+L
+java:S3740Ü"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+L
+java:S3740ş"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+o	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ûÂ•½
+O
+java:S1172ª"1Remove this unused method parameter "observable".(ä8í–Á¹Û.
+o	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ó¹Ç™
+L
+java:S3740Ü"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+i	java:S116/"URename this field "PLAY_SCENE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÌÎ
+t	java:S115F"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³Ùªüÿÿÿÿ
+v	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íÖá8í–Á¹Û.
+u
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(˜¼Ùğúÿÿÿÿ8í–Á¹Û.
+W
+java:S1144ï"4Remove this unused private "reorganizeScene" method.(ê€®àıÿÿÿÿ8í–Á¹Û.
+p
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ä8í–Á¹Û.
+g
+java:S1192¦"IDefine a constant instead of duplicating this literal " is null" 3 times.(û»ÆØ8í–Á¹Û.
+F
+java:S10680"0Remove this unused "RECORD_SCENE" private field.(úÊÄ¤
+k	java:S116õ"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å”¶å8í–Á¹Û.
+p
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(×ì‡¸8í–Á¹Û.
+\
+java:S3985å"9Remove this unused private "FullScreenRecordScene" class.(·¹úøÿÿÿÿ8í–Á¹Û.
+9
+java:S3626¹"Remove this redundant jump.(ûÁİ…8í–Á¹Û.
+u
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(íŞéÉüÿÿÿÿ8í–Á¹Û.
+u
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(•¶øÿÿÿÿ8í–Á¹Û.
+N
+java:S1905¿	"+Remove this unnecessary cast to "String[]".(®ÿ•‹ùÿÿÿÿ8í–Á¹Û.
+D
+java:S1168½	"&Return an empty array instead of null.(¥¹ï8í–Á¹Û.
+M
+java:S3740æ"/Provide the parametrized type for this generic.(ÊÃÄÄ8í–Á¹Û.
+R
+java:S3740¸"/Provide the parametrized type for this generic.(ûî•³ûÿÿÿÿ8í–Á¹Û.
+V
+java:S3985	"8Remove this unused private "MultiWindowPlayScene" class.(üçé¡8í–Á¹Û.
+{	java:S135ä"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8í–Á¹Û.
+?
+java:S1170õ"!Make this final field static too.(Å”¶å8í–Á¹Û.
+o
+java:S1104;"TMake mSession a static final constant or non-public and provide accessors if needed.(Ò“Ò¦şÿÿÿÿ
+m
+java:S11047"WMake mLaunchMode a static final constant or non-public and provide accessors if needed.(ù¼Ğ¥
+:
+java:S2386<"Make this member "protected".(ÚùŞ8í–Á¹Û.
+L
+java:S3740œ"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+>
+java:S1068."(Remove this unused "WAVE" private field.(›ßØÌ
+`
+java:S1126İ"BReplace this if-then-else statement by a single method invocation.(Å©í8í–Á¹Û.
+[
+java:S2589µ"8Remove this expression which always evaluates to "false"(éõ›£üÿÿÿÿ8í–Á¹Û.
+{	java:S135†"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8í–Á¹Û.
+u
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(›ÌöÀıÿÿÿÿ8í–Á¹Û.
+L
+java:S3740œ"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+R
+java:S3740Ñ"/Provide the parametrized type for this generic.(ëÖï¥ûÿÿÿÿ8í–Á¹Û.
+U
+java:S2589Ã"7Remove this expression which always evaluates to "true"(ö›©8í–Á¹Û.
+E
+java:S1068õ"'Remove this unused "TAG" private field.(Å”¶å8í–Á¹Û.
+L
+java:S3740ş"/Provide the parametrized type for this generic.(¨»Èa8í–Á¹Û.
+]
+java:S3985€	":Remove this unused private "MultiWindowRecordScene" class.(èúªüÿÿÿÿÿ8í–Á¹Û.
+9
+java:S3626µ"Remove this redundant jump.(ûÁİ…8í–Á¹Û.

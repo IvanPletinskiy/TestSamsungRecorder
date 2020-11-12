@@ -1,0 +1,74 @@
+
+F
+java:S3740—"/Provide the parametrized type for this generic.(›°›—
+F
+java:S3740™"/Provide the parametrized type for this generic.(¸Ä®ƒ
+?
+java:S1148Ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+K
+java:S3740ü"/Provide the parametrized type for this generic.(ù¦ÿÿÿÿÿ
+Q	java:S899é";Do something with the "boolean" value returned by "delete".(èä—Ğ
+J
+java:S3740"/Provide the parametrized type for this generic.(›¥ğıùÿÿÿÿ
+K
+java:S3740Á"/Provide the parametrized type for this generic.(ÈÈ“Ñşÿÿÿÿ
+C
+java:S1905Á"'Remove this unnecessary cast to "List".(ÈÈ“Ñşÿÿÿÿ
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+J
+java:S3740!"/Provide the parametrized type for this generic.(š›îÎıÿÿÿÿ
+c
+java:S1192ƒ"LDefine a constant instead of duplicating this literal "is_success" 11 times.(Öúøä
+l	java:S117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+?
+java:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+e
+java:S4042é"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(èä—Ğ
+F
+java:S1172ò"*Remove this unused method parameter "obj".(ôõÆüÿÿÿÿ
+K
+java:S3740¬"/Provide the parametrized type for this generic.(ğ…± ûÿÿÿÿ
+B
+java:S1172ğ"&Remove these unused method parameters.(ôõÆüÿÿÿÿ
+E
+java:S3740""/Provide the parametrized type for this generic.(˜ˆ©ï
+‡
+java:S1319‘	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÔÓÅö
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+V	java:S899ö";Do something with the "boolean" value returned by "delete".(ÇÅğšıÿÿÿÿ
+F
+java:S1172â"*Remove this unused method parameter "obj".(ôõÆüÿÿÿÿ
+m
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(ü¼ğŸúÿÿÿÿ
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+<
+java:S1181§	"%Catch Exception instead of Throwable.(áù«õ
+l	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+K
+java:S3740«"/Provide the parametrized type for this generic.(ù¦ÿÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+V	java:S899×";Do something with the "boolean" value returned by "delete".(ÇÅğšıÿÿÿÿ
+B
+java:S1172ş"&Remove these unused method parameters.(ôõÆüÿÿÿÿ
+j
+java:S4042×"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÇÅğšıÿÿÿÿ
+Q
+java:S1141˜	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+C
+java:S1172ö"-Remove this unused method parameter "bundle".(‚Š‰M
+?
+java:S1148Ÿ	"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+F
+java:S3740Ã"/Provide the parametrized type for this generic.(¸Ä®ƒ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+?
+java:S1148œ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:
+java:S1148¬	"#Use a logger to log this exception.(şìÓ’
+F
+java:S1172‡"*Remove this unused method parameter "obj".(ôõÆüÿÿÿÿ
+j
+java:S4042ö"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÇÅğšıÿÿÿÿ
+l	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆàÄşÿÿÿÿ
+F
+java:S1148¥	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÕ’¹Û.

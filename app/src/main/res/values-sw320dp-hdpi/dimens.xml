@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="controlbutton_pre_next_overlaps">-16dp</dimen>
+    <dimen name="edit_percent_popup_y">189.5dp</dimen>
+    <dimen name="info_call_reject_height">24dp</dimen>
+    <dimen name="info_call_reject_width">24dp</dimen>
+    <dimen name="listrow_line_text_padding">10dp</dimen>
+    <dimen name="wave_bookmark_width">1px</dimen>
+    <dimen name="wave_scrollview_bottom_margin_normal">10dp</dimen>
+</resources>

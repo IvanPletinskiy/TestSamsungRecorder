@@ -1,0 +1,177 @@
+
+Q
+java:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1068#"5Remove this unused "DURATION_INTERVAL" private field.(ÿ«Àïùÿÿÿÿ
+w
+java:S1104²"[Make mRepeatPosition a static final constant or non-public and provide accessors if needed.(ß„Ô„ÿÿÿÿÿ
+e
+java:S11048"OMake TAG a static final constant or non-public and provide accessors if needed.(ãËó«
+P
+java:S3985ç"4Remove this unused private "MediaPlayerState" class.(ð’ò½úÿÿÿÿ
+p
+java:S1104µ"TMake mSession a static final constant or non-public and provide accessors if needed.(Ò“Ò¦þÿÿÿÿ
+@
+java:S1172"*Remove this unused method parameter "str".(“œë²
+R
+java:S1854•";Remove this useless assignment to local variable "unused3".(µ¡õÐ
+V
+java:S1854P";Remove this useless assignment to local variable "unused3".(­–ë¼øÿÿÿÿ
+O
+java:S1481d"4Remove this unused "connectionCount" local variable.(ÅøŠÚúÿÿÿÿ
+Q
+java:S1144ì"5Remove this unused private "setCurrentVolume" method.(Â ¡÷úÿÿÿÿ
+W
+java:S1854";Remove this useless assignment to local variable "unused2".(ˆ¢¼õýÿÿÿÿ
+M
+java:S10685"8Remove this unused "STATE_REPEAT_NOT_SET" private field.(¥Ë™|
+Q
+java:S1854b";Remove this useless assignment to local variable "unused7".(ëë‡ý
+G
+java:S1481h",Remove this unused "unused8" local variable.(©¡–Çúÿÿÿÿ
+w
+java:S2234Œ"[Parameters to setVolume have the same names but not the same order as the method arguments.(˜¯î‚ûÿÿÿÿ
+,
+java:S2275Ž"Not enough arguments.(ãÜ½£
+O
+java:S10683"4Remove this unused "MSG_SKIP_SILENCE" private field.(²¥Õžÿÿÿÿÿ
+R
+java:S10682"7Remove this unused "MIN_REPEAT_INTERVAL" private field.(ñ÷ øÿÿÿÿ
+I
+java:S1172¥"2Remove this unused method parameter "mediaPlayer".(µº“Ú
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÌàØÕ
+B
+java:S1481¥",Remove this unused "unused5" local variable.(éåª:
+y
+java:S1104u"^Make mIsPausedForaWhile a static final constant or non-public and provide accessors if needed.(Š‰ùáýÿÿÿÿ
+r
+java:S1104s"WMake mIsFadeDown a static final constant or non-public and provide accessors if needed.(Ééàžüÿÿÿÿ
+Q
+java:S1854¥";Remove this useless assignment to local variable "unused5".(éåª:
+]
+java:S1854¾"ARemove this useless assignment to local variable "sensorManager".(Ò†ƒÕùÿÿÿÿ
+A
+java:S1481K"+Remove this unused "unused" local variable.(þ »ö
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ã´•õþÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à³×
+F
+java:S3740×"/Provide the parametrized type for this generic.(ÊÃÄÄ
+G
+java:S1481P",Remove this unused "unused3" local variable.(­–ë¼øÿÿÿÿ
+J
+java:S10686"4Remove this unused "STREAM_VOICENOTE" private field.(ìø–
+o
+java:S1104}"YMake mPausedByCall a static final constant or non-public and provide accessors if needed.(Ïä±­
+F
+java:S1905í"/Remove this unnecessary cast to "SimplePlayer".(­Åš¼
+O
+java:S1068q"9Remove this unused "mIsDetectedNearSensor" private field.(žòƒ™
+@
+java:S1125Æ	")Remove the literal "false" boolean value.(¸ÖÎã
+n
+java:S1104y"XMake mMediaPlayer a static final constant or non-public and provide accessors if needed.(Ë²£’
+s
+java:S1104¹"\Make mSkipSilenceTask a static final constant or non-public and provide accessors if needed.(›ñÕ‚
+˜
+java:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Ûëè
+V
+java:S1118Ö":Add a private constructor to hide the implicit public one.(æ”Õ‹ûÿÿÿÿ
+K
+java:S1066ù"/Merge this if statement with the enclosing one.(Áâø·þÿÿÿÿ
+P
+java:S3985ò"4Remove this unused private "SpeakerPhoneMode" class.(ð¹êúÿÿÿÿ
+2
+java:S3626„"Remove this redundant jump.(ûÁÝ…
+O
+java:S3878Ž"8Remove this array creation and simply pass the elements.(ãÜ½£
+2
+java:S3626‘"Remove this redundant jump.(ûÁÝ…
+V
+java:S1854^";Remove this useless assignment to local variable "unused5".(âè’Ãþÿÿÿÿ
+l
+java:S1192Þ"VDefine a constant instead of duplicating this literal "IllegalStateException" 3 times.(ï±”=
+F
+java:S1905ö"/Remove this unnecessary cast to "SimplePlayer".(­Åš¼
+G
+java:S1481a",Remove this unused "unused6" local variable.(‚Ô×¥þÿÿÿÿ
+V
+java:S1854V";Remove this useless assignment to local variable "unused4".(ôõà×ûÿÿÿÿ
+K
+java:S3740·"/Provide the parametrized type for this generic.(ûî•³ûÿÿÿÿ
+B
+java:S1481b",Remove this unused "unused7" local variable.(ëë‡ý
+G
+java:S1481^",Remove this unused "unused5" local variable.(âè’Ãþÿÿÿÿ
+?	java:S108Ÿ")Either remove or fill this block of code.(ÓÄ·¦
+N
+java:S1481¾"2Remove this unused "sensorManager" local variable.(Ò†ƒÕùÿÿÿÿ
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þáÍà
+d
+java:S30088"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãËó«
+G
+java:S1481L",Remove this unused "unused2" local variable.(¬âòÆøÿÿÿÿ
+H
+java:S1481",Remove this unused "unused2" local variable.(ˆ¢¼õýÿÿÿÿ
+z
+java:S1450q"dRemove the "mIsDetectedNearSensor" field and declare it as a local variable in the relevant methods.(žòƒ™
+X
+java:S10681"=Remove this unused "MAX_AUDIO_FOCUS_RETRY_CNT" private field.(àâÅÊýÿÿÿÿ
+Q
+java:S1118Î":Add a private constructor to hide the implicit public one.(ôì°³
+^
+java:S1854d"CRemove this useless assignment to local variable "connectionCount".(ÅøŠÚúÿÿÿÿ
+n
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ñ•ˆÚúÿÿÿÿ
+P
+java:S1854K":Remove this useless assignment to local variable "unused".(þ »ö
+W
+java:S1854¤";Remove this useless assignment to local variable "unused4".(òÁŒïþÿÿÿÿ
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þáÍà
+C
+java:S1481•",Remove this unused "unused3" local variable.(µ¡õÐ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÊÅ‰æ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Û˜—«
+Y
+java:S1068"">Remove this unused "AUDIO_FOCUS_RETRY_INTERVAL" private field.(ÅÏÕÛúÿÿÿÿ
+G
+java:S1481V",Remove this unused "unused4" local variable.(ôõà×ûÿÿÿÿ
+~
+java:S1488«"gImmediately return this expression instead of assigning it to the temporary variable "currentPosition".(Ü¿ƒá
+s
+java:S1104°"WMake mRepeatMode a static final constant or non-public and provide accessors if needed.(â‰§éüÿÿÿÿ
+V
+java:S1854h";Remove this useless assignment to local variable "unused8".(©¡–Çúÿÿÿÿ
+Q
+java:S1854‡":Remove this useless assignment to local variable "unused".(þ »ö
+H
+java:S1481¤",Remove this unused "unused4" local variable.(òÁŒïþÿÿÿÿ
+V
+java:S1854a";Remove this useless assignment to local variable "unused6".(‚Ô×¥þÿÿÿÿ
+E
+java:S3740á"/Provide the parametrized type for this generic.(Øùã
+o	java:S116:"URename this field "SYN_OBJECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šâ¥Žþÿÿÿÿ
+Q
+java:S1118Å":Add a private constructor to hide the implicit public one.(·ö³ù
+m
+java:S1104<"WMake mAppContext a static final constant or non-public and provide accessors if needed.(¡µ•ï
+V
+java:S1854L";Remove this useless assignment to local variable "unused2".(¬âòÆøÿÿÿÿ
+i
+java:S1104¾"RMake mState a static final constant or non-public and provide accessors if needed.(èŠ½Œ
+X
+java:S1141Ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8–å³¹Û.
+K
+java:S1905Ü"/Remove this unnecessary cast to "SimplePlayer".(ñ›èâúÿÿÿÿ
+C
+java:S10689"-Remove this unused "mInstance" private field.(ˆšü‹
+f	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þáÍà
+Q
+java:S1118Ý":Add a private constructor to hide the implicit public one.(ÿ¶î
+B
+java:S1481‡"+Remove this unused "unused" local variable.(þ »ö
+?
+java:S14448")Make this "public static TAG" field final(ãËó«

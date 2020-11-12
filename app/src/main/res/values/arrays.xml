@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="gdpr_countries">
+        <item>GR</item>
+        <item>NL</item>
+        <item>DK</item>
+        <item>DE</item>
+        <item>LV</item>
+        <item>RO</item>
+        <item>LU</item>
+        <item>LT</item>
+        <item>MT</item>
+        <item>BE</item>
+        <item>BG</item>
+        <item>SE</item>
+        <item>ES</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>IE</item>
+        <item>EE</item>
+        <item>GB</item>
+        <item>AT</item>
+        <item>IT</item>
+        <item>CZ</item>
+        <item>HR</item>
+        <item>CY</item>
+        <item>PT</item>
+        <item>PL</item>
+        <item>FR</item>
+        <item>FI</item>
+        <item>HU</item>
+        <item>IS</item>
+        <item>LI</item>
+        <item>NO</item>
+        <item>CH</item>
+    </array>
+    <array name="gdpr_mcc">
+        <item>202</item>
+        <item>204</item>
+        <item>238</item>
+        <item>262</item>
+        <item>247</item>
+        <item>226</item>
+        <item>270</item>
+        <item>246</item>
+        <item>278</item>
+        <item>206</item>
+        <item>284</item>
+        <item>240</item>
+        <item>214</item>
+        <item>231</item>
+        <item>293</item>
+        <item>272</item>
+        <item>248</item>
+        <item>234</item>
+        <item>232</item>
+        <item>222</item>
+        <item>230</item>
+        <item>219</item>
+        <item>280</item>
+        <item>268</item>
+        <item>260</item>
+        <item>208</item>
+        <item>244</item>
+        <item>216</item>
+        <item>274</item>
+        <item>295</item>
+        <item>242</item>
+        <item>228</item>
+    </array>
+    <array name="recording_quality">
+        <item>@string/recording_quality_high</item>
+        <item>@string/recording_quality_normal</item>
+        <item>@string/recording_quality_low</item>
+    </array>
+    <array name="storage_location">
+        <item>@string/device</item>
+        <item>@string/memory_card</item>
+    </array>
+    <array name="storage_location_nos">
+        <item>@string/internal_storage_detail_Path</item>
+        <item>@string/memory_card</item>
+    </array>
+    <array name="stt_language_default_locale">
+        <item>de_DE</item>
+        <item>en_GB</item>
+        <item>en_US</item>
+        <item>es_US</item>
+        <item>es_ES</item>
+        <item>fr_FR</item>
+        <item>it_IT</item>
+        <item>pt_BR</item>
+        <item>ru_RU</item>
+        <item>ko_KR</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+        <item>zh_SG</item>
+        <item>ja_JP</item>
+    </array>
+    <array name="stt_language_description">
+        <item>German</item>
+        <item>English (UK)</item>
+        <item>English (United States)</item>
+        <item>Spanish (Latin America)</item>
+        <item>Spanish (Spain)</item>
+        <item>French (France)</item>
+        <item>Italian</item>
+        <item>Portuguese (Brazil)</item>
+        <item>Russian</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Chinese (Taiwan)</item>
+        <item>Chinese (Hong Kong)</item>
+        <item>Chinese (Cantonese)</item>
+        <item>Japanese</item>
+    </array>
+    <array name="stt_language_locale">
+        <item>de-DE</item>
+        <item>en-GB</item>
+        <item>en-US</item>
+        <item>es-US</item>
+        <item>es-ES</item>
+        <item>fr-FR</item>
+        <item>it-IT</item>
+        <item>pt-BR</item>
+        <item>ru-RU</item>
+        <item>ko-KR</item>
+        <item>zh-CN</item>
+        <item>zh-TW</item>
+        <item>zh-HK</item>
+        <item>zh-SG</item>
+        <item>ja-JP</item>
+    </array>
+    <array name="stt_language_text">
+        <item>Deutsch</item>
+        <item>English (UK)</item>
+        <item>English (United States)</item>
+        <item>Español (América Latina)</item>
+        <item>Español (España)</item>
+        <item>Français (France)</item>
+        <item>Italiano</item>
+        <item>Português (Brasil)</item>
+        <item>Pусский</item>
+        <item>한국어</item>
+        <item>中文</item>
+        <item>中文 (台灣)</item>
+        <item>中文 (香港)</item>
+        <item>中文 (粤语)</item>
+        <item>日本語</item>
+    </array>
+    <array name="value_2">
+        <item>@null</item>
+        <item>1</item>
+    </array>
+    <array name="value_rec_quality">
+        <item>2</item>
+        <item>1</item>
+        <item>@null</item>
+    </array>
+</resources>

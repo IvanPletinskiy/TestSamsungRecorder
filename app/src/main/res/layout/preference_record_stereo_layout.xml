@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:background="@drawable/voice_ripple_preference_btn" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="@color/preference_outline_color" android:layout_width="0.5dp" android:layout_height="match_parent"/>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13dp" android:layout_marginBottom="13dp" android:layout_weight="1" android:layout_marginStart="?android:attr/listPreferredItemPaddingStart">
+        <TextView android:textSize="@dimen/setting_preference_main_text_size" android:textColor="@color/preference_title_color" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recording_stereo" android:singleLine="false"/>
+        <TextView android:textColor="@color/settings_spinner_item_text_checked_color" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="4" android:layout_below="@android:id/title" android:layout_alignStart="@android:id/title"/>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <View android:background="@color/line_window_bg" android:layout_width="2px" android:layout_height="22dp"/>
+<!--        <androidx.appcompat.widget.SwitchCompat android:id="@+id/overflow_menu_presenter" android:focusable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="12dp" android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"/>-->
+        <androidx.appcompat.widget.SwitchCompat android:id="@+id/overflow_menu_presenter" android:focusable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="12dp" android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"/>
+    </LinearLayout>
+    <View android:background="@color/preference_outline_color" android:layout_width="0.5dp" android:layout_height="match_parent"/>
+</LinearLayout>

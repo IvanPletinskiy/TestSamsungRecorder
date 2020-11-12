@@ -1,0 +1,90 @@
+
+H
+java:S1068F"2Remove this unused "mNextButtonImg" private field.(¾í‡Ğ
+m
+java:S1104A"WMake loadingView a static final constant or non-public and provide accessors if needed.(ä¨º´
+T
+java:S3878Ï"8Remove this array creation and simply pass the elements.(¤àÇÕùÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(å”îÁûÿÿÿÿ
+v
+java:S2637õ"ZParameter 3 to this call is marked "androidx.annotation.NonNull" but null could be passed.(üÀ“ìıÿÿÿÿ
+A
+java:S1172Ú"*Remove this unused method parameter "str".(à‡ä·
+Z
+java:S1144²">Remove this unused private "covertInputStreamToString" method.(™èÅ—ûÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜–¤½ıÿÿÿÿ
+J
+java:S1172š".Remove this unused method parameter "voidArr".(½ã¾®ÿÿÿÿÿ
+E
+java:S3740å"/Provide the parametrized type for this generic.(¨»Èa
+E
+java:S3740å"/Provide the parametrized type for this generic.(¨»Èa
+T
+java:S3878™"8Remove this array creation and simply pass the elements.(áğ…àÿÿÿÿÿ
+Œ
+java:S1319š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½ã¾®ÿÿÿÿÿ
+S
+java:S10685"8Remove this unused "LAUNCH_KOREA_WEB_TOS" private field.(Ò³ıûÿÿÿÿ
+p
+java:S1450¯"TRemove the "extra" field and declare it as a local variable in the relevant methods.(û§€ûúÿÿÿÿ
+ˆ
+java:S1130²"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(™èÅ—ûÿÿÿÿ
+T
+java:S10684"9Remove this unused "LAUNCH_COMMON_WEB_TOS" private field.(ùŒˆµøÿÿÿÿ
+>
+java:S10688"(Remove this unused "NAME" private field.(á 
+V
+java:S1874Ï":Remove this use of "MEASURED_SIZE_MASK"; it is deprecated.(¤àÇÕùÿÿÿÿ
+G
+java:S1172¦"+Remove this unused method parameter "view".(Š¹ı£ûÿÿÿÿ
+U
+java:S10686":Remove this unused "LAUNCH_PRIVACY_CONTENT" private field.(¥é„†şÿÿÿÿ
+G
+java:S1172€"+Remove this unused method parameter "view".(Ú”ö³øÿÿÿÿ
+
+java:S1319»"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ß§ŸÎùÿÿÿÿ
+i	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¹ı£ûÿÿÿÿ
+F
+java:S3740æ"/Provide the parametrized type for this generic.(¤¶Ÿ€
+t	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àï•‰úÿÿÿÿ
+\
+java:S3400"9Remove this method and declare a constant for this value.(ñª“ûÿÿÿÿ8ğ‡¢¸Û.
+`
+java:S1192?"JDefine a constant instead of duplicating this literal "SAVED_URL" 3 times.(ıÔ™¿
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú”ö³øÿÿÿÿ
+>
+java:S1185t"(Remove this method to simply inherit it.(öÿÕÅ
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ºÁ·
+D
+java:S10682")Remove this unused "f99ID" private field.(àï•‰úÿÿÿÿ
+@
+java:S1068;"+Remove this unused "SUCCESS" private field.(¥Â¾R
+A
+java:S1172•"*Remove this unused method parameter "str".(à‡ä·
+7
+java:S1170?"!Make this final field static too.(ıÔ™¿
+L
+java:S1172›"5Remove this unused method parameter "dialogFragment".(÷‰õ
+k
+java:S1104¶"UMake urlString a static final constant or non-public and provide accessors if needed.(Ô›ëk
+2
+java:S3626…"Remove this redundant jump.(ûÁİ…
+C
+java:S1068?"-Remove this unused "SAVED_URL" private field.(ıÔ™¿
+F
+java:S3740æ"/Provide the parametrized type for this generic.(¤¶Ÿ€
+i	java:S116?"TRename this field "SAVED_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÔ™¿
+E
+java:S1068¯")Remove this unused "extra" private field.(û§€ûúÿÿÿÿ
+E
+java:S1172²")Remove this unused method parameter "r6".(™èÅ—ûÿÿÿÿ
+E
+java:S1144¼".Remove this unused private "parseJSON" method.(’¯³›
+v
+java:S2637ÿ"ZParameter 3 to this call is marked "androidx.annotation.NonNull" but null could be passed.(íïÌÒüÿÿÿÿ
+s
+java:S1450H"XRemove the "mSavedURL" field and declare it as a local variable in the relevant methods.(…æ˜äüÿÿÿÿ
+L
+java:S1144£"5Remove this unused private "enableNextButton" method.(í‰Ù

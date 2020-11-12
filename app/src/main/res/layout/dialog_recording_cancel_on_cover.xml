@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="top" android:layout_gravity="top" android:orientation="vertical" android:paddingTop="@dimen/cover_dialog_top_padding" android:paddingBottom="14dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="17dp" android:paddingEnd="17dp">
+        <TextView android:textSize="19dp" android:textStyle="bold" android:textColor="#252525" android:gravity="left|center_vertical|center_horizontal|center|start" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/cancel" android:fontFamily="sans-serif-medium"/>
+    </LinearLayout>
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginTop="8dp" android:fillViewport="true" android:layout_weight="1" android:paddingStart="17dp" android:paddingEnd="17dp">
+        <TextView android:textSize="17sp" android:textColor="#252525" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/cover_canceldialog_content" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/cancel_recording_message" android:lineSpacingExtra="4sp" android:fontFamily="sans-serif"/>
+    </ScrollView>
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="36dp" android:layout_marginBottom="30dp" android:paddingStart="17dp" android:paddingEnd="17dp">
+        <Button android:textSize="16dp" android:textStyle="bold" android:id="@+id/cover_canceldialog_cancel" android:background="@null" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="0dp" android:text="@string/cancel" android:fontFamily="sans-serif" android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+        <Button android:textSize="16dp" android:textStyle="bold" android:id="@+id/cover_canceldialog_ok" android:background="@null" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="0dp" android:text="@string/ok" android:fontFamily="sans-serif" android:layout_marginStart="8dp"/>
+        <Button android:textSize="16dp" android:textStyle="bold" android:id="@+id/cover_canceldialog_discard" android:background="@null" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="0dp" android:text="@string/discard" android:fontFamily="sans-serif" android:layout_marginStart="8dp"/>
+    </LinearLayout>
+</LinearLayout>

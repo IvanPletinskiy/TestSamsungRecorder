@@ -1,0 +1,89 @@
+
+P
+java:S1068I"5Remove this unused "MSG_SHOW_PROGRESS" private field.(½Æïÿÿÿÿÿ
+M
+java:S1068D"2Remove this unused "MSG_DELAY_SAVE" private field.(Œñô¶ùÿÿÿÿ
+8	java:S131Ñ""Add a default case to this switch.(ış¼Ë
+d	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªùã‡
+7	java:S131ş""Add a default case to this switch.(ìúÇV
+i	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á©¬‚ıÿÿÿÿ
+z
+java:S1104V"_Make mCurrentFrameNumber a static final constant or non-public and provide accessors if needed.(›ó€ãüÿÿÿÿ
+U
+java:S1068?":Remove this unused "MAX_DOT_ANIMATION_TIME" private field.(æš¬İøÿÿÿÿ
+L
+java:S2696®"6Make the enclosing method "static" or remove this set.(İ×Y
+i
+java:S3776å	"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(÷‰õ
+B
+java:S1481s",Remove this unused "unused2" local variable.(ò¾à
+R
+java:S2696«"6Make the enclosing method "static" or remove this set.(©ÖÒ«ıÿÿÿÿ
+G
+java:S1172ù"+Remove this unused method parameter "view".(á©¬‚ıÿÿÿÿ
+d	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÔàÙ
+R
+java:S2696°"6Make the enclosing method "static" or remove this set.(Ö¼’üÿÿÿÿ
+g	java:S128‰"LEnd this switch case with an unconditional break, return or throw statement.(ÁÙÈúÿÿÿÿ
+P
+java:S1068F"5Remove this unused "MSG_HIDE_PROGRESS" private field.(ù©ŠÈúÿÿÿÿ
+S
+java:S1068A"8Remove this unused "MAX_KEEP_SCROLL_TIME" private field.(ê¥•Ìÿÿÿÿÿ
+R
+java:S2696­"6Make the enclosing method "static" or remove this set.(“ØÓ¼üÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂæÌ‘
+i	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æœ ÿÿÿÿÿ
+P
+java:S3516Ø"9Refactor this method to not always return the same value.(ùÔàÙ
+H
+java:S1068H"2Remove this unused "MSG_SHOW_ERROR" private field.(¸ŞõÜ
+U
+java:S1854n":Remove this useless assignment to local variable "unused".(ÑÇ ¹üÿÿÿÿ
+M
+java:S1068="2Remove this unused "FLAG_EXCLUSIVE" private field.(ÿôÄõùÿÿÿÿ
+i	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Û¦Šÿÿÿÿÿ
+<	java:S131a""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+i
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(ÊºÒ
+Q
+java:S1854s";Remove this useless assignment to local variable "unused2".(ò¾à
+G
+java:S1172»"+Remove this unused method parameter "view".(«ì°¾üÿÿÿÿ
+B
+java:S1172Ø"+Remove this unused method parameter "view".(ùÔàÙ
+P
+java:S1068E"5Remove this unused "MSG_DOT_ANIMATION" private field.(Ú¨æ¨ûÿÿÿÿ
+L
+java:S1068@"1Remove this unused "MAX_EDIT_TIME" private field.(øç‹§úÿÿÿÿ
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(á©¬‚ıÿÿÿÿ
+i	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ì°¾üÿÿÿÿ
+F
+java:S1066õ"/Merge this if statement with the enclosing one.(Û€Úâ
+L
+java:S1172å	"5Remove this unused method parameter "dialogFragment".(÷‰õ
+8
+java:S2386M"Make this member "protected".(†¦ı¼şÿÿÿÿ
+G
+java:S1172ç"+Remove this unused method parameter "view".(Æœ ÿÿÿÿÿ
+R
+java:S2696¬"6Make the enclosing method "static" or remove this set.(ÑÓŞ˜ıÿÿÿÿ
+M
+java:S2696¯"6Make the enclosing method "static" or remove this set.(«¢å
+b	java:S128ÿ"LEnd this switch case with an unconditional break, return or throw statement.(¬­º³
+2
+java:S3626©"Remove this redundant jump.(ûÁİ…
+N
+java:S1068G"3Remove this unused "MSG_SCROLL_MOVE" private field.(Ñ©Šşøÿÿÿÿ
+q
+java:S1104"ZMake mIsScrollMoved a static final constant or non-public and provide accessors if needed.(š¥¾
+T
+java:S3516]"9Refactor this method to not always return the same value.(‰Ô€çùÿÿÿÿ
+i
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ªùã‡
+B
+java:S1172Ò"&Remove these unused method parameters.(›Û¦Šÿÿÿÿÿ
+M
+java:S2696®"6Make the enclosing method "static" or remove this set.(ÂµéË
+i	java:S100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ïŒøÿÿÿÿ

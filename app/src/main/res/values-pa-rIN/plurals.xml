@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਰਿਕਾਰਡਿੰਗ ਕਰਦੇ ਸਮੇਂ %d ਕਾੱਲ ਬਲੌਕ ਕੀਤੀ ਗਈ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਰਿਕਾਰਡਿੰਗ ਕਰਦੇ ਸਮੇਂ %d ਕਾੱਲਸ ਨੂੰ ਬਲੌਕ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਕੀ %d ਸ਼੍ਰੇਣੀ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਕੀ %d ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ਘੰਟਾ</item>
+        <item quantity="other">%d ਘੰਟੇ</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 ਮਿੰਟ</item>
+        <item quantity="other">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 ਸਕਿੰਟ</item>
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਆਈਟਮਸ ਨੂੰ %d ਦਿਨ ਬਾਅਦ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਆਈਟਮਸ ਨੂੰ %d ਦਿਨਾਂ ਬਾਅਦ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਆਈਟਮਸ ਨੂੰ %d ਦਿਨ ਬਾਅਦ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਆਪਣਾ SD ਕਾਰਡ ਹਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ, ਟ੍ਰੈਸ਼ ਨੂੰ ਖਾਲੀ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਉਸ ਵਿੱਚ ਮੌਜੂਦ ਹਰ ਚੀਜ਼ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਟਾ ਦਿੱਤੀ ਗਈ ਹੈ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਆਈਟਮਸ ਨੂੰ %d ਦਿਨਾਂ ਬਾਅਦ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਆਪਣਾ SD ਕਾਰਡ ਹਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ, ਟ੍ਰੈਸ਼ ਨੂੰ ਖਾਲੀ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਉਸ ਵਿੱਚ ਮੌਜੂਦ ਹਰ ਚੀਜ਼ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਟਾ ਦਿੱਤੀ ਗਈ ਹੈ।</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਕੀ %d ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੂਵ ਕਰਨਾ ਹੈ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਕੀ %d ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਮੂਵ ਕਰਨਾ ਹੈ?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਮਿਟਾਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਨ੍ਹਾਂ ਨੂੰ %d ਦਿਨ ਲਈ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਰੱਖੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਮਿਟਾਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਨ੍ਹਾਂ ਨੂੰ %d ਦਿਨਾਂ ਲਈ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਰੱਖੋ।</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਕੋਈ ਵੀ ਰਿਕਾਰਡਿੰਗਸ ਜੋ ਤੁਸੀਂ ਮਿਟਾ ਦਿੰਦੇ ਹੋ ਉਨ੍ਹਾਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ %d ਦਿਨ ਲਈ ਇੱਥੇ ਰੱਖਿਆ ਜਾਵੇਗਾ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਕੋਈ ਵੀ ਰਿਕਾਰਡਿੰਗਸ ਜੋ ਤੁਸੀਂ ਮਿਟਾ ਦਿੰਦੇ ਹੋ ਉਨ੍ਹਾਂ ਨੂੰ ਹਮੇਸ਼ਾ ਲਈ ਮਿਟਾਉਣ ਤੋਂ ਪਹਿਲਾਂ %d ਦਿਨਾਂ ਲਈ ਇੱਥੇ ਰੱਖਿਆ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ ਸਥਾਈ ਤੌਰ ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਹਮੇਸ਼ਾ ਮਿਟਾਏ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਮਿਟਾਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ %d ਦਿਨ ਲਈ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਰੱਖਿਆ ਜਾਵੇਗਾ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਹਮੇਸ਼ਾ ਮਿਟਾਏ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਮਿਟਾਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਸ ਨੂੰ %d ਦਿਨਾਂ ਲਈ ਟ੍ਰੈਸ਼ ਵਿੱਚ ਰੱਖਿਆ ਜਾਵੇਗਾ।</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਰਿਕਾਰਡਿੰਗ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ਰਿਕਾਰਡਿੰਗਸ</item>
+    </plurals>
+</resources>

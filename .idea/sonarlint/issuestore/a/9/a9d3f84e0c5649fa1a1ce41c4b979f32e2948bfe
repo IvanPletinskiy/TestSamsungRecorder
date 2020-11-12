@@ -1,0 +1,11 @@
+
+U
+java:S3516‹"9Refactor this method to not always return the same value.(Š¸¸èýÿÿÿÿ
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ì¼‹
+A
+java:S1172M"+Remove this unused method parameter "view".(·ì¼‹
+b	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ˆ½A
+@
+java:S1172W"+Remove this unused method parameter "view".(®ˆ½A
+Q
+java:S2696|"6Make the enclosing method "static" or remove this set.(†í¶—üÿÿÿÿ

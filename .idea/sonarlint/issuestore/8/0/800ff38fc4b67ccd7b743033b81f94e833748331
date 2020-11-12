@@ -1,0 +1,29 @@
+
+p	java:S116!"[Rename this field "ACCESSIBILITY_ON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔªŞ¨
+c	java:S1169"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô˜Í«
+c
+java:S5361d"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÛŠ·ùÿÿÿÿ
+B
+java:S1172‰"+Remove this unused method parameter "view".(íé¢ñ
+F
+java:S1172g"+Remove this unused method parameter "view".(Ğ¸™áúÿÿÿÿ
+c	java:S100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É–ø
+h
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(™ºÓ
+J
+java:S1068!"4Remove this unused "ACCESSIBILITY_ON" private field.(ÔªŞ¨
+<
+java:S1172F"&Remove these unused method parameters.(É–ø
+\
+java:S3027c"FPut single-quotes around '#' to use the faster "indexOf(char)" method.(–áÈ£
+>
+java:S1185P"(Remove this method to simply inherit it.(úÑ¡î
+=
+java:S1185q"(Remove this method to simply inherit it.(¤ÊŠ
+d	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íé¢ñ
+7
+java:S1170!"!Make this final field static too.(ÔªŞ¨
+t
+java:S1171;"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+\
+java:S3027b"FPut single-quotes around '#' to use the faster "indexOf(char)" method.(Ùâ³Á

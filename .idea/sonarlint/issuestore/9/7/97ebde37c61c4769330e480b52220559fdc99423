@@ -1,0 +1,23 @@
+
+=
+java:S1168 "&Return an empty array instead of null.(¥¹ï
+C
+java:S1168{"&Return an empty array instead of null.(¥¹ï8½©¹Û.
+=
+java:S1168"&Return an empty array instead of null.(¥¹ï
+K
+java:S1854r"5Remove this useless assignment to local variable "e".(ÃŠÓ²
+h
+java:S1192-"MDefine a constant instead of duplicating this literal "SpeexEncoder" 7 times.(üæ¹üÿÿÿÿ
+g	java:S116"RRename this field "spx_enc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÆñ
+<
+java:S1168K"&Return an empty array instead of null.(¥¹ï
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıëÃàüÿÿÿÿ
+<
+java:S1168#"&Return an empty array instead of null.(¥¹ï
+?
+java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+java:S1141l"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+E
+java:S1656r"/Remove or correct this useless self-assignment.(ÃŠÓ²

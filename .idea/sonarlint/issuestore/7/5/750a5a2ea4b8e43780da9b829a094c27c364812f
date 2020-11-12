@@ -1,0 +1,113 @@
+
+m
+java:S1104"WMake mTvOkButton a static final constant or non-public and provide accessors if needed.(ãßø
+d	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÔŒù
+l
+java:S1104["VMake mInputView a static final constant or non-public and provide accessors if needed.(¸¡ÎÅ
+M
+java:S1172 "6Remove this unused method parameter "dialogInterface".(«³¶
+T
+java:S3878¨"8Remove this array creation and simply pass the elements.(Ï•ßàıÿÿÿÿ
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(  á—
+r
+java:S1104Q"\Make mCategorySpinner a static final constant or non-public and provide accessors if needed.(éÉÛ®
+e
+java:S1192ò"IUse already-defined constant 'TAG' instead of duplicating its value here.(‡ÂŠëüÿÿÿÿ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ô¯ë•úÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äÿ¡€
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 90 to the 15 allowed.(  á—
+Q
+java:S1854g";Remove this useless assignment to local variable "unused2".(Çë¯
+i	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğµÄ´ùÿÿÿÿ
+=
+java:S1172"&Remove these unused method parameters.(Äÿ¡€
+o
+java:S1104v"YMake mPreviousName a static final constant or non-public and provide accessors if needed.(¿ıÕ¤
+=
+java:S1172˜"&Remove these unused method parameters.(î¡·ş
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«³¶
+V
+java:S1854ë":Remove this useless assignment to local variable "unused".(»ªÙøÿÿÿÿ
+H
+java:S2275¬",An 'int' is expected rather than a Object[].(Ÿ“ƒåıÿÿÿÿ
+B
+java:S1068M"'Remove this unused "TAG" private field.(û·Îøÿÿÿÿ
+v
+java:S1104b"[Make mIsNewRecording a static final constant or non-public and provide accessors if needed.(ÄÒ‹ƒúÿÿÿÿ
+o
+java:S1128)"TRemove this unnecessary import: same package classes are always implicitly imported.(§„¿€üÿÿÿÿ
+s
+java:S1104Y"XMake mInputLayout a static final constant or non-public and provide accessors if needed.(ó›ßşÿÿÿÿ
+L
+java:S1172Ì"5Remove this unused method parameter "dialogFragment".(÷‰õ
+P
+java:S1854f":Remove this useless assignment to local variable "unused".(Îû‘ò
+i	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ğşüÿÿÿÿ
+
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ¢®Êøÿÿÿÿ
+i	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÄ§ıÿÿÿÿ
+s
+java:S1104|"XMake mTotalLength a static final constant or non-public and provide accessors if needed.(òËõ±øÿÿÿÿ
+˜
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼‹¶Ã
+[
+java:S1144¼"?Remove this unused private "setHorizontalOffsetSpinner" method.(îÀ×şÿÿÿÿ
+d
+java:S1192‰"MDefine a constant instead of duplicating this literal "input_method" 3 times.(ÿìÄ‘
+y
+java:S1104^"^Make mIsKeyboardVisible a static final constant or non-public and provide accessors if needed.(®µ©¢ÿÿÿÿÿ
+p
+java:S1104t"ZMake mOriginalTitle a static final constant or non-public and provide accessors if needed.(ã„†Ç
+x
+java:S1104S"]Make mCategoryTextView a static final constant or non-public and provide accessors if needed.(³ñœóøÿÿÿÿ
+=
+java:S1172±"&Remove these unused method parameters.(ÛâÒ
+d	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ê×Ù
+I
+java:S1068K".Remove this unused "MAX_LENGTH" private field.(è¶ÍÈúÿÿÿÿ
+B
+java:S1172¨"+Remove this unused method parameter "view".(  á—
+o
+java:S1104k"TMake mLabelID a static final constant or non-public and provide accessors if needed.(„İÿƒüÿÿÿÿ
+t
+java:S1450}"^Remove the "mTvCancelButton" field and declare it as a local variable in the relevant methods.(ÛÛ¯
+N
+java:S3985¥"2Remove this unused private "InputErrorType" class.(³›ıîøÿÿÿÿ
+B
+java:S1481g",Remove this unused "unused2" local variable.(Çë¯
+d	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¡·ş
+H
+java:S2275¨",An 'int' is expected rather than a Object[].(Ï•ßàıÿÿÿÿ
+A
+java:S1481f"+Remove this unused "unused" local variable.(Îû‘ò
+G
+java:S1172ñ"+Remove this unused method parameter "view".(ÈÄ§ıÿÿÿÿ
+t	java:S135ø"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+p
+java:S1104`"ZMake mIsNameChanged a static final constant or non-public and provide accessors if needed.(†¤å
+d	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö»×›
+k
+java:S1104p"UMake mOKButton a static final constant or non-public and provide accessors if needed.(ÀÕ¹
+c	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áè±A
+I
+java:S1172e".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+d
+java:S1854‰"FRemove this useless assignment to local variable "inputMethodManager".(ÿìÄ‘8ÇÑöºÛ.
+G
+java:S1481ë"+Remove this unused "unused" local variable.(»ªÙøÿÿÿÿ
+T
+java:S3878¬"8Remove this array creation and simply pass the elements.(Ÿ“ƒåıÿÿÿÿ
+U
+java:S1481‰"7Remove this unused "inputMethodManager" local variable.(ÿìÄ‘8ÇÑöºÛ.
+O
+java:S3516İ"9Refactor this method to not always return the same value.(áè±A
+B
+java:S1172í"+Remove this unused method parameter "view".(–Ê×Ù
+s
+java:S1104y"XMake mReceiveTime a static final constant or non-public and provide accessors if needed.(úÄ¡…şÿÿÿÿ
+A
+java:S1172İ"+Remove this unused method parameter "view".(áè±A
+˜
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±îÀí

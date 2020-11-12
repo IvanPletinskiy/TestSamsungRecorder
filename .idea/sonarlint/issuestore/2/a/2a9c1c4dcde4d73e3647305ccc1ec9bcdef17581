@@ -1,0 +1,48 @@
+
+N
+java:S1068-",Remove this unused "TAG_WLAN" private field.(ÆÄ¸ùÿÿÿÿ8šÜï¸Û.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(†¥Èöøÿÿÿÿ
+K
+java:S1172M".Remove this unused method parameter "context".(óØû­8ŠÏí¸Û.
+c
+java:S1068*"ARemove this unused "TAG_RECORDING_ALLOWED_BY_MENU" private field.(×¨°åüÿÿÿÿ8ÜÚð¸Û.
+Q
+java:S1068";Remove this unused "FLAG_ENABLE_TRANSLATION" private field.(‘ãÆ 
+=
+java:S1168«"&Return an empty array instead of null.(¥¹ï
+j
+java:S1192´"SUse already-defined constant 'TAG_INTERVIEW' instead of duplicating its value here.(î¼œ¡
+L
+java:S1068)"1Remove this unused "TAG_INTERVIEW" private field.(·³ùÿÿÿÿ
+d	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž²Ù¦
+W
+java:S3516é"9Refactor this method to not always return the same value.(‚‡šò8ŠÏí¸Û.
+Q
+java:S1068'"4Remove this unused "TAG_CALL_HISTORY" private field.(ô³þí8ÜÚð¸Û.
+i	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºšÃØþÿÿÿÿ
+Z
+java:S1144Æ"7Remove this unused private "isSupportVoiceMemo" method.( £€üüÿÿÿÿ8ŠÏí¸Û.
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØû­
+3
+java:S2386."Make this member "protected".(šŽÉ‰
+X
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(¬¾…å
+—
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ðÿ÷
+d	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚‡šò
+]
+java:S1126ï"AReplace this if-then-else statement by a single return statement.(¼Î˜’þÿÿÿÿ
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÜÆ»
+z
+java:S1104."dMake mSupportEditAndVoicememo a static final constant or non-public and provide accessors if needed.(šŽÉ‰
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ù¼Ïúÿÿÿÿ
+M
+java:S1068("0Remove this unused "TAG_CARDMODE" private field.(´ÇÒÊ8—Ñî¸Û.
+J
+java:S1068+"-Remove this unused "TAG_RWP2P" private field.(Æî™´8õî¸Û.
+i	java:S100þ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùü¿¨ûÿÿÿÿ
+T
+java:S1444.">Make this "public static mSupportEditAndVoicememo" field final(šŽÉ‰
+Z
+java:S2589ï"7Remove this expression which always evaluates to "true"(¼Î˜’þÿÿÿÿ8ŠÏí¸Û.

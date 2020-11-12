@@ -1,0 +1,21 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(›Áõõþÿÿÿÿ
+t
+java:S1171t"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+h	java:S116r"NRename this field "f$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡¬éúÿÿÿÿ
+W
+java:S1126|"AReplace this if-then-else statement by a single return statement.(™ÑÏº
+E
+java:S1068"/Remove this unused "mAppContext" private field.(“½µò
+p
+java:S1450"ZRemove the "mAppContext" field and declare it as a local variable in the relevant methods.(“½µò
+b
+java:S1871)"LThis branch's code block is the same as the block for the branch on line 38.(¹ŒØÓ
+\
+java:S1126X"AReplace this if-then-else statement by a single return statement.(÷Ç²Çÿÿÿÿÿ
+T
+java:S1068	">Remove this unused "LOW_STORAGE_SAFE_THRESHOLD" private field.(þ˜÷ƒ
+O
+java:S1068
+"9Remove this unused "LOW_STORAGE_THRESHOLD" private field.(œ¨ïÈ

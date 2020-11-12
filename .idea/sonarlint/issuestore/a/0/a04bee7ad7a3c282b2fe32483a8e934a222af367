@@ -1,0 +1,98 @@
+
+Q
+java:S1141Ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181•"%Catch Exception instead of Throwable.(öÜğÕüÿÿÿÿ
+[
+java:S2259à	"DA "NullPointerException" could be thrown; "cursor" is nullable here.(®¶ëü
+[
+java:S2583–"DChange this condition so that it does not always evaluate to "false"(ˆ’¢
+F
+java:S1172›"*Remove this unused method parameter "r17".(¾‹œøÿÿÿÿ
+N
+java:S2589ö
+"7Remove this expression which always evaluates to "true"(ˆ’¢
+b
+java:S1192ê	"FDefine a constant instead of duplicating this literal "title" 3 times.(”Œ·üøÿÿÿÿ
+G
+java:S1172‚"+Remove this unused method parameter "lArr".(ÿÉúşÿÿÿÿ
+K
+java:S1066È"/Merge this if statement with the enclosing one.(šœÖŠÿÿÿÿÿ
+F
+java:S1656¯"/Remove or correct this useless self-assignment.(ÃŠÓ²
+|
+java:S1192ˆ"`Define a constant instead of duplicating this literal "file is not exist to be updated" 3 times.(¢ŠçÜûÿÿÿÿ
+N
+java:S2589‰"7Remove this expression which always evaluates to "true"(ˆ’¢
+n
+java:S3776è
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦ÑÜÿÿÿÿÿ
+[
+java:S2259«"DA "NullPointerException" could be thrown; "cursor" is nullable here.(®¶ëü
+Q
+java:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[
+java:S2583¼"DChange this condition so that it does not always evaluate to "false"(ˆ’¢
++
+java:S2275İ"Not enough arguments.(Û×
+A
+java:S1181œ"%Catch Exception instead of Throwable.(êÚ¸øÿÿÿÿ
+P
+java:S1144É"4Remove this unused private "arabicToDecimal" method.(¨¦Ûşÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+E
+java:S3740²"/Provide the parametrized type for this generic.(¨»Èa
+N
+java:S2589—"7Remove this expression which always evaluates to "true"(Ğ×©Š
+A
+java:S1181Ñ"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+e
+java:S1192î
+"IDefine a constant instead of duplicating this literal "external" 3 times.(æ©Ìëúÿÿÿÿ
+[
+java:S2259§"DA "NullPointerException" could be thrown; "cursor" is nullable here.(®¶ëü
+m
+java:S1104 "WMake mAppContext a static final constant or non-public and provide accessors if needed.(ìŞ…º
+]
+java:S1192§"FDefine a constant instead of duplicating this literal "_data" 4 times.(±ò
+Q
+java:S1141Ñ	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S1192à"ODefine a constant instead of duplicating this literal "recording_mode" 6 times.(Áãí†şÿÿÿÿ
+N
+java:S2589‘"7Remove this expression which always evaluates to "true"(ˆ’¢
+h	java:S101ı"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äßÎƒùÿÿÿÿ
+N
+java:S3878İ"8Remove this array creation and simply pass the elements.(Û×
+Q
+java:S1141ğ
+"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f
+java:S1192³"JDefine a constant instead of duplicating this literal "_data = ?" 5 times.(µÅ©ãúÿÿÿÿ
+E
+java:S3740²"/Provide the parametrized type for this generic.(¨»Èa
+N
+java:S2589×	"7Remove this expression which always evaluates to "true"(ˆ’¢
+A
+java:S1172±"*Remove this unused method parameter "r24".(·— ³
+[
+java:S2259"DA "NullPointerException" could be thrown; "cursor" is nullable here.(®¶ëü
+<
+java:S1181Õ"%Catch Exception instead of Throwable.(áù«õ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+F
+java:S1656â"/Remove or correct this useless self-assignment.(ÃŠÓ²
+h
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ï¨§
+U
+java:S3516ë"9Refactor this method to not always return the same value.(šŸşûÿÿÿÿ
+U
+java:S3516Ô"9Refactor this method to not always return the same value.(öª£ÿÿÿÿÿ
+v
+java:S4165¯"_Remove this useless assignment; "e" already holds the assigned value along all execution paths.(ÃŠÓ²
+j
+java:S1192"SDefine a constant instead of duplicating this literal "constraint failed." 3 times.(Ş¿½‘
+c
+java:S2259Ò"@A "NullPointerException" could be thrown; "th" is nullable here.(Ëõ«üÿÿÿÿ8ò­‚¼Û.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/voice_ripple_preference_btn" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="@color/preference_outline_color" android:layout_width="0.5dp" android:layout_height="match_parent"/>
+    <TextView android:textSize="@dimen/setting_preference_main_text_size" android:textColor="@color/preference_title_color" android:ellipsize="marquee" android:layout_gravity="center_vertical" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1" android:layout_marginStart="?android:attr/listPreferredItemPaddingStart"/>
+    <LinearLayout android:layout_gravity="center_vertical" android:id="@+id/about_badge_bg" android:background="@drawable/noti_badge" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="@dimen/noti_badge_height" android:layout_height="@dimen/noti_badge_height" android:layout_marginEnd="?android:attr/listPreferredItemPaddingEnd">
+        <TextView android:textSize="12dp" android:textColor="#fafafa" android:gravity="center" android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:text="1"/>
+    </LinearLayout>
+    <View android:background="@color/preference_outline_color" android:layout_width="0.5dp" android:layout_height="match_parent"/>
+</LinearLayout>

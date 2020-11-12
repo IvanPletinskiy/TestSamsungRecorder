@@ -1,0 +1,2 @@
+rootProject.name='TestSamsungRecorder'
+include ':app'

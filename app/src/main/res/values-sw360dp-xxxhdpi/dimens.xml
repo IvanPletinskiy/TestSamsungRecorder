@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="category_list_add_button_margin_start">18dp</dimen>
+    <dimen name="category_list_item_margin_start">24dp</dimen>
+    <dimen name="category_management_list_checkbox_margin_start">18dp</dimen>
+    <dimen name="category_management_list_padding_bottom">15dp</dimen>
+    <dimen name="category_management_list_padding_top">14dp</dimen>
+    <dimen name="category_management_list_recorder_btn_padding_left">20dp</dimen>
+    <dimen name="go_to_top_bottom_padding">23dp</dimen>
+    <dimen name="help_mode_ok_button_top_margin">84dp</dimen>
+    <dimen name="help_overwrite_image_padding">9dp</dimen>
+    <dimen name="help_overwrite_ok_button_top_margin">84dp</dimen>
+    <dimen name="idle_stt_total_height">231dp</dimen>
+    <dimen name="info_description_height">102dp</dimen>
+    <dimen name="listrow_divider_padding_end">20dp</dimen>
+    <dimen name="listrow_divider_padding_start">64dp</dimen>
+    <dimen name="listrow_icon_layout_margin_start">20dp</dimen>
+    <dimen name="listrow_layout_margin_end">24dp</dimen>
+    <dimen name="listrow_miniplay_icon_margin_start">16dp</dimen>
+    <dimen name="listrow_seekbar_end_margin">26dp</dimen>
+    <dimen name="main_controlbutton_margin_bottom">36dp</dimen>
+    <dimen name="main_tab_layout_item_width_reduce">0.5dp</dimen>
+    <dimen name="main_tab_layout_space_size">9dp</dimen>
+    <dimen name="main_tab_vertical_margin">20dp</dimen>
+    <dimen name="main_wave_height">256dp</dimen>
+    <dimen name="no_recordings_description_margin_top">25dp</dimen>
+    <dimen name="voice_label_image_height">228dp</dimen>
+    <dimen name="voice_label_image_margin">20dp</dimen>
+    <dimen name="wave_repeat_handler_width">1dp</dimen>
+    <dimen name="wave_scrollview_bottom_margin_normal">10dp</dimen>
+    <dimen name="wave_view_interview_top_bottom_height">106.5dp</dimen>
+    <dimen name="wave_view_interview_total_height">231dp</dimen>
+    <dimen name="wave_view_standard_total_height">231dp</dimen>
+    <dimen name="wave_view_voicememo_total_height">132dp</dimen>
+</resources>

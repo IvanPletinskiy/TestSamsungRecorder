@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">สายโทรเข้า %d สายถูกบล็อกขณะบันทึก</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ลบ %d หมวดหมู่หรือไม่</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ชั่วโมง</item>
+        <item quantity="other">%d ​ชั่วโมง</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 ​นาที</item>
+        <item quantity="other">%d ​นาที</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 ​วินาที</item>
+        <item quantity="other">%d ​วินาที</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">รายการในถังขยะจะถูกลบถาวรหลังจาก %d วัน</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">รายการในถังขยะจะถูกลบถาวรหลังจาก %d วัน ก่อนถอด SD การ์ดของคุณออก ให้ลบรายการทั้งหมดในถังขยะเพื่อให้แน่ใจว่าลบทุกสิ่งในนั้นอย่างสมบูรณ์แล้ว</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ย้ายการบันทึก %d รายการไปยังถังขยะหรือไม่</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">เก็บการบันทึกที่ลบในถังขยะนาน %d วันก่อนจะลบถาวร</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">การบันทึกที่คุณลบจะอยู่ที่นี่นาน %d วันก่อนจะถูกลบถาวร</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">การบันทึก %d รายการจะถูกลบถาวร</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">การบันทึกที่ลบจะอยู่ในถังขยะนาน %d วันก่อนจะถูกลบถาวร</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">การบันทึก %d รายการ</item>
+    </plurals>
+</resources>

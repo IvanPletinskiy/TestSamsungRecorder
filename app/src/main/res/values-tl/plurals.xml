@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tawag ang na-block habang nagre-record</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d tawag ang na-block habang nagre-record</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Magtanggal ng %d kategorya?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Magtanggal ng %d kategorya?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 oras</item>
+        <item quantity="other">%d (na) oras</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 minuto</item>
+        <item quantity="other">%d (na) minuto</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 segundo</item>
+        <item quantity="other">%d (na) segundo</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Permanenteng tatanggalin ang mga item na nasa Trash pagkalipas ng %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Permanenteng tatanggalin ang mga item na nasa Trash pagkalipas ng %d araw.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Permanenteng tatanggalin ang mga item na nasa Trash pagkalipas ng %d araw. Bago alisin ang SD card mo, bakantehin ang Trash para matiyak na ganap na natanggal ang lahat ng naroroon.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Permanenteng tatanggalin ang mga item na nasa Trash pagkalipas ng %d araw. Bago alisin ang SD card mo, bakantehin ang Trash para matiyak na ganap na natanggal ang lahat ng naroroon.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ilipat ang %d recording sa Trash?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ilipat ang %d recording sa Trash?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Panatilihing nasa Trash ang mga tinanggal na recording nang %d araw bago tanggalin ang mga ito nang tuluyan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Panatilihing nasa Trash ang mga tinanggal na recording nang %d araw bago tanggalin ang mga ito nang tuluyan.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Mananatili rito nang %d araw ang anumang recording na tatanggalin mo bago permanenteng tanggalin ang mga iyon.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mananatili rito nang %d araw ang anumang recording na tatanggalin mo bago permanenteng tanggalin ang mga iyon.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d recording ang permanenteng tatanggalin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d recording ang permanenteng tatanggalin.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Mananatili sa Trash ang mga tinanggal na recording nang %d araw bago tuluyang tanggalin ang mga ito.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Mananatili sa Trash ang mga tinanggal na recording nang %d araw bago tuluyang tanggalin ang mga ito.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d recording</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d recording</item>
+    </plurals>
+</resources>

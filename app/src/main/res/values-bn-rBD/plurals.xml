@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">রেকর্ড করার সময় %dটি কল ব্লক করা হয়েছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">রেকর্ড করার সময় %dটি কল ব্লক করা হয়েছে</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি বিভাগ মুছে ফেলবেন?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dটি বিভাগ মুছে ফেলবেন?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ঘণ্টা</item>
+        <item quantity="other">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">এক মিনিট</item>
+        <item quantity="other">%d মিনিট</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 সেকেন্ড</item>
+        <item quantity="other">%d সেকেন্ড</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ট্র্যাশে থাকা আইটেমগুলো %d দিন পর স্থায়ীভাবে মুছে যাবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ট্র্যাশে থাকা আইটেমগুলো %d দিন পর স্থায়ীভাবে মুছে যাবে।</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ট্র্যাশে থাকা আইটেমগুলো %d দিন পর স্থায়ীভাবে মুছে যাবে। আপনার SD কার্ড খোলার আগে, সেটিতে থাকা সবকিছু সম্পূর্ণভাবে মুছে ফেলা নিশ্চিত করতে ট্র্যাশ খালি করুন৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ট্র্যাশে থাকা আইটেমগুলো %d দিন পর স্থায়ীভাবে মুছে যাবে। আপনার SD কার্ড খোলার আগে, সেটিতে থাকা সবকিছু সম্পূর্ণভাবে মুছে ফেলা নিশ্চিত করতে ট্র্যাশ খালি করুন৷</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি রেকর্ডিং ট্র্যাশে সরাবেন?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dটি রেকর্ডিং ট্র্যাশে সরাবেন?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">মুছে ফেলা রেকর্ডিংগুলো চিরতরে মুছে যাওয়ার আগে %d দিন ট্র্যাশে রাখুন৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">মুছে ফেলা রেকর্ডিংগুলো চিরতরে মুছে যাওয়ার আগে %d দিন ট্র্যাশে রাখুন৷</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপনি কোনো রেকর্ডিং মুছে ফেললে সেগুলো চিরতরে মুছে ফেলার আগে %d দিন এখানে থাকবে৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপনি কোনো রেকর্ডিং মুছে ফেললে সেগুলো চিরতরে মুছে ফেলার আগে %d দিন এখানে থাকবে৷</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি রেকর্ডিং স্থায়ীভাবে মুছে যাবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dটি রেকর্ডিং স্থায়ীভাবে মুছে যাবে।</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">মুছে ফেলা রেকর্ডিংগুলো চিরতরে মুছে যাওয়ার আগে %d দিন ট্র্যাশে থাকবে৷</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">মুছে ফেলা রেকর্ডিংগুলো চিরতরে মুছে যাওয়ার আগে %d দিন ট্র্যাশে থাকবে৷</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি রেকর্ডিং</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dটি রেকর্ডিং</item>
+    </plurals>
+</resources>

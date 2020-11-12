@@ -1,0 +1,37 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Òš™ûüÿÿÿÿ
+T
+java:S3878ç"8Remove this array creation and simply pass the elements.(ööÂÈøÿÿÿÿ
+H
+java:S1068"3Remove this unused "BASE_EVENT_LAST" private field.(ÙªÈ
+O
+java:S1068"4Remove this unused "BASE_EVENT_START" private field.(Ó”Øãúÿÿÿÿ
+P
+java:S1068"5Remove this unused "BIXBY_EVENT_START" private field.(ºÑâûÿÿÿÿ
+S
+java:S1068"8Remove this unused "BLE_SPEN_EVENT_START" private field.(Àµ˜áûÿÿÿÿ
+H
+java:S1068)"3Remove this unused "EDIT_EVENT_LAST" private field.(ÉŒ©r
+J
+java:S1068*"4Remove this unused "EDIT_EVENT_START" private field.(Çìõ—
+J
+java:S1068:"4Remove this unused "ERROR_EVENT_LAST" private field.(øş—ø
+P
+java:S1068;"5Remove this unused "ERROR_EVENT_START" private field.(û‡ú•şÿÿÿÿ
+O
+java:S1068I"9Remove this unused "MINI_PLAY_EVENT_START" private field.(Çóî¥
+J
+java:S1068W"4Remove this unused "PLAY_EVENT_START" private field.(ÇÒ‹Ó
+K
+java:S1068g"5Remove this unused "RECORD_EVENT_LAST" private field.(Ä™âˆ
+Q
+java:S1068h"6Remove this unused "RECORD_EVENT_START" private field.(¶Ïäœùÿÿÿÿ
+R
+java:S1068"6Remove this unused "SEARCH_EVENT_START" private field.(ıäñèÿÿÿÿÿ
+N
+java:S1068“"7Remove this unused "SHORTCUT_EVENT_LAST" private field.(Ğ€‰
+O
+java:S1068”"8Remove this unused "SHORTCUT_EVENT_START" private field.(’Ò¹Ç
+R
+java:S1068›"6Remove this unused "SIMPLE_EVENT_START" private field.(¬ƒåßüÿÿÿÿ

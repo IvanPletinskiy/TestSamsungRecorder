@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="multi_landscape_window_min_width">1000dp</dimen>
+</resources>

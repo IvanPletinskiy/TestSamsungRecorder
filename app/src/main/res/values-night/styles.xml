@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AboutActivityTheme">
+        <item name="android:statusBarColor">@color/main_dialog_bg</item>
+        <item name="android:navigationBarColor">@color/about_page_navigationbar_color</item>
+    </style>
+    <style name="AppThemeParent">
+        <item name="android:navigationBarColor">@color/navigation_bar_bg</item>
+
+    </style>
+    <style name="CollapsingToolbarTheme">
+    </style>
+    <style name="DialogDefault">
+        <item name="android:colorPrimaryDark">@color/dialog_button_color</item>
+    </style>
+    <style name="DialogForService">
+    </style>
+    <style name="SearchViewColorParent">
+    </style>
+    <style name="Theme.AppCompat.DayNight">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>

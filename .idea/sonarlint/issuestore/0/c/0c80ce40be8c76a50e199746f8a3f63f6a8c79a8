@@ -1,0 +1,12 @@
+
+b	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´ÿU
+Q
+java:S1172N"6Remove this unused method parameter "dialogInterface".(ÃæÈúÿÿÿÿ
+h	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃæÈúÿÿÿÿ
+;
+java:S1172D"&Remove these unused method parameters.(ô´ÿU
+>
+java:S1185R"(Remove this method to simply inherit it.(öÿÕÅ
+b	java:S1167"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞ‘
+t
+java:S11719"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ

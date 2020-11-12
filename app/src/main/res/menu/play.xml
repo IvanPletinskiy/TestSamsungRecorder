@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/voice_rec_ab_speaker_on" android:id="@+id/option_play_receiver" android:title="@string/play_through_speaker" app:showAsAction="always"/>
+    <item android:icon="@drawable/voice_rec_ab_speaker_off" android:id="@+id/option_play_speaker" android:title="@string/play_through_receiver" app:showAsAction="always"/>
+    <item android:id="@+id/option_edit" android:title="@string/edit_button"/>
+    <item android:id="@+id/option_rename" android:title="@string/rename"/>
+    <item android:id="@+id/option_delete" android:title="@string/delete"/>
+    <item android:id="@+id/option_share" android:title="@string/sharevia"/>
+    <item android:id="@+id/option_stt" android:title="@string/stt_translate_menu"/>
+    <item android:id="@+id/option_move_to_secure_folder" android:title="@string/move_to_secure_folder"/>
+    <item android:id="@+id/option_remove_from_secure_folder" android:title="@string/move_out_of_secure_folder"/>
+    <item android:id="@+id/option_details" android:title="@string/details"/>
+</menu>

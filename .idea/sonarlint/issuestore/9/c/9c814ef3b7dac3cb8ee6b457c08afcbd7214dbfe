@@ -1,0 +1,192 @@
+
+n
+java:S1104~"XMake mSkippedTime a static final constant or non-public and provide accessors if needed.(é°¡É
+h
+java:S1192·"LDefine a constant instead of duplicating this literal "record_mode" 8 times.(şœÃüÿÿÿÿ
+B
+java:S1172æ"&Remove these unused method parameters.(ßıÍùÿÿÿÿ
+B
+java:S1172"&Remove these unused method parameters.(·øáÿÿÿÿÿ
+R
+java:S2696•
+"6Make the enclosing method "static" or remove this set.(ø‚½±üÿÿÿÿ
+2
+java:S3626æ
+"Remove this redundant jump.(ûÁİ…
+O
+java:S1172­",Remove this unused method parameter "view3".(šú¾ùÿÿÿÿ8Ñ²ÚºÛ.
+i	java:S116¹"NRename this field "f$5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À”šûøÿÿÿÿ
+j
+java:S3776›
+"SRefactor this method to reduce its Cognitive Complexity from 176 to the 15 allowed.(ÊºÒ
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(ŸÜ²šøÿÿÿÿ8Äö×ºÛ.
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¡ûÃùÿÿÿÿ
+p	java:S116š"NRename this field "f$5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À”šûøÿÿÿÿ8Ñ²ÚºÛ.
+y
+java:S1104|"^Make mSkipIntervalValue a static final constant or non-public and provide accessors if needed.(°åø‰ûÿÿÿÿ
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¬¬™
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄèÙœüÿÿÿÿ
+i
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ßŞÂ˜
+Q
+java:S1854h";Remove this useless assignment to local variable "unused2".(õ’ı
+G
+java:S1172ü"+Remove this unused method parameter "view".(àÇ‡Öøÿÿÿÿ
+u
+java:S1171Ì"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+<
+java:S1905´"&Remove this unnecessary cast to "int".(·§ƒ*
+d	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ’Û¿
+p	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šú¾ùÿÿÿÿ8Ñ²ÚºÛ.
+=
+java:S1905®"&Remove this unnecessary cast to "int".(—Ö´Ç
+A
+java:S1481f"+Remove this unused "unused" local variable.(Š«ÓÙ
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†òøöùÿÿÿÿ
+B
+java:S1172…"&Remove these unused method parameters.(Îñäùûÿÿÿÿ
+p	java:S116—"NRename this field "f$2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÛÍËıÿÿÿÿ8Ñ²ÚºÛ.
+i	java:S100ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÇ‡Öøÿÿÿÿ
+i	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìâæıÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í”‘
+2
+java:S3626Î
+"Remove this redundant jump.(ûÁİ…
+B
+java:S1905Â"&Remove this unnecessary cast to "int".(¡Ò©ùÿÿÿÿ
+O
+java:S3878"8Remove this array creation and simply pass the elements.(ı‡À
+B
+java:S1172"+Remove this unused method parameter "view".(í”‘
+R
+java:S2696ó	"6Make the enclosing method "static" or remove this set.(æèëÈşÿÿÿÿ
+G
+java:S1172Ú"+Remove this unused method parameter "view".(Ùˆà£şÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¡ëüÿÿÿÿ
+O
+java:S1172Ì",Remove this unused method parameter "view3".(æ•úÿÿÿÿ8Ÿ»ŞºÛ.
+|
+java:S1171»"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ñ²ÚºÛ.
+d	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¥êÍ
+p	java:S116–"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îæÇ¡ûÿÿÿÿ8Ñ²ÚºÛ.
+L
+java:S1172£	"5Remove this unused method parameter "dialogFragment".(÷‰õ
+p	java:S116˜"NRename this field "f$3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¹ıÿÿÿÿ8Ñ²ÚºÛ.
+G
+java:S1481r",Remove this unused "unused3" local variable.(¢’¸ïıÿÿÿÿ
+2
+java:S3626’"Remove this redundant jump.(ûÁİ…
+i
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²‡ÇØ
+d	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦——Õ
+2
+java:S3626ğ
+"Remove this redundant jump.(ûÁİ…
+T
+java:S2696 "6Make the enclosing method "static" or remove this set.(åÁî›8Äö×ºÛ.
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îñäùûÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¡ñ 
+G
+java:S1172¢"+Remove this unused method parameter "view".(÷”µşÿÿÿÿ
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÏÄÂ
+Q
+java:S1854×":Remove this useless assignment to local variable "unused".(Ä¬£à
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŞ…ÿùÿÿÿÿ
+y
+java:S1104z"^Make mSkipIntervalLimit a static final constant or non-public and provide accessors if needed.(©°îåøÿÿÿÿ
+|
+java:S1171œ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ñ²ÚºÛ.
+T
+java:S2696¤"6Make the enclosing method "static" or remove this set.(‰¸«8Äö×ºÛ.
+C
+java:S1905´"&Remove this unnecessary cast to "int".(·§ƒ*8ä—ÙÛ.
+d	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨çÂ
+G
+java:S1172¤"+Remove this unused method parameter "view".(†òøöùÿÿÿÿ
+J
+java:S1068Q"4Remove this unused "mIsSaveAfterEdit" private field.(ÁˆèÔ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ç×¶ˆùÿÿÿÿ
+i	java:S116Ê"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•” …øÿÿÿÿ
+P
+java:S1854f":Remove this useless assignment to local variable "unused".(Š«ÓÙ
+k	java:S116¸"NRename this field "f$4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…úå8Ñ²ÚºÛ.
+d	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÓİÄ
+d	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬®ÕÌ
+i	java:S100×"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş×ÇÏüÿÿÿÿ
+p	java:S116µ"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îæÇ¡ûÿÿÿÿ8Ñ²ÚºÛ.
+p	java:S116·"NRename this field "f$3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¹ıÿÿÿÿ8Ñ²ÚºÛ.
+P
+java:S1172Á"-Remove this unused method parameter "bundle".(ÁÈî®úÿÿÿÿ8Äö×ºÛ.
+s
+java:S1104P"XMake mIsFirstTime a static final constant or non-public and provide accessors if needed.(ÔÃªøÿÿÿÿ
+B
+java:S1172ó"+Remove this unused method parameter "view".(ğ’Û¿
+B
+java:S1172—"&Remove these unused method parameters.(ìâæıÿÿÿÿ
+d	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö±¦
+=
+java:S1905º"&Remove this unnecessary cast to "int".(ê¢¢Ú
+T
+java:S1172"6Remove this unused method parameter "contextMenuInfo".(„ã‘£8Ñ²ÚºÛ.
+€
+java:S1104Y"eMake mSkipIntervalEventHandler a static final constant or non-public and provide accessors if needed.(×ˆ«ˆùÿÿÿÿ
+B
+java:S1172º"+Remove this unused method parameter "view".(Š¥êÍ
+B
+java:S1481h",Remove this unused "unused2" local variable.(õ’ı
+n
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(…¡ûÃùÿÿÿÿ
+E
+java:S1125®
+")Remove the literal "false" boolean value.(ãÒïıÿÿÿÿ
+B
+java:S1481×"+Remove this unused "unused" local variable.(Ä¬£à
+=
+java:S1905¹"&Remove this unnecessary cast to "int".( î¥´
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·øáÿÿÿÿÿ
+u
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÁÈî®úÿÿÿÿ8Äö×ºÛ.
+i	java:S100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßıÍùÿÿÿÿ
+=
+java:S1905 "&Remove this unnecessary cast to "int".(—Ö´Ç
+^
+java:S1126ã	"BReplace this if-then-else statement by a single method invocation.(­áãôıÿÿÿÿ
+L
+java:S1068B"6Remove this unused "SKIP_INTERVAL_1SEC" private field.(•‡…‰
+k	java:S116™"NRename this field "f$4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½…úå8Ñ²ÚºÛ.
+p	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ•úÿÿÿÿ8Ÿ»ŞºÛ.
+V
+java:S1854r";Remove this useless assignment to local variable "unused3".(¢’¸ïıÿÿÿÿ
+~
+java:S1104W"hMake mShouldResumeForSkipInterval a static final constant or non-public and provide accessors if needed.(¾úãä
+B
+java:S1172«"+Remove this unused method parameter "view".(ÄÏÄÂ
+u
+java:S1450Q"_Remove the "mIsSaveAfterEdit" field and declare it as a local variable in the relevant methods.(ÁˆèÔ
+9
+java:S3626ö"Remove this redundant jump.(ûÁİ…8Ñ²ÚºÛ.
+i	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷”µşÿÿÿÿ
+R
+java:S2696µ
+"6Make the enclosing method "static" or remove this set.(ÙÇ¸şÿÿÿÿ
+i	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âµ¾£úÿÿÿÿ
+d	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‡ÇØ
+i	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î´Âşÿÿÿÿÿ
+2
+java:S3626÷
+"Remove this redundant jump.(ûÁİ…
+G
+java:S1172‹"+Remove this unused method parameter "view".(ü»²öıÿÿÿÿ
+T
+java:S3516Z"9Refactor this method to not always return the same value.(‰Ô€çùÿÿÿÿ
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùˆà£şÿÿÿÿ
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü»²öıÿÿÿÿ
+2
+java:S3626•"Remove this redundant jump.(ûÁİ…
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â†ŠÌ
+C
+java:S2275",An 'int' is expected rather than a Object[].(ı‡À
+i	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ËóØøÿÿÿÿ
+p	java:S116¶"NRename this field "f$2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÛÍËıÿÿÿÿ8Ñ²ÚºÛ.

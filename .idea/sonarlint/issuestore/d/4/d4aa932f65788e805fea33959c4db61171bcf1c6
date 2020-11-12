@@ -1,0 +1,111 @@
+
+F
+java:S3740Â"/Provide the parametrized type for this generic.(‹öÿµ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§×'
+O
+java:S1854w":Remove this useless assignment to local variable "reject".(µ£¡N
+p
+java:S1104“"TMake mSession a static final constant or non-public and provide accessors if needed.(Ò“Ò¦şÿÿÿÿ
+n
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ù©§äüÿÿÿÿ
+7
+java:S3878€"Remove this array creation.( ò¬şÿÿÿÿ
+Q
+java:S1854¹":Remove this useless assignment to local variable "unused".(‰Í’Ù
+h	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¡‡Íùÿÿÿÿ
+]
+java:S2142ë"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+t
+java:S1104^"YMake mAudioManager a static final constant or non-public and provide accessors if needed.(·’Ø˜øÿÿÿÿ
+[
+java:S1144{"@Remove this unused private "lambda$onCallStateChanged$0" method.(³¡‡Íùÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ü›îòúÿÿÿÿ
+\
+java:S1192P"FDefine a constant instead of duplicating this literal "phone" 3 times.(Ü¡û
+Q
+java:S1141Ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+H
+java:S1905œ"1Remove this unnecessary cast to "SimpleRecorder".(›çö„
+<
+java:S1181ğ"%Catch Exception instead of Throwable.(áù«õ
+@
+java:S1172i"*Remove this unused method parameter "str".(“œë²
+b
+java:S1192³"FDefine a constant instead of duplicating this literal "audio" 3 times.(ÿõ÷Øıÿÿÿÿ
+D
+java:S14444")Make this "public static TAG" field final(°º¢üÿÿÿÿ
+m
+java:S11046"WMake mAppContext a static final constant or non-public and provide accessors if needed.(¡µ•ï
+>
+java:S1481 "'Remove this unused "i5" local variable.(¨üÉ§
+B
+java:S1481¹"+Remove this unused "unused" local variable.(‰Í’Ù
+<
+java:S1181¯"%Catch Exception instead of Throwable.(áù«õ
+Y
+java:S1068"">Remove this unused "AUDIO_FOCUS_RETRY_INTERVAL" private field.(ÅÏÕÛúÿÿÿÿ
+K
+java:S1172™"4Remove this unused method parameter "mediaRecorder".(Å‰Œğ
+F
+java:S3740¶"/Provide the parametrized type for this generic.(ÊÃÄÄ
+u
+java:S1104c"ZMake mMediaRecorder a static final constant or non-public and provide accessors if needed.(É©¦Âúÿÿÿÿ
+m
+java:S1192ë"QDefine a constant instead of duplicating this literal " mCurrentTime : " 5 times.(†±ç¸úÿÿÿÿ
+>	java:S108N")Either remove or fill this block of code.(íœ‹è
+Q
+java:S1118§":Add a private constructor to hide the implicit public one.(ı„íø
+n
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(—¥æşÿÿÿÿ
+v
+java:S1104"ZMake mRecorderState a static final constant or non-public and provide accessors if needed.(µÙãúÿÿÿÿ
+e	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§×'
+n
+java:S1104e"XMake mMuteHandler a static final constant or non-public and provide accessors if needed.(¾ÒìÕ
+t	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+T
+java:S2589§"8Remove this expression which always evaluates to "false"(ØŸ¥Ùùÿÿÿÿ
+t
+java:S3923æ"]This conditional operation returns the same value whether the condition is "true" or "false".(×óç¸
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§×'
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ı­
+e	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§×'
+j
+java:S11044"OMake TAG a static final constant or non-public and provide accessors if needed.(°º¢üÿÿÿÿ
+n
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öÉÈ§ıÿÿÿÿ
+<
+java:S1181ù"%Catch Exception instead of Throwable.(áù«õ
+j
+java:S1192ù"SDefine a constant instead of duplicating this literal " mRecordEndTime : " 5 times.(ôâ¾
+S
+java:S2589´"7Remove this expression which always evaluates to "true"(¥§Öõùÿÿÿÿ
+i
+java:S30084"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°º¢üÿÿÿÿ
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ñ§Äşÿÿÿÿ
+@
+java:S1481w"+Remove this unused "reject" local variable.(µ£¡N
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( öóêúÿÿÿÿ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ğøÿÿÿÿ
+X
+java:S1126¹"AReplace this if-then-else statement by a single return statement.(Ò¦«¢
+K
+java:S3740Ş"/Provide the parametrized type for this generic.(ûî•³ûÿÿÿÿ
+>
+java:S1068/"(Remove this unused "NONE" private field.(ªºÃâ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ƒì÷
+g
+java:S2583ï"DChange this condition so that it does not always evaluate to "false"(êƒö·ûÿÿÿÿ8‘Œ¼¹Û.
+]
+java:S1126•"AReplace this if-then-else statement by a single return statement.(øØíÆıÿÿÿÿ
+M
+java:S1854 "6Remove this useless assignment to local variable "i5".(¨üÉ§
+X
+java:S1068-"=Remove this unused "MAX_AUDIO_FOCUS_RETRY_CNT" private field.(àâÅÊıÿÿÿÿ
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õø¨ş
+d	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‰Œğ
+n
+java:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÔÚ£Ôúÿÿÿÿ

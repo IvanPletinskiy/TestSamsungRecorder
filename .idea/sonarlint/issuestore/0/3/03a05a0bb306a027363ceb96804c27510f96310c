@@ -1,0 +1,17 @@
+
+U
+java:S18742":Remove this use of "setUserVisibleHint"; it is deprecated.(»‹Í½øÿÿÿÿ
+E
+java:S11727"0Remove this unused method parameter "viewGroup".(¤Î‹D
+C
+java:S1185s"(Remove this method to simply inherit it.(Ç•Ü˜øÿÿÿÿ
+A
+java:S1172L"&Remove these unused method parameters.(Ú®®ùÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(ˆ“Ê‚
+F
+java:S1172a"0Remove this unused method parameter "viewGroup".(û»á·
+U
+java:S1874S":Remove this use of "setUserVisibleHint"; it is deprecated.(Ãıñıÿÿÿÿ
+U
+java:S1874[":Remove this use of "setUserVisibleHint"; it is deprecated.(¸¥ò§şÿÿÿÿ

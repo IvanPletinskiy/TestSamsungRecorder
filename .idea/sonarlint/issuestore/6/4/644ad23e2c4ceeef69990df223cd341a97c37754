@@ -1,0 +1,19 @@
+
+V
+java:S3400z"9Remove this method and declare a constant for this value.(”·³›8ÓÈ¦¸Û.
+U
+java:S2589~"8Remove this expression which always evaluates to "false"(½µûÖ8ÓÈ¦¸Û.
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¬Éå
+X
+java:S1126ü"AReplace this if-then-else statement by a single return statement.(æšİÅ
+U
+java:S2589~"8Remove this expression which always evaluates to "false"(½µûÖ8ÓÈ¦¸Û.
+R
+java:S1172£"/Remove this unused method parameter "activity".(ıÉÏÎıÿÿÿÿ8„«§¸Û.
+O
+java:S1172%"4Remove this unused method parameter "configuration".(Ä§»Âøÿÿÿÿ
+U
+java:S2589P"8Remove this expression which always evaluates to "false"(€öà‡8ÓÈ¦¸Û.
+W
+java:S3400±"9Remove this method and declare a constant for this value.(”·³›8¡ç§¸Û.

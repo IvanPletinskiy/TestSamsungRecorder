@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kayıt sırasında %d arama engellendi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kayıt sırasında %d arama engellendi</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kategori silinsin mi?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d kategori silinsin mi?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Çöp kutusundaki ögeler %d gün sonra kalıcı olarak silinir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Çöp kutusundaki ögeler %d gün sonra kalıcı olarak silinir.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Çöp kutusundaki ögeler %d gün sonra kalıcı olarak silinir. SD kartınızı çıkarmadan önce içindeki her şeyin tamamen silindiğinden emin olmak üzere Çöp kutusunu boşaltın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Çöp kutusundaki ögeler %d gün sonra kalıcı olarak silinir. SD kartınızı çıkarmadan önce içindeki her şeyin tamamen silindiğinden emin olmak üzere Çöp kutusunu boşaltın.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kayıt Çöp kutusuna taşınsın mı?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d kayıt Çöp kutusuna taşınsın mı?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Silinen kayıtları kalıcı olarak silmeden önce Çöp kutusunda %d gün boyunca tutar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Silinen kayıtları kalıcı olarak silmeden önce Çöp kutusunda %d gün boyunca tutar.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sildiğiniz tüm kayıtlar, kalıcı olarak silinmeden önce burada %d gün kalır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sildiğiniz tüm kayıtlar, kalıcı olarak silinmeden önce burada %d gün kalır.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kayıt kalıcı olarak silinecek.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d kayıt kalıcı olarak silinecek.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Silinen kayıtlar, kalıcı olarak silinmeden önce %d gün boyunca Çöp kutusunda kalır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Silinen kayıtlar, kalıcı olarak silinmeden önce %d gün boyunca Çöp kutusunda kalır.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kayıt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d kayıt</item>
+    </plurals>
+</resources>

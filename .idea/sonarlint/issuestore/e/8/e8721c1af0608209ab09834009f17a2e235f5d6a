@@ -1,0 +1,62 @@
+
+d	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªİûÖ
+u
+java:S1171ã"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+K
+java:S1066Ó"/Merge this if statement with the enclosing one.(œ÷¿Ûúÿÿÿÿ
+M
+java:S1481ß"*Remove this unused "tabAt" local variable.(Œ¤®çøÿÿÿÿ8Ë±Û»Û.
+D
+java:S1068*".Remove this unused "TOTAL_PAGE" private field.(Ù†ãŸ
+=
+java:S1172İ"&Remove these unused method parameters.(¤„†Ò
+W
+java:S1481ö"4Remove this unused "seslGetTextView" local variable.(çå¶Áûÿÿÿÿ8•ÖÛ»Û.
+j
+java:S1854"GRemove this useless assignment to local variable "dimensionPixelSize2".(ƒ½îûÿÿÿÿ8ñ¼Ü»Û.
+\
+java:S1854÷"9Remove this useless assignment to local variable "tabAt".(Œ¤®çøÿÿÿÿ8•ÖÛ»Û.
+M
+java:S1481÷"*Remove this unused "tabAt" local variable.(Œ¤®çøÿÿÿÿ8•ÖÛ»Û.
+i	java:S116á"NRename this field "f$2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÛÍËıÿÿÿÿ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(¼²–Ñøÿÿÿÿ
+R
+java:S2696ß"6Make the enclosing method "static" or remove this set.(Ì•ğƒüÿÿÿÿ
+H
+java:S1068&"3Remove this unused "CATEGORIES_LIST" private field.(ñ¥±
+F
+java:S1068("0Remove this unused "DEFAULT_LIST" private field.(¶æÙÉ
+Q
+java:S2696W"6Make the enclosing method "static" or remove this set.(Ì•ğƒüÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(È‰Ö©ÿÿÿÿÿ
+F
+java:S1172õ"(Remove this unused method parameter "z".(½å¢8•ÖÛ»Û.
+p
+java:S11042"UMake mMainView a static final constant or non-public and provide accessors if needed.(Ìø‡˜ûÿÿÿÿ
+i	java:S116à"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•” …øÿÿÿÿ
+W
+java:S1481Ş"4Remove this unused "seslGetTextView" local variable.(çå¶Áûÿÿÿÿ8Ë±Û»Û.
+l
+java:S11046"VMake mViewPager a static final constant or non-public and provide accessors if needed.(÷‹ŸÃ
+M
+java:S1144±"1Remove this unused private "showMainView" method.(‚ÅæÏşÿÿÿÿ
+[
+java:S1481"8Remove this unused "dimensionPixelSize2" local variable.(ƒ½îûÿÿÿÿ8ñ¼Ü»Û.
+Q
+java:S1161¾":Add the "@Override" annotation above this method signature(‹ˆ®ë
+Q
+java:S1144£"5Remove this unused private "showChildrenView" method.(—î››ùÿÿÿÿ
+—
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦›Í
+œ
+java:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½Ä³ïşÿÿÿÿ
+—
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú®ä
+W
+java:S1854Ö"9Remove this useless assignment to local variable "tabAt".(õµ‚ô8‘¡Ú»Û.
+\
+java:S1854ß"9Remove this useless assignment to local variable "tabAt".(Œ¤®çøÿÿÿÿ8Ë±Û»Û.
+?
+java:S1185¾"(Remove this method to simply inherit it.(‹ˆ®ë

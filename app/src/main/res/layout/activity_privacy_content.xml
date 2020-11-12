@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="start" android:id="@+id/privacy_policy_layout" android:background="@color/webview_background_color" android:paddingTop="@dimen/privacy_content_margin_top" android:paddingBottom="@dimen/privacy_content_margin_bottom" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:id="@+id/loading_view" android:layout_width="@dimen/loading_view_width" android:layout_height="@dimen/loading_view_width" android:indeterminate="true" android:layout_centerInParent="true"/>
+        <WebView android:id="@+id/webview" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </RelativeLayout>
+</RelativeLayout>

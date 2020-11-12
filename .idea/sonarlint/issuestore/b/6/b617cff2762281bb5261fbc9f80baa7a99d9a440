@@ -1,0 +1,59 @@
+
+X
+java:S3878Ö"ADisambiguate this call by either casting as "Class" or "Class[]".(¸ö­ˆ
+@
+java:S1068"+Remove this unused "MAX_NUM" private field.(‚¼¿
+]
+java:S3878Ó"ADisambiguate this call by either casting as "Class" or "Class[]".(‰ìü»øÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(³£ûÏ
+=
+java:S1905µ"&Remove this unnecessary cast to "int".(ÒóáÉ
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ñ‘£ó
+N
+java:S2130†"8Use "Long.parseLong" for this string-to-long conversion.(îÔÍ"
+F
+java:S1068"+Remove this unused "ENC_NUM" private field.(§ÛõÐýÿÿÿÿ
+2
+java:S3878ô"Remove this array creation.(ë‚è÷
+i
+java:S3776À"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¦…™ß
+7
+java:S3878é"Remove this array creation.(óìœìûÿÿÿÿ
+1
+java:S3878ä"Remove this array creation.(‘—Ï~
+]
+java:S3878Õ"ADisambiguate this call by either casting as "Class" or "Class[]".( žíàûÿÿÿÿ
+7
+java:S3878ê"Remove this array creation.(…Ñ¡„ýÿÿÿÿ
+7
+java:S3878æ"Remove this array creation.(…Ñ¡„ýÿÿÿÿ
+7
+java:S3878è"Remove this array creation.( ª§«øÿÿÿÿ
+Q
+java:S1141Ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+‰
+java:S1319;"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(®”ž;
+N
+java:S2130†"8Use "Long.parseLong" for this string-to-long conversion.(îÔÍ"
+]
+java:S3878Ô"ADisambiguate this call by either casting as "Class" or "Class[]".(öÞ†Ëûÿÿÿÿ
+E
+java:S1066Ì"/Merge this if statement with the enclosing one.(ß‘é{
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(ªéÂÓþÿÿÿÿ
+T
+java:S3878ð"8Remove this array creation and simply pass the elements.(É²™Óÿÿÿÿÿ
+B
+java:S1905¶"&Remove this unnecessary cast to "int".(™Ãó®ùÿÿÿÿ
+7
+java:S3878å"Remove this array creation.(óìœìûÿÿÿÿ
+g
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(®”ž;
+M
+java:S1068¼"6Remove this unused "STATE_CARD_MODE_ON" private field.(ÍÌÁó
+W
+java:S11265"AReplace this if-then-else statement by a single return statement.(ûö«Š
+C
+java:S1068"-Remove this unused "ENC_START" private field.(–®‰¼

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྒྲ་ཕབ་སྐབས་ཁ་པར %d བཀག་འགོག་བྱས།</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">རིགས་གྲས་%d་གསུབ་རྒྱུ་ཡིན་ནམ།</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ཉིན %d རྗེས་ནས་སྙིགས་སྣོད་ཁྲོད་ཀྱི་རྣམ་གྲངས་དུས་རྟག་ཏུ་དོར་སུབ་བྱ་ངེས།</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྙིགས་སྣོད་ཁྲོད་ཀྱི་རྣམ་གྲངས་དག་ཉིན %d ལ་སོར་འཇོག་བྱས་རྗེས་སུ་ཡུན་གཏན་དུ་གསུབ་ངེས་ཡིན།ཁྱེད་ཀྱི SD བྱང་བུ་སྤོ་འབུད་མ་བྱེད་སྔོན་ལ།སྙིགས་སྣོད་གཙང་སེལ་བྱེད་ནས་སུབ་དགོས་པའི་དོན་བྱ་དག་ཡོངས་སུ་དོར་སུབ་བཏང་ཟིན་པ་ཁེག་ཐག་བྱེད་དགོས།</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྒྲ་ཕབ %d སྙིགས་སྣོད་ཁྲོད་དུ་སྤོ་འབུད་བྱེད་དམ།</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྙིགས་སྣོད་ཁྲོད་ཀྱི་དོར་སུབ་བཏང་ཟིན་པའི་སྒྲ་ཕབ་དག་ཉིན %d ལ་སོར་འཇོག་བྱས་རྗེས་སུ་ཡུན་གཏན་དུ་གསུབ་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ཁྱེད་ཀྱིས་སུབ་ཟིན་པའི་སྒྲ་ཕབ་དག་ཉིན %d ལ་སོར་འཇོག་བྱས་རྗེས་སུ་ཡུན་གཏན་དུ་གསུབ་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྒྲ་ཕབ %d ཡོངས་སུ་དོར་སུབ་གཏོང་ངེས།</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ཁྱེད་ཀྱིས་སུབ་ཟིན་པའི་སྒྲ་ཕབ་དག་ཉིན %d ལ་སོར་འཇོག་བྱས་རྗེས་སུ་ཡུན་གཏན་དུ་གསུབ་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྒྲ་ཕབ %d</item>
+    </plurals>
+</resources>

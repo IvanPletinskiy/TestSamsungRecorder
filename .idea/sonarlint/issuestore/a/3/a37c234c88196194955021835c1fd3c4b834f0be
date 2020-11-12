@@ -1,0 +1,54 @@
+
++
+java:S1700#"Rename field "config"(ÿ‡©ø
+M
+java:S1172Š"1Remove this unused method parameter "recognizer".(¦ü®Åüÿÿÿÿ
+K
+java:S1172“"4Remove this unused method parameter "recognizerArr".(ñ±”»
+f
+java:S11925"KDefine a constant instead of duplicating this literal "portNumber" 3 times.(Õ­ùíûÿÿÿÿ
+[
+java:S1854Ž"DRemove this useless assignment to local variable "equalsIgnoreCase".(àÉÝ•
+B
+java:S1481½"+Remove this unused "unused" local variable.(ø’Íå
+g
+java:S1192É"KDefine a constant instead of duplicating this literal "tickcount" 11 times.(µ‘•‘øÿÿÿÿ
+q	java:S116Í"VRename this field "ERROR_DELAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿþ„’ùÿÿÿÿ
+P
+java:S1133x"5Do not forget to remove this deprecated code someday.(ÏåÝÊûÿÿÿÿ
+W
+java:S1874}"<Remove this use of "getIsSPXDumpRequired"; it is deprecated.(àº¥×øÿÿÿÿ
+C
+java:S1481¾",Remove this unused "unused2" local variable.(‹âÜÎ
+K
+java:S1068Í"/Remove this unused "ERROR_DELAY" private field.(ÿþ„’ùÿÿÿÿ
+Q
+java:S1854½":Remove this useless assignment to local variable "unused".(ø’Íå
+A
+java:S1068"+Remove this unused "mConfig" private field.(¤ŒÂî
+n
+java:S1104Ï"RMake client a static final constant or non-public and provide accessors if needed.(ÎêŒÙúÿÿÿÿ
+L
+java:S1481Ž"5Remove this unused "equalsIgnoreCase" local variable.(àÉÝ•
+a
+java:S1192T"FDefine a constant instead of duplicating this literal "en-US" 3 times.(ÛÙÆ«þÿÿÿÿ
+c
+java:S11924"NDefine a constant instead of duplicating this literal "serverAddress" 3 times.(ó¬Üt
+[
+java:S1854 "DRemove this useless assignment to local variable "equalsIgnoreCase".(àÉÝ•
+R
+java:S1854¾";Remove this useless assignment to local variable "unused2".(‹âÜÎ
+G
+java:S1481Ü"+Remove this unused "unused" local variable.(Ã™Êßûÿÿÿÿ
+L
+java:S1481 "5Remove this unused "equalsIgnoreCase" local variable.(àÉÝ•
+G
+java:S1068",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(ëçõúýÿÿÿÿ
+\	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(œ‚¨ê
+V
+java:S1854Ü":Remove this useless assignment to local variable "unused".(Ã™Êßûÿÿÿÿ
+s
+java:S1104Ñ"\Make mInternalHandler a static final constant or non-public and provide accessors if needed.(èèÌ›
+C
+java:S1123x"(Add the missing @deprecated Javadoc tag.(ÏåÝÊûÿÿÿÿ

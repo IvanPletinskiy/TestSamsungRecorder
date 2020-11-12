@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ریکارڈنگ کے وقت %d کال بلاک کی گئی</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ریکارڈنگ کے وقت %d کالز بلاک کی گئی</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d زمرہ حذف کریں؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d زمرے حذف کریں؟</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 گھنٹہ</item>
+        <item quantity="other">%d گھنٹے</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 منٹ</item>
+        <item quantity="other">%d منٹ</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 سیکینڈ</item>
+        <item quantity="other">%d سیکنڈ</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ٹریش میں موجود اشیاء %d دن کے بعد ہمیشہ کے لیے حذف کردی جائیں گی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ٹریش میں موجود اشیاء %d دن کے بعد ہمیشہ کے لیے حذف کردی جائیں گی۔</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ٹریش کی اشیاء کو %d دن کے بعد مستقل طور پر حذف کر دیا جائے گا۔ اپنا SD کارڈ ہٹانے سے قبل، ٹریش کو خالی کریں تاکہ یہ یقینی بناسکیں کہ وہاں کی ہر چیز مکمل طور پر حذف کردی گئی ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ٹریش کی اشیاء %d دنوں بعد مستقل طور پر حذف ہو جائيں گی۔ اپنا SD کارڈ ہٹانے سے قبل، ٹریش کو خالی کریں تاکہ یہ یقینی بناسکیں کہ وہاں کی ہرچیز مکمل طور پر حذف کی ہوئی ہے۔</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ریکارڈنگ ٹریش میں منتقل کریں؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ریکارڈنگز ٹریش میں منتقل کریں؟</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">حذف کردہ ریکارڈنگز کو ہمیشہ کے لیے حذف کیے جانے سے پہلے %d دن تک ٹریش میں رکھیں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">حذف کردہ ریکارڈنگز کو ہمیشہ کے لیے حذف کیے جانے سے قبل انہیں %d دنوں کے لیے ٹریش میں رکھیں۔</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آپ کے ذریعے حذف کردہ کسی بھی ریکارڈنگز کو ہمیشہ کے لیے حذف کیے جانے سے قبل وہ یہاں %d دن تک برقرار رہیں گی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">آپ کے ذریعے حذف کردہ کسی بھی ریکارڈنگز کو ہمیشہ کے لیے حذف کیے جانے سے قبل وہ %d دنوں تک برقرار رہیں گی۔</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ریکارڈنگ ہمیشہ کے لیے حذف کردیا جائے گا۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ریکارڈنگز ہمیشہ کے لیے حذف کردیا جائیں گی۔</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">حذف کردہ ریکارڈنگز کو ہمیشہ کے لیے حذف کیے جانے سے قبل وہ %d دن تک ٹریش میں رہیں گے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">حذف کردہ اشیاء ہمیشہ کے لیے حذف کیے جانے سے قبل وہ %d دنوں کے لیے ٹریش میں رہیں گے۔</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ریکارڈنگ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ریکارڈنگز</item>
+    </plurals>
+</resources>

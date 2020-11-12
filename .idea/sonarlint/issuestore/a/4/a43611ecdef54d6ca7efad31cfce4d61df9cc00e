@@ -1,0 +1,29 @@
+
+P
+java:S11182":Add a private constructor to hide the implicit public one.(¯¢…Ó
+P
+java:S1118;":Add a private constructor to hide the implicit public one.(Èê»¢
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(óöĞ™
+U
+java:S1118'":Add a private constructor to hide the implicit public one.(ø´À¼ÿÿÿÿÿ
+n
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Íª…Ûùÿÿÿÿ
+v
+java:S1104"`Make isRegisteredNFCTouch a static final constant or non-public and provide accessors if needed.(›äÚ¥
+W
+java:S3400§"9Remove this method and declare a constant for this value.(”·³›8Ã’¸Û.
+@
+java:S1172Ä")Remove this unused method parameter "i3".(óöĞ™
+W
+java:S3400¦"9Remove this method and declare a constant for this value.(”·³›8—ì–¸Û.
+o
+java:S1104"TMake mContext a static final constant or non-public and provide accessors if needed.(¯¸ş¥üÿÿÿÿ
+2
+java:S3626æ"Remove this redundant jump.(ûÁİ…
+n
+java:S1104%"YMake mSupportCover a static final constant or non-public and provide accessors if needed.(åÎöU
+2
+java:S3626¾"Remove this redundant jump.(ûÁİ…
+W
+java:S3400°"9Remove this method and declare a constant for this value.(”·³›8ãª—¸Û.

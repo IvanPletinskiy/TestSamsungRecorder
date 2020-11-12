@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/layout_language_list" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_margin_side" android:paddingEnd="@dimen/list_margin_side">
+    <ListView android:theme="@style/edgeEffect" android:id="@+id/list" android:background="@drawable/select_language_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_language_margin_top" android:layout_marginBottom="@dimen/list_margin_bottom" android:divider="@drawable/language_list_divider" android:dividerHeight="2px" android:choiceMode="singleChoice" android:layout_alignParentTop="true" android:footerDividersEnabled="false"/>
+</RelativeLayout>

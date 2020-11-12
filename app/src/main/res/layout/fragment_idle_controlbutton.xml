@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingTop="@dimen/controlbutton_idle_padding_top" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageButton android:layout_gravity="center" android:id="@+id/idle_controlbutton_record_start" android:background="@drawable/voice_recorder_control_bar_ic_rec" android:focusable="true" android:layout_width="@dimen/controlbutton_big_width" android:layout_height="@dimen/controlbutton_big_height" android:foreground="@drawable/voice_ripple_control_center_btn" android:scaleType="fitXY" android:contentDescription="@string/record_tts"/>
+</FrameLayout>

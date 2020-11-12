@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/main_window_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/tab_list_layout" android:background="@color/actionbar_color_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.material.tabs.TabLayout android:layout_gravity="center_horizontal" android:id="@+id/tab_list" android:layout_width="match_parent" android:layout_height="@dimen/main_tablayout_height" android:layout_marginStart="@dimen/tab_layout_padding_vertical" android:layout_marginEnd="@dimen/tab_layout_padding_vertical" app:tabBackground="@drawable/sub_tab_background_selector" app:tabIndicatorColor="@android:color/transparent" app:tabIndicatorHeight="0dp" app:tabMode="scrollable" app:tabSelectedTextColor="@color/sub_tab_selected_color" style="@style/SubTabLayoutStyle"/>
+        <com.sec.android.app.voicenote.p007ui.view.DeativatableViewPager android:id="@+id/list_mode_pager" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/tab_list"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/children_list_layout" android:background="@color/search_main_background_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</RelativeLayout>

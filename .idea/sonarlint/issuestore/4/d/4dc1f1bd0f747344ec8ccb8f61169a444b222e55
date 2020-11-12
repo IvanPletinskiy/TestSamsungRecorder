@@ -1,0 +1,201 @@
+
+H
+java:S1481‚",Remove this unused "unused3" local variable.(»º¦İúÿÿÿÿ
+W
+java:S1854ş";Remove this useless assignment to local variable "unused2".(Ò˜È¯øÿÿÿÿ
+L
+java:S1068>"1Remove this unused "LOAD_WAVE_END" private field.(³Ú§•ùÿÿÿÿ
+q
+java:S1104ƒ"UMake mZoomView a static final constant or non-public and provide accessors if needed.(ñ¦ÒŸúÿÿÿÿ
+v
+java:S1104R"`Make mIsTouchingScrollBar a static final constant or non-public and provide accessors if needed.(â«ƒş
+B
+java:S1481ù"+Remove this unused "unused" local variable.(æùÜÃ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¦ª¨
+r
+java:S1104H"\Make mCurrentWavePath a static final constant or non-public and provide accessors if needed.(±É´À
+C
+java:S1481ô",Remove this unused "unused2" local variable.(³«·™
+^
+java:S1126©"BReplace this if-then-else statement by a single method invocation.(ƒ”ß›ûÿÿÿÿ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(óøµˆÿÿÿÿÿ
+7	java:S131È""Add a default case to this switch.(ìúÇV
+L
+java:S1068="6Remove this unused "LOAD_WAVE_CONTINUE" private field.(ÔÅÜæ
+V
+java:S1854÷":Remove this useless assignment to local variable "unused".(®—×Ûúÿÿÿÿ
+t
+java:S1104j"YMake mRecyclerView a static final constant or non-public and provide accessors if needed.(à¯éºıÿÿÿÿ
+B
+java:S1481ß"+Remove this unused "unused" local variable.(¹“î¶
+C
+java:S1481ÿ",Remove this unused "unused2" local variable.(­·•Ô
+H
+java:S1481ş",Remove this unused "unused2" local variable.(Ò˜È¯øÿÿÿÿ
+_
+java:S1871"IThis case's code block is the same as the block for the case on line 904.(°¢à
+u
+java:S1104l"_Make mRecyclerViewOffset a static final constant or non-public and provide accessors if needed.(çßšÍ
+o
+java:S3776â"SRefactor this method to reduce its Cognitive Complexity from 123 to the 15 allowed.(ÁÈî®úÿÿÿÿ
+o
+java:S1104T"YMake mLastVelocity a static final constant or non-public and provide accessors if needed.(ò—ğà
+P
+java:S1874ş"4Remove this use of "getPointerId"; it is deprecated.(Ò˜È¯øÿÿÿÿ
+d	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸·è®
+p
+java:S1104B"ZMake mAsyncLoadWave a static final constant or non-public and provide accessors if needed.(ü¼À€
+i	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û Œºûÿÿÿÿ
+d	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ³æÃ
+w
+java:S1104x"\Make mScrollPointerId a static final constant or non-public and provide accessors if needed.(‚£¬øÿÿÿÿ
+w
+java:S1104u"aMake mScaleGestureDetector a static final constant or non-public and provide accessors if needed.(ª†à‘
+D
+java:S1172ò"(Remove this unused method parameter "f".(Ä Ä™ıÿÿÿÿ
+V
+java:S1161ƒ":Add the "@Override" annotation above this method signature(•¦Œ‰øÿÿÿÿ
+B
+java:S1172µ"+Remove this unused method parameter "view".(•¨–¦
+G
+java:S1481š"+Remove this unused "unused" local variable.(Õğ›Èùÿÿÿÿ
+W
+java:S1172í
+";Remove this unused method parameter "scaleGestureDetector".(Û÷îÂşÿÿÿÿ
+G
+java:S1481ò"+Remove this unused "unused" local variable.(Ù·ú·şÿÿÿÿ
+G
+java:S1481¿"+Remove this unused "unused" local variable.(î§ô©üÿÿÿÿ
+i	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş™Šãúÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‰½­úÿÿÿÿ
+T
+java:S3878ú"8Remove this array creation and simply pass the elements.(‰¥Ş›ùÿÿÿÿ
+n
+java:S1450×"RRemove the "mDx" field and declare it as a local variable in the relevant methods.(ƒ«Ğ°ûÿÿÿÿ
+R
+java:S1854ÿ";Remove this useless assignment to local variable "unused2".(­·•Ô
+j
+java:S3776—"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(•øÏ
+Q
+java:S1854ù":Remove this useless assignment to local variable "unused".(æùÜÃ
+G
+java:S1172Ğ"+Remove this unused method parameter "view".(—ßõúøÿÿÿÿ
+z
+java:S1104"^Make mZoomScrollbarView a static final constant or non-public and provide accessors if needed.(ÓœÉÙıÿÿÿÿ
+Q
+java:S1161Û":Add the "@Override" annotation above this method signature(¼Âª
+k
+java:S1104K"UMake mDuration a static final constant or non-public and provide accessors if needed.(ğÚ“
+B
+java:S1172‘"+Remove this unused method parameter "view".(ÌÒ™¦
+y
+java:S1104V"^Make mLeftRepeatHandler a static final constant or non-public and provide accessors if needed.(¶‚àËúÿÿÿÿ
+
+java:S1186ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©í–Şùÿÿÿÿ
+d	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÒ™¦
+w
+java:S1104h"\Make mRecyclerAdapter a static final constant or non-public and provide accessors if needed.(Ä¸ƒúÿÿÿÿ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÙ®ò
+n
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(‘Şèıÿÿÿÿ
+?	java:S108ñ")Either remove or fill this block of code.(¹µ„…
+F
+java:S1068?"+Remove this unused "ONE_SEC" private field.(ÎÊ÷‰şÿÿÿÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÊºÒ
+c	java:S100û
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÌá<
+r
+java:S1104P"\Make mIsLoadCompleted a static final constant or non-public and provide accessors if needed.(ÓöÌ
+H
+java:S1481…",Remove this unused "unused4" local variable.(…™ûşÿÿÿÿ
+W
+java:S1854…";Remove this useless assignment to local variable "unused4".(…™ûşÿÿÿÿ
+G
+java:S1481÷"+Remove this unused "unused" local variable.(®—×Ûúÿÿÿÿ
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â´ãşúÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ğŒõ
+i	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ·»šüÿÿÿÿ
+B
+java:S1172ğ"+Remove this unused method parameter "view".(­ºƒ
+8	java:S131‚""Add a default case to this switch.(¶ƒ£»
+R
+java:S1854ô";Remove this useless assignment to local variable "unused2".(³«·™
+d	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºƒ
+?	java:S108	")Either remove or fill this block of code.(¾ı„™
+B
+java:S1172"&Remove these unused method parameters.(ş‰½­úÿÿÿÿ
+C
+java:S1481œ",Remove this unused "unused2" local variable.(œ²ã¦
+
+java:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·×šùÿÿÿÿ
+Q
+java:S1905‹"5Remove this unnecessary cast to "SimpleWaveFragment".(¸Ê‹–ıÿÿÿÿ
+1
+java:S2275ú"Not enough arguments.(‰¥Ş›ùÿÿÿÿ
+w
+java:S1104~"\Make mVelocityTracker a static final constant or non-public and provide accessors if needed.(”“ºÛøÿÿÿÿ
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÉÆ×
+V
+java:S1854ò":Remove this useless assignment to local variable "unused".(Ù·ú·şÿÿÿÿ
+V
+java:S1854š":Remove this useless assignment to local variable "unused".(Õğ›Èùÿÿÿÿ
+g	java:S128ñ"LEnd this switch case with an unconditional break, return or throw statement.(–©¡ıÿÿÿÿ
+u
+java:S1104n"_Make mRightRepeatHandler a static final constant or non-public and provide accessors if needed.(¿±ŞÀ
+V
+java:S1854¿":Remove this useless assignment to local variable "unused".(î§ô©üÿÿÿÿ
+Q
+java:S1905©"5Remove this unnecessary cast to "SimpleWaveFragment".(¸Ê‹–ıÿÿÿÿ
+i	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“óšıÿÿÿÿ
+B
+java:S1172™"&Remove these unused method parameters.(“óšıÿÿÿÿ
+Q
+java:S1854ß":Remove this useless assignment to local variable "unused".(¹“î¶
+x
+java:S1104E"bMake mCurrentMaxScrollSpeed a static final constant or non-public and provide accessors if needed.(Ô†©ƒ
+i
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿³Ó
+r
+java:S1104z"WMake mScrollable a static final constant or non-public and provide accessors if needed.(²·‰€øÿÿÿÿ
+r
+java:S1104]"\Make mLoadWaveHandler a static final constant or non-public and provide accessors if needed.(Œ¹ªØ
+˜
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š¦ª¨
+l	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¨ßùÿÿÿÿ
+d	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•øÏ
+J
+java:S1172ö"3Remove this unused method parameter "recyclerView".(ñ°ãë
+r
+java:S1450"VRemove the "bufSize" field and declare it as a local variable in the relevant methods.(ä‹–úÿÿÿÿ
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ù”¨şÿÿÿÿ
+W
+java:S1854‚";Remove this useless assignment to local variable "unused3".(»º¦İúÿÿÿÿ
+i
+java:S3776Í	"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¦šĞ
+P
+java:S1874‚"4Remove this use of "getXVelocity"; it is deprecated.(»º¦İúÿÿÿÿ
+4
+java:S2153¢"Remove the unboxing of "num".(îÆšÔ
+R
+java:S1854œ";Remove this useless assignment to local variable "unused2".(œ²ã¦
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆà­Øùÿÿÿÿ
+d	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏë‡
+Y
+java:S1874‚"=Remove this use of "VelocityTrackerCompat"; it is deprecated.(»º¦İúÿÿÿÿ
+i
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‚¹£µ
+r
+java:S1450Ì"TRemove the "mTime" field and declare it as a local variable in the relevant methods.(âÍøÿ8æıÒ»Û.
+I
+java:S1172ı"&Remove these unused method parameters.(ïÜˆÏıÿÿÿÿ8æıÒ»Û.
+I
+java:S1481ş"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ8æıÒ»Û.
+G
+java:S1068Ì")Remove this unused "mTime" private field.(âÍøÿ8æıÒ»Û.
+U
+java:S1144ò"2Remove this unused private "checkBoundary" method.(Ä Ä™ıÿÿÿÿ8æıÒ»Û.
+Z
+java:S1144ø"7Remove this unused private "getFixedTimeFormat" method.(æ”òøÿÿÿÿ8æıÒ»Û.

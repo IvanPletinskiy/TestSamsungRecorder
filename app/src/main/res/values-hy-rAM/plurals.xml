@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d կանչ արգելափակվեց ձայնագրման ընթացքում</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d կանչ արգելափակվեց ձայնագրման ընթացքում</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Վերացնե՞լ %d կատեգորիա:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Վերացնե՞լ %d կատեգորիա:</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ժամ</item>
+        <item quantity="other">%d ժամ</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 րոպե</item>
+        <item quantity="other">%d րոպե</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 վայրկյան</item>
+        <item quantity="other">%d վայրկյան</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Աղբարկղի տարրերն ընդմիշտ կվերացվեն %d օր հետո:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Աղբարկղի տարրերն ընդմիշտ կվերացվեն %d օր հետո:</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Աղբարկղի տարրերն ընդմիշտ կվերացվեն %d օր հետո: SD քարտը հեռացնելուց առաջ դատարկեք Աղբարկղը, որպեսզի այնտեղ եղած ամեն ինչ ամբողջովին վերացվի:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Աղբարկղի տարրերն ընդմիշտ կվերացվեն %d օր հետո: SD քարտը հեռացնելուց առաջ դատարկեք Աղբարկղը, որպեսզի այնտեղ եղած ամեն ինչ ամբողջովին վերացվի:</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ձայնագրություն տեղափոխե՞լ Աղբարկղ:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ձայնագրություն տեղափոխե՞լ Աղբարկղ:</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Վերացված ձայնագրություններն Աղբարկղում պահել %d օր, նախքան դրանք ընդմիշտ կվերացվեն:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Վերացված ձայնագրություններն Աղբարկղում պահել %d օր, նախքան դրանք ընդմիշտ կվերացվեն:</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Բոլոր ձայնագրությունները, որոնք վերացնում եք, այստեղ կմնան %d օր, նախքան դրանք ընդմիշտ կվերացվեն:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Բոլոր ձայնագրությունները, որոնք վերացնում եք, այստեղ կմնան %d օր, նախքան դրանք ընդմիշտ կվերացվեն:</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ձայնագրություն ընդմիշտ կվերացվի:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ձայնագրություն ընդմիշտ կվերացվի:</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Վերացված ձայնագրությունները նախքան ընդմիշտ վերացվելը %d օր կմնան Աղբարկղում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Վերացված ձայնագրությունները նախքան ընդմիշտ վերացվելը %d օր կմնան Աղբարկղում:</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ձայնագրություն</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ձայնագրություն</item>
+    </plurals>
+</resources>

@@ -1,0 +1,93 @@
+
+H
+java:S2275Ã",An 'int' is expected rather than a Object[].(Ÿ“ƒåıÿÿÿÿ
+Z
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(Ú²ßáüÿÿÿÿ
+w
+java:S1192|"\Use already-defined constant 'KEY_BUNDLE_CATEGORY_ID' instead of duplicating its value here.(­”øÿÿÿÿ
+’
+java:S1319^"wThe type of the "mListIdsMove" object should be an interface such as "List" rather than the implementation "ArrayList".(şâ©Ãøÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÑÈé
+E
+java:S3740 "/Provide the parametrized type for this generic.(¨»Èa
+>
+java:S1185Ø"(Remove this method to simply inherit it.(Á…‘
+m
+java:S1192N"RDefine a constant instead of duplicating this literal "select_mode_state" 3 times.(ÎÃ‰şÿÿÿÿ
+U
+java:S3516"9Refactor this method to not always return the same value.(Îâ½ûÿÿÿÿ
+i
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(­‰Ÿ 
+E
+java:S3740†"/Provide the parametrized type for this generic.(¨»Èa
+B
+java:S1172â"+Remove this unused method parameter "view".(­‰Ÿ 
+”
+java:S1319a"yThe type of the "mListViewItems" object should be an interface such as "List" rather than the implementation "ArrayList".(±ÏèÆşÿÿÿÿ
+>
+java:S1185¸"(Remove this method to simply inherit it.(Á…‘
+G
+java:S1172ş"+Remove this unused method parameter "lArr".(ÿÉúşÿÿÿÿ
+U
+java:S1155³">Use isEmpty() to check whether the collection is empty or not.(ÓŸü
+K
+java:S1066ô"/Merge this if statement with the enclosing one.(œ÷¿Ûúÿÿÿÿ
+T
+java:S3878¿"8Remove this array creation and simply pass the elements.(Ï•ßàıÿÿÿÿ
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(££¼§ùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÿÉúşÿÿÿÿ
+<
+java:S1170N"!Make this final field static too.(ÎÃ‰şÿÿÿÿ
+s
+java:S1104W"XMake mIsLongpress a static final constant or non-public and provide accessors if needed.(ˆ®ó´ùÿÿÿÿ
+T
+java:S3878Ã"8Remove this array creation and simply pass the elements.(Ÿ“ƒåıÿÿÿÿ
+H
+java:S2275¿",An 'int' is expected rather than a Object[].(Ï•ßàıÿÿÿÿ
+G
+java:S1172"+Remove this unused method parameter "view".(Îâ½ûÿÿÿÿ
+P
+java:S3516Õ"9Refactor this method to not always return the same value.( “âØ
+E
+java:S3740 "/Provide the parametrized type for this generic.(¨»Èa
+K
+java:S3740¢"/Provide the parametrized type for this generic.(ı €·ÿÿÿÿÿ
+E
+java:S3740†"/Provide the parametrized type for this generic.(¨»Èa
+n
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿÉúşÿÿÿÿ
+n
+java:S1104\"XMake mListAdapter a static final constant or non-public and provide accessors if needed.(‚ø¼ã
+|
+java:S1450g"aRemove the "mRoundedDecoration" field and declare it as a local variable in the relevant methods.(íË••øÿÿÿÿ
+D
+java:S3740q"/Provide the parametrized type for this generic.(¨»Èa
+U
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(ÓŸü
+L
+java:S1172°"5Remove this unused method parameter "dialogFragment".(÷‰õ
+c
+java:S1068H"HRemove this unused "MAX_CONTENT_PROVIDER_OPERATIONS_SIZE" private field.(Îğ«İúÿÿÿÿ
+v	java:S116N"\Rename this field "SELECT_MODE_STATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃ‰şÿÿÿÿ
+s
+java:S1104^"XMake mListIdsMove a static final constant or non-public and provide accessors if needed.(şâ©Ãøÿÿÿÿ
+m
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(úùóüÿÿÿÿ
+h
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(“µ{
+d	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øì­“
+P
+java:S1068j"5Remove this unused "mTaskEventHandler" private field.(Ã›úÚıÿÿÿÿ
+Y
+java:S1126ì"BReplace this if-then-else statement by a single method invocation.(˜ÄËµ
+P
+java:S1068N"5Remove this unused "SELECT_MODE_STATE" private field.(ÎÃ‰şÿÿÿÿ
+u
+java:S1104a"ZMake mListViewItems a static final constant or non-public and provide accessors if needed.(±ÏèÆşÿÿÿÿ
+n
+java:S1104f"YMake mRecyclerView a static final constant or non-public and provide accessors if needed.(…õÎN
+D
+java:S3740q"/Provide the parametrized type for this generic.(¨»Èa
+o
+java:S1104Y"YMake mIsSelectMode a static final constant or non-public and provide accessors if needed.(¢ª„Æ

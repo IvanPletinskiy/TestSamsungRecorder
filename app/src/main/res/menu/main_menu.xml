@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@+id/list_recordings" android:title="@string/list" app:showAsAction="always"/>
+    <item android:id="@+id/option_settings" android:title="@string/action_settings"/>
+    <item android:id="@+id/option_contact_us" android:title="@string/action_contact_us"/>
+    <item android:id="@+id/option_trash" android:title="@string/trash"/>
+</menu>

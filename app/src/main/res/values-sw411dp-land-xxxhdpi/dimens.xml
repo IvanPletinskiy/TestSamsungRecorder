@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="help_mode_ok_button_top_margin">66dp</dimen>
+    <dimen name="idle_stt_total_height">63dp</dimen>
+    <dimen name="info_description_height">83.5dp</dimen>
+    <dimen name="main_controlbutton_margin_bottom">26dp</dimen>
+    <dimen name="main_tab_list_margin_top">2dp</dimen>
+    <dimen name="stt_language_button_top_margin_pager">8dp</dimen>
+    <dimen name="voice_label_image_height">198dp</dimen>
+    <dimen name="voice_label_image_margin">20dp</dimen>
+    <dimen name="wave_view_interview_top_bottom_height">59dp</dimen>
+    <dimen name="wave_view_interview_total_height">139dp</dimen>
+    <dimen name="wave_view_standard_total_height">139dp</dimen>
+    <dimen name="wave_view_voicememo_total_height">76.5dp</dimen>
+</resources>

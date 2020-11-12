@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="@drawable/play_speed_popup_text_bg" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="3dp" android:paddingEnd="12dp">
+    <FrameLayout android:layout_width="0dp" android:layout_height="@dimen/play_speed_popup_height" android:layout_weight="1">
+        <RelativeLayout android:layout_gravity="start" android:id="@+id/play_speed_popup_bar_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layoutDirection="ltr">
+            <View android:id="@+id/play_speed_popup_bar" android:background="@color/play_speed_popup_bar_color" android:layout_width="@dimen/play_speed_popup_bar_width" android:layout_height="@dimen/play_speed_popup_bar_height" android:layout_centerInParent="true"/>
+            <TextView android:textSize="10dp" android:textColor="@color/play_speed_popup_bar_text_color" android:id="@+id/play_speed_text_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/play_speed_popup_bar_text_top_margin" android:text="1.0" android:layout_below="@+id/play_speed_popup_bar" android:fontFamily="sec-roboto-light"/>
+        </RelativeLayout>
+        <androidx.appcompat.widget.SeslSeekBar android:layout_gravity="center" android:id="@+id/play_speed_popup_seekbar" android:layout_width="match_parent" android:layout_height="@dimen/play_speed_popup_seekbar_height" android:max="15" android:thumb="@drawable/play_speed_popup_seekbar_thumb" android:paddingStart="16dp" android:paddingEnd="12dp" android:progressTint="@color/play_speed_popup_seekbar_progress_color" android:progressBackgroundTint="@color/play_speed_popup_seekbar_progress_bg"/>
+    </FrameLayout>
+    <LinearLayout android:gravity="right|center_vertical|center_horizontal|center|end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/play_speed_popup_height">
+        <TextView android:textSize="@dimen/play_speed_popup_text_view_text_size" android:textColor="@color/play_speed_popup_text_color" android:id="@+id/play_speed_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="sec-roboto-light"/>
+    </LinearLayout>
+</LinearLayout>

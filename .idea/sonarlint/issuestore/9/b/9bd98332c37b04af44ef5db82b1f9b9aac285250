@@ -1,0 +1,52 @@
+
+b	java:S128 "LEnd this switch case with an unconditional break, return or throw statement.(úâğ
+T
+java:S1854”"8Remove this useless assignment to local variable "str3".(ö¥ìèøÿÿÿÿ
+T
+java:S1854½"8Remove this useless assignment to local variable "str3".(åí‚øÿÿÿÿ
+T
+java:S1854¹"8Remove this useless assignment to local variable "str3".(©ßáèÿÿÿÿÿ
+T
+java:S1854œ"8Remove this useless assignment to local variable "str3".(´óÂ—ùÿÿÿÿ
+T
+java:S1854£"8Remove this useless assignment to local variable "str3".(Àñîçıÿÿÿÿ
+
+java:S1192q"rDefine a constant instead of duplicating this literal "ContextProvider insertion operation is performed." 3 times.(“È£Õüÿÿÿÿ
+O
+java:S1854Á"8Remove this useless assignment to local variable "str3".(ùÈü’
+T
+java:S1854Ö"8Remove this useless assignment to local variable "str3".(Ä¸ÂĞıÿÿÿÿ
+T
+java:S1854Î"8Remove this useless assignment to local variable "str3".(‰Ä¨ùÿÿÿÿ
+b
+java:S1192k"GDefine a constant instead of duplicating this literal "app_id" 3 times.(Æ‹Ğˆşÿÿÿÿ
+T
+java:S1854¬"8Remove this useless assignment to local variable "str3".(Í®¸úÿÿÿÿ
+O
+java:S1854¯"8Remove this useless assignment to local variable "str3".(Âé«™
+„
+java:S1192s"iDefine a constant instead of duplicating this literal "Error while using the ContextProvider : " 3 times.(Õğäóşÿÿÿÿ
+O
+java:S1854˜"8Remove this useless assignment to local variable "str3".(ÁŞÛÛ
+’
+java:S1192`"wDefine a constant instead of duplicating this literal "ContextProvider cannot insert log data are invalidated" 3 times.(ÈÿÃşÿÿÿÿ
+8	java:S131""Add a default case to this switch.(¥Õ‰ˆ
+7	java:S131¡""Add a default case to this switch.(ìúÇV
+O
+java:S1854Ò"8Remove this useless assignment to local variable "str3".(¥ĞŸ
+T
+java:S1854©"8Remove this useless assignment to local variable "str3".(­‚òùÿÿÿÿ
+O
+java:S1854²"8Remove this useless assignment to local variable "str3".(‘¶ï•
+O
+java:S1854¦"8Remove this useless assignment to local variable "str3".(¥ÔÔÄ
+n
+java:S3776x"SRefactor this method to reduce its Cognitive Complexity from 130 to the 15 allowed.(İß¶·øÿÿÿÿ
+m
+java:S1192k"RUse already-defined constant 'PACKAGE_NAME' instead of duplicating its value here.(Æ‹Ğˆşÿÿÿÿ
+F
+java:S1068*"0Remove this unused "PACKAGE_NAME" private field.(îµ€Ì
+T
+java:S1854Ê"8Remove this useless assignment to local variable "str3".(Ù°»·úÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(×Ãß1

@@ -1,0 +1,24 @@
+
+P
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+D
+java:S1066{"/Merge this if statement with the enclosing one.(ÌÊ¹
+Q
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1656"/Remove or correct this useless self-assignment.(¶ãÃàûÿÿÿÿ
+J
+java:S3740I"/Provide the parametrized type for this generic.(Ó©Æ£şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ÒÊ‘úÿÿÿÿ
+A
+java:S1181"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+|
+java:S4165"`Remove this useless assignment; "th" already holds the assigned value along all execution paths.(¶ãÃàûÿÿÿÿ
+<
+java:S1181"%Catch Exception instead of Throwable.(áù«õ
+1
+java:S1643L"Use a StringBuilder instead.(¹êÉ
+d
+java:S1192m"NDefine a constant instead of duplicating this literal "[DLS Client] " 3 times.(æÍÀ’
+n
+java:S1192l"XDefine a constant instead of duplicating this literal "[DLS Client] Send fail." 3 times.(Å‰À¡

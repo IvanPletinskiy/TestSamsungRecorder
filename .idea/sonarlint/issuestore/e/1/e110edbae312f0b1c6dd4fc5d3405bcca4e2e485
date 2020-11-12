@@ -1,0 +1,19 @@
+
+E
+java:S1066‡"/Merge this if statement with the enclosing one.(ß‘é{
+P
+java:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ô"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ú¨ž™
+?	java:S108®")Either remove or fill this block of code.(ãµ¡³
+h
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Õ¸áî
+>	java:S108L")Either remove or fill this block of code.(ãµ¡³
+Y
+java:S4719Á"=Replace Charset.forName() call with StandardCharsets.US_ASCII(°Öƒªþÿÿÿÿ
+Q
+java:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ

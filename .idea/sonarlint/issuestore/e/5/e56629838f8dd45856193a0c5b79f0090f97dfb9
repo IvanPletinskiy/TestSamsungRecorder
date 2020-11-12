@@ -1,0 +1,36 @@
+
+k
+java:S1104!"PMake TIME a static final constant or non-public and provide accessors if needed.(ã«åûşÿÿÿÿ
++
+java:S2275"Not enough arguments.(îÓ²
+j
+java:S3008!"ORename this field "TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã«åûşÿÿÿÿ
+N
+java:S3878"8Remove this array creation and simply pass the elements.(îÓ²
+h
+java:S1104‘"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ
+1
+java:S2275"Not enough arguments.(õ™­ÿÿÿÿÿ
+E
+java:S1444!"*Make this "public static TIME" field final(ã«åûşÿÿÿÿ
+G
+java:S1444 ",Make this "public static DELETE" field final(Îôİ¶üÿÿÿÿ
+t	java:S135Î"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+m
+java:S1104 "RMake DELETE a static final constant or non-public and provide accessors if needed.(Îôİ¶üÿÿÿÿ
+h
+java:S1104"QMake mTime a static final constant or non-public and provide accessors if needed.(İÑÊ›
+T
+java:S3878"8Remove this array creation and simply pass the elements.(õ™­ÿÿÿÿÿ
+g
+java:S1104""QMake TITLE a static final constant or non-public and provide accessors if needed.(Àİ’ï
+U
+java:S1118":Add a private constructor to hide the implicit public one.(«ú¿ùûÿÿÿÿ
+A
+java:S1444""+Make this "public static TITLE" field final(Àİ’ï
+l
+java:S3008 "QRename this field "DELETE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îôİ¶üÿÿÿÿ
+u
+java:S1210˜"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(åè®ÿÿÿÿÿ
+f
+java:S3008""PRename this field "TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àİ’ï

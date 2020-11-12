@@ -1,0 +1,66 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ç»¯¼8Œîš¼Û.
+Q
+java:S1141˜"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àİİüÿÿÿÿ
+g
+java:S1104C"QMake start a static final constant or non-public and provide accessors if needed.(ßÆ‡Ò
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ßÏúÿÿÿÿ8Œîš¼Û.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Í¤‰8Œîš¼Û.
+f
+java:S1104A"PMake data a static final constant or non-public and provide accessors if needed.(ğ æ¤
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒÿÚ¥8Œîš¼Û.
+G
+java:S1068'",Remove this unused "mMaxGain" private field.(½Â«†úÿÿÿÿ
+n
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(·ÚÇòüÿÿÿÿ
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™Æâ·şÿÿÿÿ8Œîš¼Û.
+D
+java:S1172¤"(Remove this unused method parameter "i".(ç«ÈÇÿÿÿÿÿ
+T
+java:S34001"9Remove this method and declare a constant for this value.(š¢¢Åüÿÿÿÿ
+j
+java:S1104B"OMake len a static final constant or non-public and provide accessors if needed.(ÊÊÒ´ûÿÿÿÿ
+?
+java:S2386"Make this member "protected".(óàûÖûÿÿÿÿ8Œîš¼Û.
+B
+java:S1068*",Remove this unused "mMinGain" private field.(«¼Ì«
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®ï“Éùÿÿÿÿ8Œîš¼Û.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†é’…şÿÿÿÿ8Œîš¼Û.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñÅßº8Œîš¼Û.
+m
+java:S1450*"WRemove the "mMinGain" field and declare it as a local variable in the relevant methods.(«¼Ì«
+d
+java:S2095’"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(’ü­§
+Z
+java:S3034‹">Prevent "int" promotion by adding "& 0xff" to this expression.(á•ˆÒıÿÿÿÿ
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯¢š8Œîš¼Û.
+:
+java:S2386 "Make this member "protected".(‚¸Å¿8Œ—¼Û.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÔÙ€8Œîš¼Û.
+m
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÅØÔÂøÿÿÿÿ
+n
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(–—«øÿÿÿÿ
+m
+java:S1192‡"VDefine a constant instead of duplicating this literal "stream.read exception" 3 times.(’Å¥²
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œÕ’üÿÿÿÿ8Œîš¼Û.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒ–İû8Œîš¼Û.
+Q
+java:S2183×".Either use a "long" or correct this shift to 8(¦½ó‘şÿÿÿÿ8Úä—¼Û.
+r
+java:S1450'"WRemove the "mMaxGain" field and declare it as a local variable in the relevant methods.(½Â«†úÿÿÿÿ
+Q
+java:S1141‘"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Š‡¹Ë8Œîš¼Û.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğï–ıÿÿÿÿ8Œîš¼Û.
+?
+java:S1172˜"(Remove this unused method parameter "i".(»†¸Á
+<
+java:S2183×"Remove this useless shift(¦½ó‘şÿÿÿÿ8Úä—¼Û.
+R
+java:S2183×"/Either use a "long" or correct this shift to 24(¦½ó‘şÿÿÿÿ8Úä—¼Û.
+g	java:S128Ó"LEnd this switch case with an unconditional break, return or throw statement.(ÅÑ©üÿÿÿÿ
+R
+java:S2183×"/Either use a "long" or correct this shift to 16(¦½ó‘şÿÿÿÿ8Úä—¼Û.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åËÑüùÿÿÿÿ8Œîš¼Û.

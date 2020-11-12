@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sec.android.app.voicenote.p007ui.view.WindowFocusLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:layout_marginBottom="18dp">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="20dp" android:layout_marginEnd="20dp">
+            <RadioGroup android:id="@+id/sort_radio_group" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <RadioButton android:textSize="17sp" android:id="@+id/time_button" android:background="@null" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground" android:text="@string/time" android:paddingStart="16dp"/>
+                <RadioButton android:textSize="17sp" android:id="@+id/name_button" android:background="@null" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground" android:text="@string/name" android:paddingStart="16dp"/>
+                <RadioButton android:textSize="17sp" android:id="@+id/duration_button" android:background="@null" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground" android:text="@string/duration" android:paddingStart="16dp"/>
+            </RadioGroup>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/dialog_sub_header_text_color" android:id="@+id/order" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:text="@string/order"/>
+                <View android:background="@drawable/subheader_divider" android:layout_width="match_parent" android:layout_height="3dp" android:layout_marginStart="16dp"/>
+            </LinearLayout>
+            <RadioGroup android:id="@+id/order_radio_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+                <RadioButton android:textSize="17sp" android:id="@+id/asc_button" android:background="@null" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground" android:text="@string/ascending" android:paddingStart="16dp"/>
+                <RadioButton android:textSize="17sp" android:id="@+id/des_button" android:background="@null" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="?android:attr/selectableItemBackground" android:text="@string/descending" android:paddingStart="16dp"/>
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+</com.sec.android.app.voicenote.p007ui.view.WindowFocusLayout>

@@ -1,0 +1,21 @@
+
+j
+java:S1192C"ODefine a constant instead of duplicating this literal " playStatus : " 5 times.(ĞĞšÁşÿÿÿÿ
+d
+java:S1192C"IDefine a constant instead of duplicating this literal " type : " 5 times.(ĞĞšÁşÿÿÿÿ
+€
+java:S1450"eRemove the "mIsRunningInBackground" field and declare it as a local variable in the relevant methods.(Ëá·üÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‹ğ®Öúÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ãúùâ
+h
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ß­†×
+]
+java:S1126m"BReplace this if-then-else statement by a single method invocation.(Ç©ºÖøÿÿÿÿ
+B
+java:S1172×"&Remove these unused method parameters.(Öá¼šúÿÿÿÿ
+X
+java:S1126ó"AReplace this if-then-else statement by a single return statement.(Ï×¬
+U
+java:S1068":Remove this unused "mIsRunningInBackground" private field.(Ëá·üÿÿÿÿ

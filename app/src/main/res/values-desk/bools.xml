@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="dex_in_external_monitor">true</bool>
+    <bool name="sesl_config_desktop_mode">true</bool>
+</resources>

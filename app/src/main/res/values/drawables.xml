@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="actionbar_background">@color/main_window_bg</drawable>
+    <drawable name="listrow_seekbar_bg">@color/listrow_seekbar_bg_color</drawable>
+    <drawable name="listrow_seekbar_fg">@color/listrow_seekbar_fg_color</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+</resources>

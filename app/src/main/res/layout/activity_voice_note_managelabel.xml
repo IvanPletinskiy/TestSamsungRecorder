@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/layout_manage_categories" android:background="@color/actionbar_color_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/list_margin_side" android:paddingEnd="@dimen/list_margin_side">
+    <TextView android:textSize="20dp" android:textColor="#d38600" android:gravity="center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_categories" android:layout_centerInParent="true"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/category_list" android:background="@color/list_background_color" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</RelativeLayout>

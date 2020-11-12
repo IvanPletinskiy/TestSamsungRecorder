@@ -1,0 +1,54 @@
+
+‹
+java:S1319’"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¾¸ÒË
+‡
+java:S1319‚"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğõïë
+‹
+java:S1319Ô"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(·¶´„
+
+java:S1319•"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(äø±ãúÿÿÿÿ
+Œ
+java:S1319¼"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹êâ³şÿÿÿÿ
+‹
+java:S1319À"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ìÂÄ·
+E
+java:S3740""/Provide the parametrized type for this generic.(ÓİÓÎ
+h
+java:S1192á"LDefine a constant instead of duplicating this literal " endTime : " 4 times.(Å÷ª¢şÿÿÿÿ
+j
+java:S1192á"NDefine a constant instead of duplicating this literal " startTime : " 4 times.(Å÷ª¢şÿÿÿÿ
+m
+java:S3077!"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼ûŞ»
+i	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•óûøÿÿÿÿ
+=
+java:S1168à"&Return an empty array instead of null.(¥¹ï
+@
+java:S1172¾")Remove this unused method parameter "r7".(¢ü½¦
+n
+java:S3776ª	"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¶Ç¡ùÿÿÿÿ
+O
+java:S3878"8Remove this array creation and simply pass the elements.(‘Âö
+C
+java:S2275",An 'int' is expected rather than a Object[].(‘Âö
+T
+java:S2130µ"8Use "Long.parseLong" for this string-to-long conversion.(éğÜÑøÿÿÿÿ
+i
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(·¶´„
+B
+java:S1068",Remove this unused "BPS_128K" private field.(«ˆÂ…
+G
+java:S1068",Remove this unused "BPS_256K" private field.(ŸËïÅüÿÿÿÿ
+F
+java:S1068"+Remove this unused "BPS_64K" private field.(¾œŠÀùÿÿÿÿ
+G
+java:S1068%"1Remove this unused "mCategoryName" private field.(ş¥óË
+H
+java:S1068*"2Remove this unused "mIsDataChanged" private field.(Òİ‰
+L
+java:S10684"6Remove this unused "mVoiceRecorderData" private field.(¯³ÔÒ
+P
+java:S1144W"5Remove this unused private "containsListener" method.(½®Ğ¦ıÿÿÿÿ
+M
+java:S1144ú"6Remove this unused private "createMeetingData" method.(¯‡¬«
+M
+java:S1144¾"6Remove this unused private "getRecQualityMode" method.(¢ü½¦

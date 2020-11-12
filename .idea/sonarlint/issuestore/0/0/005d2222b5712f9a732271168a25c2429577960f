@@ -1,0 +1,71 @@
+
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(æ»Á­úÿÿÿÿ
+B
+java:S1481ª"+Remove this unused "unused" local variable.(•ÓÉ“
+W
+java:S1854";Remove this useless assignment to local variable "unused2".(æ»Á­úÿÿÿÿ
+H
+java:S1444,"2Make this "public static mDoubleClick" field final(ñ¯÷
+c	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©üÂ¶
+M
+java:S1068%"7Remove this unused "ACTION_DOUBLE_CLICK" private field.(¶ªü
+Q
+java:S1068&"6Remove this unused "ACTION_SHORT_PRESS" private field.(¡›Şòşÿÿÿÿ
+Q
+java:S1854ÿ":Remove this useless assignment to local variable "unused".(ÕÄ½·
+R
+java:S1854Ü";Remove this useless assignment to local variable "unused2".(”ºÎ
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ü¸—±ûÿÿÿÿ
+B
+java:S1481ÿ"+Remove this unused "unused" local variable.(ÕÄ½·
+G
+java:S1481ø"+Remove this unused "unused" local variable.(Ìƒ£Îÿÿÿÿÿ
+L
+java:S1068("6Remove this unused "DOUBLE_CLICK_DELAY" private field.(úº†œ
+j
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(¹Ğƒß
+8	java:S131 ""Add a default case to this switch.(ìß¤è
+s
+java:S11044"]Make mKeyIntervalTimer a static final constant or non-public and provide accessors if needed.(Ò¬¤
+R
+java:S1854†";Remove this useless assignment to local variable "unused3".(“ü££
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(¼ğÄıÿÿÿÿ
+h
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(óöĞ™
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(öšâÕøÿÿÿÿ
+C
+java:S1481Ü",Remove this unused "unused2" local variable.(”ºÎ
+Q
+java:S1854ª":Remove this useless assignment to local variable "unused".(•ÓÉ“
+m
+java:S11046"WMake mLongKeyCnt a static final constant or non-public and provide accessors if needed.(½á”º
+i
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(½™Æ€
+h	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ŞåŞıÿÿÿÿ
+n
+java:S1104,"XMake mDoubleClick a static final constant or non-public and provide accessors if needed.(ñ¯÷
+m
+java:S1104/"WMake mAppContext a static final constant or non-public and provide accessors if needed.(¡µ•ï
+V
+java:S1854ø":Remove this useless assignment to local variable "unused".(Ìƒ£Îÿÿÿÿÿ
+H
+java:S1481",Remove this unused "unused2" local variable.(æ»Á­úÿÿÿÿ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÜİàÈ
+c	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‡¨í
+M
+java:S2696†"6Make the enclosing method "static" or remove this set.(“ü££
+M
+java:S2696ÿ"6Make the enclosing method "static" or remove this set.(ÕÄ½·
+p
+java:S11041"ZMake mButtonHandler a static final constant or non-public and provide accessors if needed.(ü­İÇ
+o
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(‰—·ûÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ú¾°âüÿÿÿÿ
+C
+java:S1481†",Remove this unused "unused3" local variable.(“ü££

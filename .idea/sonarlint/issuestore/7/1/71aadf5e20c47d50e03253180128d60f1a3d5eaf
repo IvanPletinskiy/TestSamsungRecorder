@@ -1,0 +1,36 @@
+
+k	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íûºÄøÿÿÿÿ
+l
+java:S1104!"WMake mSampleSize a static final constant or non-public and provide accessors if needed.(ƒê–t
+O
+java:S1854¹"8Remove this useless assignment to local variable "iArr".(ÜÎûæ
+A
+java:S1481y",Remove this unused "unused2" local variable.(Ğ…ºc
+p
+java:S1104"ZMake mNewWaveBuffer a static final constant or non-public and provide accessors if needed.(ğùŠÖ
+F
+java:S1481Y"+Remove this unused "unused" local variable.(ÙÛèãøÿÿÿÿ
+k
+java:S1104"UMake mListener a static final constant or non-public and provide accessors if needed.(˜Ù§›
+f
+java:S1104"QMake mPath a static final constant or non-public and provide accessors if needed.(„³‚N
+Q
+java:S1141—"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+O
+java:S1854®"8Remove this useless assignment to local variable "iArr".(ÜÎûæ
+P
+java:S1854y";Remove this useless assignment to local variable "unused2".(Ğ…ºc
+A
+java:S1481u"+Remove this unused "unused" local variable.(«ÌÄ¢
+U
+java:S1854Y":Remove this useless assignment to local variable "unused".(ÙÛèãøÿÿÿÿ
+P
+java:S1854u":Remove this useless assignment to local variable "unused".(«ÌÄ¢
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å°›
+I
+java:S1172U".Remove this unused method parameter "voidArr".(ÊÎñ¼ùÿÿÿÿ
+t
+java:S1104"YMake mSampleBuffer a static final constant or non-public and provide accessors if needed.(‰Èÿ¾üÿÿÿÿ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€˜æîùÿÿÿÿ
+p
+java:S1104"UMake mDuration a static final constant or non-public and provide accessors if needed.(òïÌ–ıÿÿÿÿ

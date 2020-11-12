@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="@string/action_settings" android:key="settings_preference_screen">
+    <com.sec.android.app.voicenote.p007ui.view.PopUpPreference android:persistent="true" android:entries="@array/recording_quality" android:layout="@layout/preference_popup_layout" android:title="@string/recording_quality" android:key="rec_quality" android:defaultValue="1" android:entryValues="@array/value_rec_quality"/>
+    <androidx.preference.Preference android:persistent="true" android:layout="@layout/preference_record_stereo_layout" android:title="@string/recording_stereo" android:key="rec_stereo" android:summary="@string/on"/>
+    <androidx.preference.SwitchPreferenceCompat android:layout="@layout/preference_switch_layout" android:title="@string/call_reject_recording" android:key="rec_call_reject" android:defaultValue="false"/>
+    <androidx.preference.SwitchPreferenceCompat android:layout="@layout/preference_switch_layout" android:title="@string/play_continuously" android:key="play_continuously" android:defaultValue="false"/>
+    <com.sec.android.app.voicenote.p007ui.view.PopUpPreference android:persistent="true" android:entries="@array/storage_location" android:layout="@layout/preference_popup_layout" android:title="@string/storage_location" android:key="storage" android:defaultValue="0" android:entryValues="@array/value_2"/>
+    <androidx.preference.SwitchPreferenceCompat android:layout="@layout/preference_switch_layout" android:title="@string/trash" android:key="trash_is_on" android:defaultValue="false"/>
+    <androidx.preference.PreferenceCategory android:key="key_category_about_voice_recorder">
+        <androidx.preference.Preference android:persistent="true" android:layout="@layout/preference_about_page_layout" android:title="@string/about_voice_recorder" android:key="about" app:allowDividerBelow="false"/>
+    </androidx.preference.PreferenceCategory>
+</androidx.preference.PreferenceScreen>

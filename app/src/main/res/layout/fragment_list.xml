@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/search_list_margin_top">
+    <LinearLayout android:orientation="vertical" android:id="@+id/layout_list" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/list_margin_side" android:layout_marginEnd="@dimen/list_margin_side">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/list" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <View android:id="@+id/view_margin_bottom" android:background="@color/list_background_margin_bottom" android:layout_width="match_parent" android:layout_height="@dimen/list_margin_bottom"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/empty" android:background="@color/list_background_margin_bottom" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/list_empty_recorded_list" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/listview_empty_text_size" android:textColor="@color/list_empty_file_text_color" android:layout_gravity="top|center_vertical|center_horizontal|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_recorded_files" android:fontFamily="sans-serif"/>
+            <TextView android:textSize="14sp" android:textColor="@color/list_empty_file_text_color" android:gravity="center" android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/no_recordings_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/no_recordings_description_margin_top" android:maxWidth="275dp" android:text="@string/no_recordings_description" android:lineSpacingExtra="4sp" android:fontFamily="sans-serif"/>
+        </LinearLayout>
+        <TextView android:textSize="@dimen/listview_empty_text_size" android:textColor="@color/listview_empty_text_color" android:gravity="center" android:id="@+id/list_empty_search_list" android:paddingBottom="@dimen/listview_empty_text_padding_bottom" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/no_result" android:fontFamily="sec-roboto-light" android:layout_marginStart="@dimen/listview_empty_text_start_margin" android:layout_marginEnd="@dimen/listview_empty_text_end_margin"/>
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/list_progressbar" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="60dp" android:layout_height="60dp"/>
+</FrameLayout>

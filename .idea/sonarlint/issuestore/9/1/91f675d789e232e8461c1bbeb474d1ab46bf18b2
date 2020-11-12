@@ -1,0 +1,53 @@
+
+o
+java:S3008$"TRename this field "TYPE_ITEM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“á·‡ûÿÿÿÿ
+2
+java:S3626¾"Remove this redundant jump.(ûÁİ…
+M
+java:S2387,"7"mPauseBySeek" is the name of a field in "ListAdapter".(½Şı
+V
+java:S1161ã":Add the "@Override" annotation above this method signature(İßéàúÿÿÿÿ
+I
+java:S1172|".Remove this unused method parameter "seekBar".(ñ®çâùÿÿÿÿ
+P
+java:S1161I":Add the "@Override" annotation above this method signature(½ÌÜê
+2
+java:S3626»"Remove this redundant jump.(ûÁİ…
+U
+java:S1854~":Remove this useless assignment to local variable "unused".(Œµïúÿÿÿÿ
+=
+java:S1172v"(Remove this unused method parameter "i".(…ãä1
+i
+java:S1104'"TMake mContext a static final constant or non-public and provide accessors if needed.(Ù’ş
+E
+java:S1172ƒ".Remove this unused method parameter "seekBar".(‰ÁÕ–
+V
+java:S1161Ğ":Add the "@Override" annotation above this method signature(Õ»­ëüÿÿÿÿ
+j
+java:S1104*"UMake mListener a static final constant or non-public and provide accessors if needed.(÷ÏÅ
+2
+java:S3626À"Remove this redundant jump.(ûÁİ…
+h
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(½ÌÜê
+I
+java:S2387*"4"mListener" is the name of a field in "ListAdapter".(÷ÏÅ
+o
+java:S3008%"TRename this field "TYPE_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÜæ´úÿÿÿÿ
+G
+java:S1481‰"+Remove this unused "unused" local variable.(§†¬úÿÿÿÿ
+H
+java:S2387'"3"mContext" is the name of a field in "ListAdapter".(Ù’ş
+V
+java:S1854‰":Remove this useless assignment to local variable "unused".(§†¬úÿÿÿÿ
+Q
+java:S1161É":Add the "@Override" annotation above this method signature(¨œ†
+2
+java:S3626´"Remove this redundant jump.(ûÁİ…
+F
+java:S1481~"+Remove this unused "unused" local variable.(Œµïúÿÿÿÿ
+n
+java:S1104,"XMake mPauseBySeek a static final constant or non-public and provide accessors if needed.(½Şı
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‡µøŠ
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(÷ßâİúÿÿÿÿ

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ৰেকৰ্ড কৰি থকাৰ সময়ত %d টা কল অৱৰোধ কৰা হৈছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ৰেকৰ্ড কৰি থকাৰ সময়ত %d টা কল অৱৰোধ কৰা হৈছে</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা বৰ্গ বিলোপ কৰিবনে?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d টা বৰ্গ বিলোপ কৰিবনে?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ঘণ্টা</item>
+        <item quantity="other">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 মিনিট</item>
+        <item quantity="other">%d মিনিট</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 ছেকেণ্ড</item>
+        <item quantity="other">%d চেকেণ্ড</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ট্ৰেচত থকা আইটেমসমূহ %d দিনৰ পিছত স্থায়ীভাৱে বিলোপ কৰা হ\'ব।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ট্ৰেচত থকা আইটেমসমূহ %d দিনৰ পিছত স্থায়ীভাৱে বিলোপ কৰা হ\'ব।</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ট্ৰেচত থকা আইটেমসমূহ %d দিনৰ পিছত স্থায়ীভাৱে বিলোপ কৰা হ\'ব। আপোনাৰ SD কাৰ্ড আঁতৰোৱাৰ পূৰ্বে, তাত থকা সকলোখিনি সম্পূৰ্ণকৈ বিলোপ কৰাটো নিশ্চিত কৰিবলৈ ট্ৰেচ খালী কৰক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ট্ৰেচত থকা আইটেমসমূহ %d দিনৰ পিছত স্থায়ীভাৱে বিলোপ কৰা হ\'ব। আপোনাৰ SD কাৰ্ড আঁতৰোৱাৰ পূৰ্বে, তাত থকা সকলোখিনি সম্পূৰ্ণকৈ বিলোপ কৰাটো নিশ্চিত কৰিবলৈ ট্ৰেচ খালী কৰক।</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ট্ৰেচলৈ %d টা ৰেকৰ্ডিং লৈ যাবনে?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ট্ৰেচলৈ %d টা ৰেকৰ্ডিং লৈ যাবনে?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">বিলোপ কৰা ৰেকৰ্ডিংসমূহ সেইবোৰ চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ট্ৰেচত ৰাখক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">বিলোপ কৰা ৰেকৰ্ডিংসমূহ সেইবোৰ চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ট্ৰেচত ৰাখক।</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপুনি বিলোপ কৰা কোনো ৰেকৰ্ডিং চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ইয়াত থাকিব।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপুনি বিলোপ কৰা কোনো ৰেকৰ্ডিং চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ইয়াত থাকিব।</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা ৰেকৰ্ডিং স্থায়ীভাৱে বিলোপ কৰা হ\'ব।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d টা ৰেকৰ্ডিং স্থায়ীভাৱে বিলোপ কৰা হ\'ব।</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">বিলোপ কৰা ৰেকৰ্ডিংসমূহ সেইবোৰ চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ট্ৰেচত থাকিব।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">বিলোপ কৰা ৰেকৰ্ডিংসমূহ সেইবোৰ চিৰদিনৰ বাবে বিলোপ হোৱাৰ পূৰ্বে %d দিনৰ বাবে ট্ৰেচত থাকিব।</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা ৰেকৰ্ডিং</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d টা ৰেকৰ্ডিং</item>
+    </plurals>
+</resources>

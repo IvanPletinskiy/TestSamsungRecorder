@@ -1,0 +1,175 @@
+
+
+java:S1186ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê‘·‡ùÿÿÿÿ
+e
+java:S1104J"OMake TAG a static final constant or non-public and provide accessors if needed.(˜Òµ¦
+D
+java:S1172´"(Remove this unused method parameter "i".(áıÀşÿÿÿÿ
+E
+java:S1068H"/Remove this unused "SineInOut80" private field.(ï§÷É
+i	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Î‘ÿÿÿÿÿ
+
+java:S1186í
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ
+V
+java:S1854Ô":Remove this useless assignment to local variable "unused".(Íî´ÿúÿÿÿÿ
+7
+java:S1170G"!Make this final field static too.(œş•ç
+I
+java:S1172¼"-Remove this unused method parameter "bundle".(ÁÈî®úÿÿÿÿ
+n
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(áıÀşÿÿÿÿ
+Q
+java:S1172Û
+"5Remove this unused method parameter "transformation".(ŸÏ³şÿÿÿÿ
+|
+java:S1104M"aMake mBottomNavigationView a static final constant or non-public and provide accessors if needed.(³ Æöøÿÿÿÿ
+F
+java:S1172ç"/Remove this unused method parameter "animator".(…×äñ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·×šùÿÿÿÿ
+G
+java:S1481Ô"+Remove this unused "unused" local variable.(Íî´ÿúÿÿÿÿ
+Y
+java:S1126ó"BReplace this if-then-else statement by a single method invocation.(à¥®Š
+H
+java:S1068	"1Remove this unused "mIsNeedScroll" private field.(­°Î
+i	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×üµÒÿÿÿÿÿ
+K
+java:S1066Ä	"/Merge this if statement with the enclosing one.(¢ôĞ’ÿÿÿÿÿ
+m
+java:S1104\"XMake mProgressBar a static final constant or non-public and provide accessors if needed.(î¥÷
+P
+java:S3516“"9Refactor this method to not always return the same value.(ñ°ãë
+w
+java:S1104U"\Make mLastPosSelected a static final constant or non-public and provide accessors if needed.(¾…É—şÿÿÿÿ
+
+java:S1186³
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ
+8	java:S131À""Add a default case to this switch.(ìß¤è
+L
+java:S1172Â
+"0Remove this unused method parameter "animation".(šëÜµøÿÿÿÿ
+h
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(î•„à
+E
+java:S3740Ä"/Provide the parametrized type for this generic.(¨»Èa
+G
+java:S1172¶
+"0Remove this unused method parameter "animation".(ğ«Ôƒ
+J
+java:S1144³".Remove this unused private "isMaxFont" method.(ÏÃµÀÿÿÿÿÿ
+F
+java:S1172ò"/Remove this unused method parameter "animator".(”ïòŠ
+Y
+java:S1854Å";Remove this useless assignment to local variable "seekBar".(ØÊ´À8Ùÿ¶¸Û.
+˜
+java:S1186ğ
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôâ¢ûÿÿÿÿ
+K
+java:S1066Œ"/Merge this if statement with the enclosing one.(œ÷¿Ûúÿÿÿÿ
+i
+java:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´ÇôÓ
+U
+java:S1068E":Remove this unused "DURATION_THRESHOLD_AMR" private field.(şòªŸúÿÿÿÿ
+O
+java:S1068F":Remove this unused "DURATION_THRESHOLD_M4A" private field.(Ú«Íh
+@
+java:S1172Ì")Remove this unused method parameter "i2".(ÎàÌ©
+@
+java:S1125©	")Remove the literal "false" boolean value.(“…ÓÅ
+?
+java:S1068›	"(Remove this unused "INIT" private field.(­ò®
+]
+java:S1126ü"AReplace this if-then-else statement by a single return statement.(îùµŸşÿÿÿÿ
+i
+java:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 62 to the 15 allowed.(€ˆÏÆ
+c	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î•„à
+T
+java:S3878¦"8Remove this array creation and simply pass the elements.(¬åÅªüÿÿÿÿ
+=
+java:S1172à"&Remove these unused method parameters.(„ã‘£
+|
+java:S1450_"aRemove the "mRoundedDecoration" field and declare it as a local variable in the relevant methods.(íË••øÿÿÿÿ
+Q
+java:S1161È":Add the "@Override" annotation above this method signature(¼Âª
+
+java:S1104R"dMake mIsScrolledToNextPlaying a static final constant or non-public and provide accessors if needed.(µ³èùÿÿÿÿ
+n
+java:S1104^"YMake mRecyclerView a static final constant or non-public and provide accessors if needed.(…õÎN
+J
+java:S1172“"3Remove this unused method parameter "recyclerView".(ñ°ãë
+F
+java:S1068š	"*Remove this unused "FINISH" private field.(„ÙÏıÿÿÿÿ
+1
+java:S2275¦"Not enough arguments.(¬åÅªüÿÿÿÿ
+n
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(åíÁøøÿÿÿÿ
+U
+java:S3516"9Refactor this method to not always return the same value.(ôâ¢ûÿÿÿÿ
+B
+java:S1481À	"+Remove this unused "unused" local variable.(–’Ëë
+s
+java:S1104P"]Make mExpandedPosition a static final constant or non-public and provide accessors if needed.(›§›
+7
+java:S1170H"!Make this final field static too.(ï§÷É
+l
+java:S1104”	"UMake mPosition a static final constant or non-public and provide accessors if needed.(ãÔÂ
+n
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(õãóúÿÿÿÿ
+G
+java:S1172"+Remove this unused method parameter "view".(ôâ¢ûÿÿÿÿ
+V
+java:S1161Ï":Add the "@Override" annotation above this method signature(İ±Ïúÿÿÿÿ
+E
+java:S1172Í".Remove this unused method parameter "seekBar".(‰ÁÕ–
+I
+java:S1172­"-Remove this unused method parameter "cursor".(æ§¹»şÿÿÿÿ
+c	java:S116J"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Òµ¦
+[
+java:S2583ƒ"DChange this condition so that it does not always evaluate to "false"(–÷éÑ
+Q
+java:S1854À	":Remove this useless assignment to local variable "unused".(–’Ëë
+k	java:S116G"VRename this field "SineInOut33" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œş•ç
+d	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÃÃÇ
+^
+java:S1192ø"GDefine a constant instead of duplicating this literal " id : " 3 times.(ş¢–Ñ
+<	java:S131z""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+D
+java:S1172£"-Remove this unused method parameter "cursor".(ú©©ß
+>
+java:S1172Ã"(Remove this unused method parameter "i".(…ãä1
+^
+java:S1854Õ";Remove this useless assignment to local variable "seekBar".(š§åûıÿÿÿÿ8›¶µ¸Û.
+J
+java:S1172É".Remove this unused method parameter "seekBar".(ñ®çâùÿÿÿÿ
+E
+java:S1068G"/Remove this unused "SineInOut33" private field.(œş•ç
+w
+java:S3923à"[Remove this conditional structure or edit its code blocks so that they're not all the same.(£¹–êşÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©í–Şùÿÿÿÿ
+k	java:S116H"VRename this field "SineInOut80" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§÷É
+h
+java:S1104a"RMake mScene a static final constant or non-public and provide accessors if needed.(­Õ„
+V
+java:S1144Ø":Remove this unused private "moveToPlayingPosition" method.(î›ãäúÿÿÿÿ
+K
+java:S1172"/Remove this unused method parameter "animator".(¯Ÿõåıÿÿÿÿ
+J
+java:S1172®	".Remove this unused method parameter "voidArr".(°¶éôüÿÿÿÿ
+Q
+java:S1172¢
+"5Remove this unused method parameter "transformation".(ŸÏ³şÿÿÿÿ
+X
+java:S1126»"AReplace this if-then-else statement by a single return statement.(ë…ä
+E
+java:S3740Ä"/Provide the parametrized type for this generic.(¨»Èa
+C
+java:S3985™	"-Remove this unused private "TaskState" class.(×É.
+K
+java:S3740á"/Provide the parametrized type for this generic.(Ç†‚ùÿÿÿÿ
+a
+java:S1764«
+"JCorrect one of the identical sub-expressions on both sides of operator "-"(ã“§³

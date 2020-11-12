@@ -1,0 +1,12 @@
+
+l
+java:S11920"PUse already-defined constant '_TABLENAME' instead of duplicating its value here.(éþ–N8åÝÜ¸Û.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°Äº“ÿÿÿÿÿ8åÝÜ¸Û.
+B
+java:S1172"&Remove these unused method parameters.(¾¶ù\8åÝÜ¸Û.
+V
+java:S3400"9Remove this method and declare a constant for this value.(”·³›8åÝÜ¸Û.
+C
+java:S1172&"&Remove these unused method parameters.(´øÿ÷8åÝÜ¸Û.
+V
+java:S3400'"9Remove this method and declare a constant for this value.(”·³›8åÝÜ¸Û.

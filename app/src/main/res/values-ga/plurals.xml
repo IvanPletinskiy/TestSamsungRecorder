@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bac curtha ar %d ghlao agus taifeadadh ar bun</item>
+        <item quantity="two">Bac curtha ar %d ghlao agus taifeadadh ar bun</item>
+        <item quantity="few">Bac curtha ar %d ghlao agus taifeadadh ar bun</item>
+        <item quantity="many">Bac curtha ar %d nglao agus taifeadadh ar bun</item>
+        <item quantity="other">Bac curtha ar %d glao agus taifeadadh ar bun</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scrios %d chatagóir?</item>
+        <item quantity="two">Scrios %d chatagóir?</item>
+        <item quantity="few">Scrios %d chatagóir?</item>
+        <item quantity="many">Scrios %d gcatagóir?</item>
+        <item quantity="other">Scrios %d catagóir?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 uair an chloig</item>
+        <item quantity="other">%d uair an chloig</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 nóiméad</item>
+        <item quantity="other">%d nóiméad</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 soicind</item>
+        <item quantity="other">%d soicind</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lae.</item>
+        <item quantity="two">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá.</item>
+        <item quantity="few">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá.</item>
+        <item quantity="many">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá.</item>
+        <item quantity="other">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lae. Roimh do chárta SD a bhaint, folmhaigh an Bruscar lena chinntiú go bhfuil gach rud ann scriosta go hiomlán.</item>
+        <item quantity="two">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá. Roimh do chárta SD a bhaint, folmhaigh an Bruscar lena chinntiú go bhfuil gach rud ann scriosta go hiomlán.</item>
+        <item quantity="few">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá. Roimh do chárta SD a bhaint, folmhaigh an Bruscar lena chinntiú go bhfuil gach rud ann scriosta go hiomlán.</item>
+        <item quantity="many">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá. Roimh do chárta SD a bhaint, folmhaigh an Bruscar lena chinntiú go bhfuil gach rud ann scriosta go hiomlán.</item>
+        <item quantity="other">Scriosfar na míreanna sa Bhruscar go buan tar éis %d lá. Roimh do chárta SD a bhaint, folmhaigh an Bruscar lena chinntiú go bhfuil gach rud ann scriosta go hiomlán.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bog %d taifeadadh chuig an mBruscar?</item>
+        <item quantity="two">Bog %d thaifeadadh chuig an mBruscar?</item>
+        <item quantity="few">Bog %d thaifeadadh chuig an mBruscar?</item>
+        <item quantity="many">Bog %d dtaifeadadh chuig an mBruscar?</item>
+        <item quantity="other">Bog %d taifeadadh chuig an mBruscar?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Coinnigh taifeadtaí scriosta sa Bhruscar go ceann %d lae sula scriosfar go buan iad.</item>
+        <item quantity="two">Coinnigh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="few">Coinnigh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="many">Coinnigh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="other">Coinnigh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aon taifeadtaí a scriosfaidh tú, fanfaidh siad anseo go ceann %d lae sula scriosfar go buan iad.</item>
+        <item quantity="two">Aon taifeadtaí a scriosfaidh tú, fanfaidh siad anseo go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="few">Aon taifeadtaí a scriosfaidh tú, fanfaidh siad anseo go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="many">Aon taifeadtaí a scriosfaidh tú, fanfaidh siad anseo go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="other">Aon taifeadtaí a scriosfaidh tú, fanfaidh siad anseo go ceann %d lá sula scriosfar go buan iad.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scriosfar %d taifeadadh go buan.</item>
+        <item quantity="two">Scriosfar %d thaifeadadh go buan.</item>
+        <item quantity="few">Scriosfar %d thaifeadadh go buan.</item>
+        <item quantity="many">Scriosfar %d dtaifeadadh go buan.</item>
+        <item quantity="other">Scriosfar %d taifeadadh go buan.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Fanfaidh taifeadtaí scriosta sa Bhruscar go ceann %d lae sula scriosfar go buan iad.</item>
+        <item quantity="two">Fanfaidh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="few">Fanfaidh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="many">Fanfaidh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+        <item quantity="other">Fanfaidh taifeadtaí scriosta sa Bhruscar go ceann %d lá sula scriosfar go buan iad.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d taifeadadh</item>
+        <item quantity="two">%d thaifeadadh</item>
+        <item quantity="few">%d thaifeadadh</item>
+        <item quantity="many">%d dtaifeadadh</item>
+        <item quantity="other">%d taifeadadh</item>
+    </plurals>
+</resources>

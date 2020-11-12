@@ -1,0 +1,26 @@
+
+J
+java:S1172Ë".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+{
+java:S1450"`Remove the "mBluetoothDevices" field and declare it as a local variable in the relevant methods.(²•˜“ûÿÿÿÿ
+U
+java:S1854"":Remove this useless assignment to local variable "unused".(¶Ñíüÿÿÿÿ
+F
+java:S1066Ö"/Merge this if statement with the enclosing one.(²«à
+O
+java:S1854)":Remove this useless assignment to local variable "unused".(½‘*
+V
+java:S1854Ó":Remove this useless assignment to local variable "unused".(ûî†øúÿÿÿÿ
+G
+java:S1481Ó"+Remove this unused "unused" local variable.(ûî†øúÿÿÿÿ
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(š³ÿÿÿÿÿÿ
+@
+java:S1481)"+Remove this unused "unused" local variable.(½‘*
+s
+java:S1104"]Make mBluetoothHeadset a static final constant or non-public and provide accessors if needed.(Îá÷
+F
+java:S1481""+Remove this unused "unused" local variable.(¶Ñíüÿÿÿÿ
+r
+java:S1104"\Make mConnectionState a static final constant or non-public and provide accessors if needed.(øä¯Â
+t	java:S135¢"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ

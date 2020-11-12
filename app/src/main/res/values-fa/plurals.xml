@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d تماس در حین ضبط مسدود شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d تماس در حین ضبط مسدود شد</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d گروه حذف شود؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d گروه حذف شود؟</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">۱ ساعت</item>
+        <item quantity="other">%d ساعت</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">۱ دقيقه</item>
+        <item quantity="other">%d دقيقه</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">۱ ثانیه</item>
+        <item quantity="other">%dثانیه</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">مورد موجود در سطل زباله بعد از %d روز برای همیشه حذف خواهد شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">موارد موجود در سطل زباله بعد از %d روز برای همیشه حذف خواهند شد.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">موارد موجود در سطل زباله بعد از %d روز برای همیشه حذف خواهند شد. قبل از خارج کردن کارت حافظه، سطل زباله را خالی کنید و مطمئن شوید همه موارد موجود در آن کاملاً حذف شده باشد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">موارد موجود در سطل زباله بعد از %d روز برای همیشه حذف خواهند شد. قبل از خارج کردن کارت حافظه، سطل زباله را خالی کنید و مطمئن شوید همه موارد موجود در آن کاملاً حذف شده باشد.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d صدای ضبط شده به سطل زباله منتقل شود؟</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d صدای ضبط شده به سطل زباله منتقل شود؟</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">موارد ضبط شده‌ای که حذف می‌شوند به مدت %d روز در سطل زباله نگه داشته شده و سپس برای همیشه حذف می‌شوند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">موارد ضبط شده‌ای که حذف می‌شوند به مدت %d روز در سطل زباله نگه داشته شده و سپس برای همیشه حذف می‌شوند.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">همه موارد ضبط شده‌ای که حذف می‌کنید به مدت %d روز اینجا می‌مانند و بعد برای همیشه حذف می‌شوند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">همه موارد ضبط شده‌ای که حذف می‌کنید به مدت %d روز اینجا می‌مانند و بعد برای همیشه حذف می‌شوند.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد ضبط شده برای همیشه حذف خواهد شد.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد ضبط شده برای همیشه حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">موارد ضبط شده‌ای که حذف می‌شوند به مدت %d روز در سطل زباله می‌مانند و بعد از آن برای همیشه حذف می‌شوند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">موارد ضبط شده‌ای که حذف می‌شوند به مدت %d روز در سطل زباله می‌مانند و بعد از آن برای همیشه حذف می‌شوند.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مورد ضبط شده</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مورد ضبط شده</item>
+    </plurals>
+</resources>

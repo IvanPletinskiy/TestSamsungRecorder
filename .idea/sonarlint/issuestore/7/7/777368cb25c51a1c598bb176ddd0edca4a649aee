@@ -1,0 +1,51 @@
+
+Q
+java:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<
+java:S1181á"%Catch Exception instead of Throwable.(áù«õ
+F
+java:S1656Ó"/Remove or correct this useless self-assignment.(ÃŠÓ²
+K
+java:S1656â"/Remove or correct this useless self-assignment.(¶ãÃàûÿÿÿÿ
+P
+java:S1141?"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141´"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+c
+java:S2147‚"ECombine this catch with the one at line 251, which has the same body.(¦ø‚Ä8Î©¼Û.
+P
+java:S1141A"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181Œ"%Catch Exception instead of Throwable.(—à¬üÿÿÿÿ
+A
+java:S1181è"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+A
+java:S1181‰"%Catch Exception instead of Throwable.(—à¬üÿÿÿÿ
+m
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(÷êªÀøÿÿÿÿ
+e
+java:S2095³"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„°ã
+Q
+java:S1141Ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(âÉ”Ôøÿÿÿÿ
+P
+java:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+h
+java:S2147ô"ECombine this catch with the one at line 238, which has the same body.(Şü¯»ıÿÿÿÿ8Î©¼Û.
+Q
+java:S1141¶"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+d
+java:S2095@"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„°ã
+P
+java:S1141_"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g
+java:S2147w"ECombine this catch with the one at line 113, which has the same body.(Şü¯»ıÿÿÿÿ8Î²¼Û.
+J
+java:S1068"/Remove this unused "HEADER_SIZE" private field.(¿óûûøÿÿÿÿ
+;
+java:S1181d"%Catch Exception instead of Throwable.(áù«õ
+@
+java:S1181k"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+c
+java:S2147…"ECombine this catch with the one at line 126, which has the same body.(¦ø‚Ä8Î²¼Û.

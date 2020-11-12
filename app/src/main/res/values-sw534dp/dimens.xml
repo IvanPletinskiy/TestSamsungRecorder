@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_toolbar_margin">97dp</dimen>
+    <dimen name="multi_window_control_button_margin_left_right_max">115dp</dimen>
+    <dimen name="voice_label_image_height">339dp</dimen>
+</resources>

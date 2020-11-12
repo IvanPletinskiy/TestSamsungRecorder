@@ -1,0 +1,19 @@
+
+E
+java:S3740v"/Provide the parametrized type for this generic.(Şç½Å
+R
+java:S1481\"5Remove this unused "fileOutputStream" local variable.(¡Ú‹†8Ÿˆ¹Û.
+;
+java:S1181M"%Catch Exception instead of Throwable.(áù«õ
+h
+java:S2147›"ECombine this catch with the one at line 145, which has the same body.(Ìòåúûÿÿÿÿ8Ä»ˆ¹Û.
+E
+java:S3740v"/Provide the parametrized type for this generic.(Şç½Å
+@
+java:S1181R"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+A
+java:S1181›"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+a
+java:S1854B"DRemove this useless assignment to local variable "fileOutputStream".(òë—Ê8Áà†¹Û.
+b
+java:S1854"DRemove this useless assignment to local variable "fileOutputStream".(òë—Ê8ùÓ‡¹Û.

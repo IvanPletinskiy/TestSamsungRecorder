@@ -1,0 +1,51 @@
+
+T
+java:S3878€"8Remove this array creation and simply pass the elements.(§ı±ıÿÿÿÿ
+2
+java:S3626í"Remove this redundant jump.(ûÁİ…
+E
+java:S1172ö".Remove this unused method parameter "seekBar".(½’˜ê
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ã¦İ°
+n
+java:S1104>"XMake mPauseBySeek a static final constant or non-public and provide accessors if needed.(½Şı
+k
+java:S1450?"URemove the "mScene" field and declare it as a local variable in the relevant methods.(ÎÈï
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŒçÍÈÿÿÿÿÿ
+2
+java:S3626ï"Remove this redundant jump.(ûÁİ…
+m
+java:S1104¯"VMake mRoundMode a static final constant or non-public and provide accessors if needed.(ÅËµ™
+Q
+java:S1068/"6Remove this unused "isFocusOnFirstPart" private field.(±“õüÿÿÿÿ
+2
+java:S3626ú"Remove this redundant jump.(ûÁİ…
+v
+java:S14500"aRemove the "isListItemSelected" field and declare it as a local variable in the relevant methods.(ºÊ
+^
+java:S1144ƒ"BRemove this unused private "getDurationContentDescription" method.(åÁëÍùÿÿÿÿ
+E
+java:S3740Ô"/Provide the parametrized type for this generic.(¨»Èa
+j
+java:S1104<"UMake mListener a static final constant or non-public and provide accessors if needed.(÷ÏÅ
+V
+java:S1161®":Add the "@Override" annotation above this method signature(÷ßâİúÿÿÿÿ
+2
+java:S3626ü"Remove this redundant jump.(ûÁİ…
+9
+java:S3626Ÿ"Remove this redundant jump.(ûÁİ…8²¡¼¸Û.
+2
+java:S3626÷"Remove this redundant jump.(ûÁİ…
+E
+java:S3740Ô"/Provide the parametrized type for this generic.(¨»Èa
+i
+java:S11042"TMake mContext a static final constant or non-public and provide accessors if needed.(Ù’ş
+@
+java:S1068?"*Remove this unused "mScene" private field.(ÎÈï
+|
+java:S1450/"aRemove the "isFocusOnFirstPart" field and declare it as a local variable in the relevant methods.(±“õüÿÿÿÿ
+K
+java:S10680"6Remove this unused "isListItemSelected" private field.(ºÊ
+1
+java:S2275€"Not enough arguments.(§ı±ıÿÿÿÿ

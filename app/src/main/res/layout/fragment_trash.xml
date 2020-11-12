@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/actionbar_color_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/list_trash_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/list_margin_side" android:layout_marginEnd="@dimen/list_margin_side">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/trash_list" android:background="@color/list_background_color" android:visibility="visible" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <View android:id="@+id/view_margin_bottom" android:background="@color/list_background_margin_bottom" android:layout_width="match_parent" android:layout_height="@dimen/list_margin_bottom"/>
+    </LinearLayout>
+    <RelativeLayout android:gravity="center_vertical" android:id="@+id/empty_trash_view" android:paddingLeft="24dp" android:paddingRight="24dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="@dimen/listview_empty_text_size" android:textColor="@color/listview_empty_text_color" android:gravity="center" android:id="@+id/empty_trash_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_recorded_files" android:fontFamily="sec-roboto-light"/>
+        <TextView android:textSize="@dimen/bookmark_list_text_size" android:textColor="@color/listview_empty_text_color" android:gravity="center" android:id="@+id/empty_trash_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="25dp" android:layout_below="@+id/empty_trash_title" android:fontFamily="sec-roboto-light"/>
+    </RelativeLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/list_progressbar" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="60dp" android:layout_height="60dp"/>
+</FrameLayout>

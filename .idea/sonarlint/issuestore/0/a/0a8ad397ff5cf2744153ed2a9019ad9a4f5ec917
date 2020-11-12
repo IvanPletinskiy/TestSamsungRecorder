@@ -1,0 +1,122 @@
+
+‚	java:S116"hRename this field "__preparedStmtOfDeleteAllData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹İ‹…øÿÿÿÿ
+d	java:S116"ORename this field "__db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛôÇ
+\
+java:S1874Ô"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874‘"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+…	java:S116"kRename this field "__preparedStmtOfDeleteDataWithID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‰ÁÜøÿÿÿÿ
+^
+java:S2259Ñ"BA "NullPointerException" could be thrown; "num2" is nullable here.(¦ãøÿÿÿÿ
+T
+java:S1874ˆ"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+T
+java:S1874¨"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+R
+java:S1874×"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+T
+java:S1874Ü"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+^
+java:S2259ó"BA "NullPointerException" could be thrown; "num2" is nullable here.(¦ãøÿÿÿÿ
+\
+java:S1874ø"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+^
+java:S2259š"BA "NullPointerException" could be thrown; "num2" is nullable here.(¦ãøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ùöÅøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤í³Üúÿÿÿÿ
+R
+java:S1874í"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+]
+java:S2259î"AA "NullPointerException" could be thrown; "num" is nullable here.(“î˜óùÿÿÿÿ
+‚	java:S116"hRename this field "__updateAdapterOfCategoryInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­†êıÿÿÿÿ
+\
+java:S1874"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(–·ìûÿÿÿÿ
+T
+java:S1874¼"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+T
+java:S1874Ñ"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ø­†êıÿÿÿÿ
+]
+java:S2259Ì"AA "NullPointerException" could be thrown; "num" is nullable here.(“î˜óùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(õç…µ
+T
+java:S1874"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+T
+java:S1874²"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874¿"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874­"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+„	java:S116"jRename this field "__deletionAdapterOfCategoryInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùöÅøÿÿÿÿ
+T
+java:S1874è"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874 "@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+\
+java:S1874É"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874“"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+e
+java:S1192"IDefine a constant instead of duplicating this literal "POSITION" 4 times.(¶šòÃşÿÿÿÿ
+R
+java:S1874£"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874Á"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+…	java:S116"kRename this field "__insertionAdapterOfCategoryInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–·ìûÿÿÿÿ
+R
+java:S1874û"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+ƒ	java:S116"iRename this field "__preparedStmtOfUpDateCategory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°×Ÿıÿÿÿÿ
+R
+java:S1874·"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+\
+java:S1874«"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874˜"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874â"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874‡"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+T
+java:S1874Æ"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+^
+java:S2259¬"BA "NullPointerException" could be thrown; "num2" is nullable here.(¦ãøÿÿÿÿ
+<
+java:S1181†"%Catch Exception instead of Throwable.(áù«õ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¥¯„éøÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+]
+java:S2259•"AA "NullPointerException" could be thrown; "num" is nullable here.(“î˜óùÿÿÿÿ
+‚	java:S116"mRename this field "__insertionAdapterOfCategoryInfo_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õç…µ
+\
+java:S1874‹"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+\
+java:S1874ß"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874ô"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+T
+java:S1874‚"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874µ"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+R
+java:S1874Ì"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+]
+java:S2259§"AA "NullPointerException" could be thrown; "num" is nullable here.(“î˜óùÿÿÿÿ
+\
+java:S1874–"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+\
+java:S1874ë"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ

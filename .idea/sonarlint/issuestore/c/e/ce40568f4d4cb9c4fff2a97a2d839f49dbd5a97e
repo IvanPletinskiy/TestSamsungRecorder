@@ -1,0 +1,35 @@
+
+2
+java:S3626Ü"Remove this redundant jump.(ûÁİ…
+2
+java:S3626ç"Remove this redundant jump.(ûÁİ…
+2
+java:S3626ó"Remove this redundant jump.(ûÁİ…
+d	java:S116¿"NRename this field "f$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãµ·Ó
+J
+java:S1172b"5Remove this unused method parameter "compoundButton".(µğÌ)
+A
+java:S1172u"&Remove these unused method parameters.(ßãçêşÿÿÿÿ
+2
+java:S3626‚"Remove this redundant jump.(ûÁİ…
+u
+java:S1171Á"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+s
+java:S1104l"]Make mStereoPreference a static final constant or non-public and provide accessors if needed.(æ³Ç
+b	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µğÌ)
+T
+java:S10689"9Remove this unused "MSG_UPDATE_ABOUT_VIEW" private field.(­ÓÒ¬ûÿÿÿÿ
+t
+java:S1104n"YMake mStereoSwitch a static final constant or non-public and provide accessors if needed.(ÁŞ½úÿÿÿÿ
+2
+java:S3626é"Remove this redundant jump.(ûÁİ…
+2
+java:S3626„"Remove this redundant jump.(ûÁİ…
+~
+java:S3923¸"[Remove this conditional structure or edit its code blocks so that they're not all the same.(™€¼¤ÿÿÿÿÿ8¾ÉÉ»Û.
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ä
+U
+java:S1068:":Remove this unused "MSG_UPDATE_STEREO_VIEW" private field.(»º¢Çüÿÿÿÿ
+=
+java:S1181´"!Catch Exception instead of Error.(êÓ¦øÿÿÿÿ

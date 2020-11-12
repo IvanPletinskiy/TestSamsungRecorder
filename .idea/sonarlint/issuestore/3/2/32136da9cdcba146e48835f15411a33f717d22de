@@ -1,0 +1,25 @@
+
+E
+java:S3740Û"/Provide the parametrized type for this generic.(¨»Èa
+V
+java:S1161":Add the "@Override" annotation above this method signature(÷ßâİúÿÿÿÿ
+E
+java:S3740Û"/Provide the parametrized type for this generic.(¨»Èa
+M
+java:S3878q"8Remove this array creation and simply pass the elements.(½æ³*
+A
+java:S2275q",An 'int' is expected rather than a Object[].(½æ³*
+k
+java:S1104""UMake mListener a static final constant or non-public and provide accessors if needed.(±Å÷
+U
+java:S1118-":Add a private constructor to hide the implicit public one.(Ğì¡·üÿÿÿÿ
+F
+java:S3740ğ"/Provide the parametrized type for this generic.(ã¦İ°
+H
+java:S30105"-Remove this assignment of "mLabelCountArray".(¢µÉ¤úÿÿÿÿ
+L
+java:S2696J"6Make the enclosing method "static" or remove this set.(ıÿëú
+U
+java:S1161|":Add the "@Override" annotation above this method signature(µÊ–ğøÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(ıÿëú

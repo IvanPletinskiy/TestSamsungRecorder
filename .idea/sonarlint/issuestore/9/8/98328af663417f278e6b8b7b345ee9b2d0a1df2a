@@ -1,0 +1,62 @@
+
+O
+java:S1144í"3Remove this unused private "deleteCategory" method.(¸û¸ÿÿÿÿÿ
+r
+java:S11048"\Make mCategoryAdapter a static final constant or non-public and provide accessors if needed.(ƒƒ…¬
+t
+java:S1104<"YMake mRecyclerView a static final constant or non-public and provide accessors if needed.(˜—Ó¨şÿÿÿÿ
+K
+java:S1066´"/Merge this if statement with the enclosing one.(œ÷¿Ûúÿÿÿÿ
+}
+java:S14509"bRemove the "mCategoryListLayout" field and declare it as a local variable in the relevant methods.(È¿›’ùÿÿÿÿ
+T
+java:S3878í"8Remove this array creation and simply pass the elements.(Ÿ“ƒåıÿÿÿÿ
+U
+java:S1144â"9Remove this unused private "contextualMenuRename" method.(Ò½£Ğıÿÿÿÿ
+`
+java:S3358ä"DExtract this nested ternary operation into an independent statement.(’ôçıÿÿÿÿ
+T
+java:S10685"9Remove this unused "REFRESH_CATEGORY_LIST" private field.(èÜó¯üÿÿÿÿ
+E
+java:S3740¤"/Provide the parametrized type for this generic.(¨»Èa
+d	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹–Ü‘
+d	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ˜ƒ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ùªÿ
+H
+java:S2275í",An 'int' is expected rather than a Object[].(Ÿ“ƒåıÿÿÿÿ
+G
+java:S1172"+Remove this unused method parameter "view".(Îâ½ûÿÿÿÿ
+=
+java:S1172Ù"&Remove these unused method parameters.(„ã‘£
+^
+java:S1126Ÿ"BReplace this if-then-else statement by a single method invocation.(£¹–êşÿÿÿÿ
+J
+java:S1144ô"3Remove this unused private "shortCutSelect" method.(…àÖÌ
+L
+java:S1172¾"5Remove this unused method parameter "dialogFragment".(÷‰õ
+B
+java:S1172‰"+Remove this unused method parameter "view".(­‰Ÿ 
+Q
+java:S1161‰":Add the "@Override" annotation above this method signature(¼Âª
+^
+java:S1126Ì"BReplace this if-then-else statement by a single method invocation.(‘ÿĞ…ùÿÿÿÿ
+Y
+java:S1126"BReplace this if-then-else statement by a single method invocation.(à¥®Š
+=
+java:S1172­"&Remove these unused method parameters.(ğ˜ƒ
+i
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´ÇôÓ
+`
+java:S3358ä"DExtract this nested ternary operation into an independent statement.(’ôçıÿÿÿÿ
+T
+java:S3878é"8Remove this array creation and simply pass the elements.(Ï•ßàıÿÿÿÿ
+H
+java:S2275é",An 'int' is expected rather than a Object[].(Ï•ßàıÿÿÿÿ
+`
+java:S3358ä"DExtract this nested ternary operation into an independent statement.(’ôçıÿÿÿÿ
+E
+java:S3740¤"/Provide the parametrized type for this generic.(¨»Èa
+|
+java:S1450?"aRemove the "mRoundedDecoration" field and declare it as a local variable in the relevant methods.(íË••øÿÿÿÿ
+`
+java:S3358ä"DExtract this nested ternary operation into an independent statement.(’ôçıÿÿÿÿ

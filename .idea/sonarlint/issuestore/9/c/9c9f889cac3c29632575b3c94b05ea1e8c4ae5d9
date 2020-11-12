@@ -1,0 +1,104 @@
+
+
+java:S1319‘"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¥é»Ôÿÿÿÿÿ
+G
+java:S1481Ê"+Remove this unused "unused" local variable.(Ø¸ÔÂøÿÿÿÿ
+K
+java:S1066’"/Merge this if statement with the enclosing one.(ùÅŸøÿÿÿÿ
+w
+java:S1104:"\Make mTrashObjectInfo a static final constant or non-public and provide accessors if needed.(åïÂúşÿÿÿÿ
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(‹›ÕÌûÿÿÿÿ
+k
+java:S11044"UMake mListener a static final constant or non-public and provide accessors if needed.(¹­Í×
+R
+java:S1854Ë";Remove this useless assignment to local variable "unused2".(°Œ
+O
+java:S3400P"9Remove this method and declare a constant for this value.(£ùÂİ
+B
+java:S1172ª"&Remove these unused method parameters.(Èë¶Õıÿÿÿÿ
+f
+java:S1192Í"JDefine a constant instead of duplicating this literal "_memo.txt" 6 times.(Ëçñ“üÿÿÿÿ
+Z
+java:S2583è"CChange this condition so that it does not always evaluate to "true"(è…¢ğ
+e
+java:S1192ë"NDefine a constant instead of duplicating this literal "Move failed. " 3 times.(°°˜Ô
+j
+java:S4042Ò"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(¼Îèš
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŸœd
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó×üĞüÿÿÿÿ
+o
+java:S1192Ş"SDefine a constant instead of duplicating this literal "Delete list size: " 3 times.(Œ¬¤†ÿÿÿÿÿ
+i	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûû†¸ıÿÿÿÿ
+R
+java:S1854Ü";Remove this useless assignment to local variable "unused2".(¼Îèš
+m
+java:S11040"WMake mDeleteTask a static final constant or non-public and provide accessors if needed.( ½ò
+n
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(“ş¶ğşÿÿÿÿ
+n
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿ˆ–Æúÿÿÿÿ
+U
+java:S1118G":Add a private constructor to hide the implicit public one.(åÈÁåùÿÿÿÿ
+c	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÎ²
+
+d
+java:S4042Å"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‘Èœ7
+C
+java:S1481Ü",Remove this unused "unused2" local variable.(¼Îèš
+x
+java:S1192Ó"\Define a constant instead of duplicating this literal "Delete the text file : fail" 3 times.(Îÿ’ùÿÿÿÿ
+W
+java:S1854İ";Remove this useless assignment to local variable "unused3".(Áê¢ùÿÿÿÿ
+–
+java:S1319:"{The type of the "mTrashObjectInfo" object should be an interface such as "List" rather than the implementation "ArrayList".(åïÂúşÿÿÿÿ
+
+java:S1319×"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¨ÉËøÿÿÿÿ
+m
+java:S1104."WMake mAppContext a static final constant or non-public and provide accessors if needed.(ìŞ…º
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(áÔ¤º
+O
+java:S2168U"9Remove this dangerous instance of double-checked locking.(âË£ø
+Q
+java:S1068("6Remove this unused "KEEP_IN_TRASH_DAYS" private field.(ÿ‘Ëªşÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(‹›ÕÌûÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(æ½şïÿÿÿÿÿ
+H
+java:S1068)"2Remove this unused "STORAGE_PREFIX" private field.(‘¸Õ®
+H
+java:S1481İ",Remove this unused "unused3" local variable.(Áê¢ùÿÿÿÿ
+C
+java:S1481Ë",Remove this unused "unused2" local variable.(°Œ
+n
+java:S11047"XMake mRestoreTask a static final constant or non-public and provide accessors if needed.(—¯»
+Z
+java:S1155Á">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+q
+java:S11042"VMake mItemCount a static final constant or non-public and provide accessors if needed.(Ìé½¾şÿÿÿÿ
+_
+java:S2583’"CChange this condition so that it does not always evaluate to "true"(êäÁ¸şÿÿÿÿ
+e
+java:S4042±"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(×šï
+d	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿúï
+=
+java:S1172Ş"&Remove these unused method parameters.(ö™ôÂ
+O
+java:S1172û"3Remove this unused method parameter "arrayListArr".(ã½Àçùÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÒüøÿÿÿÿ
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¬–¡øÿÿÿÿ
+j
+java:S4042¶"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+i	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ıšÌıÿÿÿÿ
+B
+java:S1481Û"+Remove this unused "unused" local variable.(Àâ¡“
+i
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Å’Ì£
+Q
+java:S1854Û":Remove this useless assignment to local variable "unused".(Àâ¡“
+V
+java:S1854Ê":Remove this useless assignment to local variable "unused".(Ø¸ÔÂøÿÿÿÿ

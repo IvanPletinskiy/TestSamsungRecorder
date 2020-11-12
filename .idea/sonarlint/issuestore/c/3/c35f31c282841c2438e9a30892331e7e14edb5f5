@@ -1,0 +1,65 @@
+
+m	java:S1162"XRename this field "MAX_WAVE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äîàğ
+F
+java:S1185Š"(Remove this method to simply inherit it.(¯¨ú…8Í’Ö»Û.
+n	java:S1164"TRename this field "PX_PER_MS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ°–‹úÿÿÿÿ
+c
+java:S2184Á"@Cast one of the operands of this integer division to a "double".(ÌÈÈÉıÿÿÿÿ8Í’Ö»Û.
+v	java:S116D"aRename this field "mPaint_selected_region" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿æó«
+B
+java:S1068("'Remove this unused "MIN" private field.(Ã©¢Úşÿÿÿÿ
+o	java:S116C"ZRename this field "mPaint_bookmark" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼üÃÃ
+K
+java:S1068."5Remove this unused "RECOVER_THRESHOLD" private field.(ìæÊ¿
+x	java:S116E"^Rename this field "mPaint_timeLongLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òëËşÿÿÿÿ
+3
+java:S2275ª"Not enough arguments.(—œİõ8Í’Ö»Û.
+H
+java:S1068*"-Remove this unused "PAINT_DIM" private field.(‘ã’™şÿÿÿÿ
+i	java:S1163"TRename this field "MS_PER_PX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼¨
+t	java:S116F"_Rename this field "mPaint_timeShortLine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾•íŞ
+I
+java:S1172°"&Remove these unused method parameters.(ÛÂÏ©úÿÿÿÿ8Í’Ö»Û.
+V
+java:S3878ª"8Remove this array creation and simply pass the elements.(—œİõ8Í’Ö»Û.
+k	java:S116V"VRename this field "mY_timeText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ûáñ
+O
+java:S2275¶",An 'int' is expected rather than a Object[].(öÇê€úÿÿÿÿ8Í’Ö»Û.
+I
+java:S1068-"3Remove this unused "PAINT_TRANSLATE" private field.(÷‰ˆ‘
+p	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÂÏ©úÿÿÿÿ8Í’Ö»Û.
+Q
+java:S1172Ì".Remove this unused method parameter "message".(—¥æşÿÿÿÿ8Í’Ö»Û.
+p	java:S116W"VRename this field "mY_waveDown" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕİÁúÿÿÿÿ
+O
+java:S10681"4Remove this unused "VOLUME_THRESHOLD" private field.(“Ô”Äûÿÿÿÿ
+{	java:S116G"aRename this field "mPaint_timeTextConvert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì•”™üÿÿÿÿ
+H
+java:S1068,"3Remove this unused "PAINT_OVERWRITE" private field.(ÕØğK
+v	java:S116B"\Rename this field "mPaint_amplitude1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’ÿ÷øÿÿÿÿ
+K
+java:S1068+"0Remove this unused "PAINT_NORMAL" private field.( ÏŒ·şÿÿÿÿ
+8
+java:S2275¦"Not enough arguments.(÷ÖÑ›üÿÿÿÿ8Í’Ö»Û.
+[
+java:S3878¶"8Remove this array creation and simply pass the elements.(öÇê€úÿÿÿÿ8Í’Ö»Û.
+[
+java:S3878¦"8Remove this array creation and simply pass the elements.(÷ÖÑ›üÿÿÿÿ8Í’Ö»Û.
+G
+java:S1068'"1Remove this unused "MAX_AMPLITUDE" private field.(Ü„Õ¯
+8
+java:S2275¨"Not enough arguments.(˜‹£Ûøÿÿÿÿ8Í’Ö»Û.
+u	java:S116X"TRename this field "mY_waveUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÿÕúÿÿÿÿ8Í’Ö»Û.
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ÍåÅšıÿÿÿÿ8Í’Ö»Û.
+[
+java:S3878¨"8Remove this array creation and simply pass the elements.(˜‹£Ûøÿÿÿÿ8Í’Ö»Û.
+3
+java:S2275¤"Not enough arguments.(†¡Şı8Í’Ö»Û.
+V
+java:S3878¤"8Remove this array creation and simply pass the elements.(†¡Şı8Í’Ö»Û.
+s	java:S116H"^Rename this field "mPaint_timeTextEdit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÂ´ú
+c
+java:S2184Á"@Cast one of the operands of this integer division to a "double".(ÌÈÈÉıÿÿÿÿ8Í’Ö»Û.
+c
+java:S1144ï"@Remove this unused private "getBitmapFromVectorDrawable" method.(¡üéøşÿÿÿÿ8´îÖ»Û.

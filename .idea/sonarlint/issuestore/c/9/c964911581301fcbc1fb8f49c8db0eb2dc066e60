@@ -1,0 +1,51 @@
+
+R
+java:S1854Î"6Remove this useless assignment to local variable "i2".(€µ€ıÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ºÇçÉûÿÿÿÿ
+R
+java:S1119™";Refactor the code to remove this label and the need for it.(…‘™º
+L
+java:S1854¹"6Remove this useless assignment to local variable "i4".(¤´¸
+=
+java:S1481¹"'Remove this unused "i4" local variable.(¤´¸
+U
+java:S1854Ó"9Remove this useless assignment to local variable "bArr2".(àÖ¶¿şÿÿÿÿ
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ßòÄÍùÿÿÿÿ
+U
+java:S1854×"9Remove this useless assignment to local variable "bArr2".(àÖ¶¿şÿÿÿÿ
+]
+java:S2259Í"FA "NullPointerException" could be thrown; "segment2" is nullable here.(ìïéŠ
+t	java:S135§"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+B
+java:S1905"&Remove this unnecessary cast to "int".(‰ã³–üÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ã®¸Â
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(€ôˆ¼
+M
+java:S1854Û"6Remove this useless assignment to local variable "i2".(ƒåŸÏ
+R
+java:S1854«"6Remove this useless assignment to local variable "i2".(ËõìÏıÿÿÿÿ
+E
+java:S1068
+"*Remove this unused "DIGITS" private field.(µ·¶ÿşÿÿÿÿ
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(È™ÿÒûÿÿÿÿ
+i
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(é´°¥
+d
+java:S1182¯"HUse super.clone() to create and seed the cloned instance to be returned.(Ê³±şÿÿÿÿ
+i
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÜÑã
+Q
+java:S1854Ë"5Remove this useless assignment to local variable "i".(…Á Úùÿÿÿÿ
+B
+java:S1905š"&Remove this unnecessary cast to "int".(‰ã³–üÿÿÿÿ
+R
+java:S1854Æ"6Remove this useless assignment to local variable "i4".(”Ñ™¬øÿÿÿÿ
+o
+java:S2975¯"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ê³±şÿÿÿÿ

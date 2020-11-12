@@ -1,0 +1,91 @@
+
+R
+java:S1874"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+\
+java:S1874œ"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874£"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+Q
+java:S1874u"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+Š	java:S116"uRename this field "__insertionAdapterOfLabelHistorySearchInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äıèÔ
+<
+java:S1181Õ"%Catch Exception instead of Throwable.(áù«õ
+\
+java:S1874¦"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®šŞğşÿÿÿÿ
+Œ	java:S116"rRename this field "__updateAdapterOfLabelHistorySearchInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œìÁæşÿÿÿÿ
+d	java:S116"ORename this field "__db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛôÇ
+\
+java:S1874ˆ"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(œìÁæşÿÿÿÿ
+R
+java:S1874Ê"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874ß"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874©"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+	java:S116"tRename this field "__deletionAdapterOfLabelHistorySearchInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öéú¶ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ì®ğÄÿÿÿÿÿ
+S
+java:S1874p"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874’"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874…"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874±"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874€"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+T
+java:S1874¹"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+S
+java:S1874e"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+‚	java:S116"hRename this field "__preparedStmtOfDeleteAllData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹İ‹…øÿÿÿÿ
+T
+java:S1874™"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+T
+java:S1874®"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+S
+java:S1874z"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+\
+java:S1874Ş"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+[
+java:S1874}"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+T
+java:S1874Ñ"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+[
+java:S1874h"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+R
+java:S1874¿"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Öéú¶ıÿÿÿÿ
+T
+java:S1874Å"8Remove this use of "beginTransaction"; it is deprecated.(ÉÈÿ‚ÿÿÿÿÿ
+R
+java:S1874”"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+K
+java:S3740ê"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+R
+java:S1874Š"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+\
+java:S1874¼"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+‘	java:S116"wRename this field "__insertionAdapterOfLabelHistorySearchInfo_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì®ğÄÿÿÿÿÿ
+R
+java:S1874Ö"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+ƒ	java:S116"nRename this field "__preparedStmtOfDeleteLabelWithName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ğáÈ
+Q
+java:S1874k"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+R
+java:S1874´"6Remove this use of "endTransaction"; it is deprecated.(ÊâáÄıÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(äıèÔ
+K
+java:S3740ê"/Provide the parametrized type for this generic.(§²ëÃúÿÿÿÿ
+[
+java:S1874s"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ
+\
+java:S1874È"@Remove this use of "setTransactionSuccessful"; it is deprecated.(æÎ–ùÿÿÿÿ

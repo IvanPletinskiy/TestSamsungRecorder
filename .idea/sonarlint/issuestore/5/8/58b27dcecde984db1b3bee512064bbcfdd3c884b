@@ -1,0 +1,24 @@
+
+D
+java:S3740'"/Provide the parametrized type for this generic.(¨»Èa
+2
+java:S1643@"Use a StringBuilder instead.(õéˆĞ
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Àšôõıÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(Úç¡´ùÿÿÿÿ
+|	java:S116"gRename this field "THREE_DEPTH_ENTITY_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ‡şİ
+	java:S116"eRename this field "TWO_DEPTH_ENTITY_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğô÷¿úÿÿÿÿ
+D
+java:S3740'"/Provide the parametrized type for this generic.(¨»Èa
+J
+java:S3740"/Provide the parametrized type for this generic.(´ÄŠßøÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ãÙÂ»şÿÿÿÿ
+A
+java:S1168%"+Return an empty collection instead of null.(¥¹ï
+2
+java:S1643B"Use a StringBuilder instead.( æ°Ò
+x	java:S116"^Rename this field "TWO_DEPTH_DELIMETER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¤¾êşÿÿÿÿ
+]
+java:S1068"@Remove this unused "THREE_DEPTH_ENTITY_DELIMETER" private field.(Œ‡şİ8´ÿ¤¹Û.

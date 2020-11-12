@@ -1,0 +1,81 @@
+
+Q
+java:S1854å":Remove this useless assignment to local variable "unused".(¶»Íç
+d	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß—íÁ
+G
+java:S1172®"+Remove this unused method parameter "view".(îıå×ÿÿÿÿÿ
+i
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(á¨ŸŞ
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ªŠ“
+@
+java:S1481D"+Remove this unused "unused" local variable.(§°Ù$
+B
+java:S1481å"+Remove this unused "unused" local variable.(¶»Íç
+G
+java:S1172§"+Remove this unused method parameter "view".(‰ıü¯üÿÿÿÿ
+d	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨ŸŞ
+W
+java:S3985Ã"4Remove this unused private "RecordPlayButton" class.(íöÒÆúÿÿÿÿ8¤¨°¹Û.
+d	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù§¨’
+d	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É´ğ¹
+O
+java:S1854D":Remove this useless assignment to local variable "unused".(§°Ù$
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑùÇ¬şÿÿÿÿ
+d	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÂÀÅ
+i	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¼öôøÿÿÿÿ
+C
+java:S2275³",An 'int' is expected rather than a Object[].(ı‡À
+L
+java:S1068-"6Remove this unused "SKIP_INTERVAL_1SEC" private field.(•‡…‰
+B
+java:S3985^",Remove this unused private "POSITION" class.(áµÊ
+S
+java:S1172¡"5Remove this unused method parameter "dialogFragment".(÷‰õ8¤¨°¹Û.
+d	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôâ”
+O
+java:S3878³"8Remove this array creation and simply pass the elements.(ı‡À
+S
+java:S3985±"5Remove this unused private "RecordReadyButton" class.(£“¤8¤¨°¹Û.
+S
+java:S3985¹"0Remove this unused private "RecordButton" class.(àóñºøÿÿÿÿ8¤¨°¹Û.
+W
+java:S3985Í"9Remove this unused private "RecordPlayPauseButton" class.(à™¨ú8¤¨°¹Û.
+R
+java:S1144×";Remove this unused private "initAccessibilityFocus" method.(ƒ¡ê
+7	java:S131–""Add a default case to this switch.(ìúÇV
+y
+java:S1104R"^Make mSkipIntervalValue a static final constant or non-public and provide accessors if needed.(°åø‰ûÿÿÿÿ
+F
+java:S1172Œ"(Remove this unused method parameter "i".(¼Ÿê¹8‚è®¹Û.
+y
+java:S1104P"^Make mSkipIntervalLimit a static final constant or non-public and provide accessors if needed.(©°îåøÿÿÿÿ
+d	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë²“ƒ
+W
+java:S1144®"4Remove this unused private "isInMultiWindow" method.(³Ó»Åúÿÿÿÿ8¤¨°¹Û.
+B
+java:S1172«"+Remove this unused method parameter "view".(¿ÿñ¥
+Q
+java:S3985×".Remove this unused private "PlayButton" class.(¿šñÄıÿÿÿÿ8¤¨°¹Û.
+d	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŒ²Š
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Şœú
+h	java:S100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÀÏÔùÿÿÿÿ
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÿñ¥
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ıü¯üÿÿÿÿ
+V
+java:S3985á"3Remove this unused private "PlayPauseButton" class.(§Ë¯ƒıÿÿÿÿ8¤¨°¹Û.
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îıå×ÿÿÿÿÿ
+n
+java:S1104T"XMake mSkippedTime a static final constant or non-public and provide accessors if needed.(é°¡É
+s
+java:S1104L"XMake mIsFirstTime a static final constant or non-public and provide accessors if needed.(ÔÃªøÿÿÿÿ
+d	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õç‚
+G
+java:S1172Ä"+Remove this unused method parameter "view".(ÑùÇ¬şÿÿÿÿ
+m
+java:S3776r"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ÃÀÏÔùÿÿÿÿ
+J
+java:S1068M"/Remove this unused "mIsRecorded" private field.(ƒ©²ïÿÿÿÿÿ
+B
+java:S1172½"+Remove this unused method parameter "view".(êŒ²Š
+i
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÊºÒ

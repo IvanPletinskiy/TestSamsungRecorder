@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/search_main_background_color" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_history_margin_top" android:fillViewport="true">
+        <RelativeLayout android:id="@+id/content_recent_search" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:id="@+id/header_list_recent_search_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_history_recent" style="@style/SubHeaderList"/>
+            <LinearLayout android:orientation="vertical" android:background="@drawable/recent_search_list_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:foreground="@drawable/round_corner_background" android:layout_below="@+id/header_list_recent_search_text">
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/recent_search_list" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <View android:background="@color/listview_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/listrow_divider_height" android:layout_marginLeft="@dimen/basic_divider_margin" android:layout_marginRight="@dimen/basic_divider_margin"/>
+                <Button android:textSize="@dimen/clear_search_history_text_size" android:textColor="@color/clear_history_text_color" android:layout_gravity="center_horizontal" android:id="@+id/clear_search_history_text" android:background="@drawable/voice_ripple_clear_recent_search_btn" android:paddingTop="@dimen/clear_search_history_text_margin_top" android:paddingBottom="@dimen/clear_search_history_text_margin_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/search_history_clear" style="@style/RobotoMedium"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+    <FrameLayout android:id="@+id/content_list_search" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <TextView android:textSize="@dimen/listview_empty_text_size" android:textColor="@color/listview_empty_text_color" android:gravity="center" android:id="@+id/list_empty_history_search_list" android:paddingBottom="@dimen/listview_empty_text_padding_bottom" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/no_history_search" android:fontFamily="sec-roboto-light"/>
+</FrameLayout>

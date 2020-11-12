@@ -1,0 +1,141 @@
+
+Q
+java:S1854Š":Remove this useless assignment to local variable "unused".(üõüé
+W
+java:S1481³"4Remove this unused "childViewHolder" local variable.(£ «Ÿıÿÿÿÿ8Ä¯Ø¸Û.
+e
+java:S1871æ	"NThis branch's code block is the same as the block for the branch on line 1249.(“şÌâ
+F
+java:S3740¶"/Provide the parametrized type for this generic.(şî›Ö
+^
+java:S1854ò";Remove this useless assignment to local variable "seekBar".(š§åûıÿÿÿÿ8ŠÕÔ¸Û.
+s
+java:S1104S"]Make mExpandedPosition a static final constant or non-public and provide accessors if needed.(›§›
+n
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(åíÁøøÿÿÿÿ
+F
+java:S1172"/Remove this unused method parameter "animator".(”ïòŠ
+H
+java:S1068Ú"1Remove this unused "mIsNeedScroll" private field.(­°Î
+}
+java:S1450i"gRemove the "mTvEmptyTrashDescription" field and declare it as a local variable in the relevant methods.(§òÎÕ
+k	java:S116I"VRename this field "SineInOut33" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œş•ç
+<	java:S131}""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+X
+java:S1172¾"5Remove this unused method parameter "transformation".(ŸÏ³şÿÿÿÿ8‘ıé»Û.
+m
+java:S1104a"XMake mProgressBar a static final constant or non-public and provide accessors if needed.(î¥÷
+M
+java:S1656Â"/Remove or correct this useless self-assignment.(Ù ½”8‘ıé»Û.
+?
+java:S1148»"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê‘·‡ùÿÿÿÿ
+^
+java:S1854â"BRemove this useless assignment to local variable "relativeLayout".(¨ëØ·øÿÿÿÿ
+O
+java:S1068G":Remove this unused "DURATION_THRESHOLD_M4A" private field.(Ú«Íh
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(­‰Ÿ 
+D
+java:S1172²"&Remove these unused method parameters.(Î™à–8Ä¯Ø¸Û.
+K
+java:S1066÷"/Merge this if statement with the enclosing one.(œ÷¿Ûúÿÿÿÿ
+¤
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ8‘ıé»Û.
+T
+java:S2589”"8Remove this expression which always evaluates to "false"(Ş±ş™øÿÿÿÿ
+^
+java:S1126ë"BReplace this if-then-else statement by a single method invocation.(¸ŞÁ®øÿÿÿÿ
+U
+java:S1068F":Remove this unused "DURATION_THRESHOLD_AMR" private field.(şòªŸúÿÿÿÿ
+}
+java:S4165Â"_Remove this useless assignment; "i" already holds the assigned value along all execution paths.(Ù ½”8‘ıé»Û.
+l
+java:S1104ß"UMake mPosition a static final constant or non-public and provide accessors if needed.(ãÔÂ
+h	java:S100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„˜Š°øÿÿÿÿ
+E
+java:S3740á"/Provide the parametrized type for this generic.(¨»Èa
+N
+java:S1172ï"+Remove this unused method parameter "view".(Îâ½ûÿÿÿÿ8Íâä»Û.
+O
+java:S1481â"3Remove this unused "relativeLayout" local variable.(¨ëØ·øÿÿÿÿ
+E
+java:S1172¢".Remove this unused method parameter "seekBar".(‰ÁÕ–
+Q
+java:S1144Ê	"3Remove this unused private "updatePlayTask" method.(ÚÄ´ÿ8¶Òà»Û.
+m
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(„˜Š°øÿÿÿÿ
+œ
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñ®çâùÿÿÿÿ
+1
+java:S2275©"Not enough arguments.(¬åÅªüÿÿÿÿ
+E
+java:S1068J"/Remove this unused "SineInOut80" private field.(ï§÷É
+K
+java:S3740ÿ"/Provide the parametrized type for this generic.(Ç†‚ùÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(İ›¢¢
+T
+java:S3878©"8Remove this array creation and simply pass the elements.(¬åÅªüÿÿÿÿ
+k	java:S116J"VRename this field "SineInOut80" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§÷É
+C
+java:S3985ä"-Remove this unused private "TaskState" class.(×É.
+E
+java:S3740á"/Provide the parametrized type for this generic.(¨»Èa
+Q
+java:S1172ö"5Remove this unused method parameter "transformation".(ŸÏ³şÿÿÿÿ
+7
+java:S1170J"!Make this final field static too.(ï§÷É
+n
+java:S1104c"YMake mRecyclerView a static final constant or non-public and provide accessors if needed.(…õÎN
+^
+java:S1126æ"BReplace this if-then-else statement by a single method invocation.(¸ŞÁ®øÿÿÿÿ
+˜
+java:S1186Œ	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ«Ôƒ
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÊºÒ
+7
+java:S1170I"!Make this final field static too.(œş•ç
+B
+java:S1481Š"+Remove this unused "unused" local variable.(üõüé
+[
+java:S1144Ğ"8Remove this unused private "updateSelectionItem" method.(÷æ¹™øÿÿÿÿ8Íâä»Û.
+S
+java:S1172İ"0Remove this unused method parameter "animation".(šëÜµøÿÿÿÿ8‘ıé»Û.
+N
+java:S1172£"+Remove this unused method parameter "view".(åíÁøøÿÿÿÿ8ˆŒá»Û.
+?
+java:S1068æ"(Remove this unused "INIT" private field.(­ò®
+J
+java:S1172ø".Remove this unused method parameter "voidArr".(°¶éôüÿÿÿÿ
+
+java:S1186‰	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(úƒÚÓûÿÿÿÿ
+K
+java:S1172¤"/Remove this unused method parameter "animator".(¯Ÿõåıÿÿÿÿ
+s
+java:S1104["XMake mListAdapter a static final constant or non-public and provide accessors if needed.(Ñ¶ŞÉûÿÿÿÿ
+N
+java:S1172Ó"0Remove this unused method parameter "animation".(ğ«Ôƒ8‘ıé»Û.
+|
+java:S1104M"aMake mBottomNavigationView a static final constant or non-public and provide accessors if needed.(³ Æöøÿÿÿÿ
+=
+java:S1172Û"&Remove these unused method parameters.(„ã‘£
+>
+java:S1172œ"(Remove this unused method parameter "i".(…ãä1
+F
+java:S1172„"/Remove this unused method parameter "animator".(…×äñ
+F
+java:S1068å"*Remove this unused "FINISH" private field.(„ÙÏıÿÿÿÿ
+|
+java:S1450d"aRemove the "mRoundedDecoration" field and declare it as a local variable in the relevant methods.(íË••øÿÿÿÿ
+O
+java:S2589®"8Remove this expression which always evaluates to "false"(ºÂ÷Ë
+E
+java:S3740®"/Provide the parametrized type for this generic.(á¯’c
+E
+java:S1068I"/Remove this unused "SineInOut33" private field.(œş•ç
+o
+java:S1104P"YMake mCurrentScene a static final constant or non-public and provide accessors if needed.(ñå„‹
+w
+java:S1104W"\Make mLastPosSelected a static final constant or non-public and provide accessors if needed.(¾…É—şÿÿÿÿ

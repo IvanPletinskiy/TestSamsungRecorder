@@ -1,0 +1,10 @@
+
+d	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËçúÉ
+B
+java:S1172Ò"+Remove this unused method parameter "view".(ËçúÉ
+l
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(å¾†A
+X
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(Êìë
+9
+java:S3626ô"Remove this redundant jump.(ûÁİ…8ØÊê¸Û.

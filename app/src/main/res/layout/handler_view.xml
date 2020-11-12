@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="@+id/handler_top_part" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <View android:id="@+id/handler_middle_part" android:layout_width="match_parent" android:layout_height="@dimen/wave_time_text_height"/>
+    <View android:id="@+id/handler_bottom_part" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

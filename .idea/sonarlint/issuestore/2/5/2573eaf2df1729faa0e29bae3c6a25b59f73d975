@@ -1,0 +1,191 @@
+
+V
+java:S1118‰":Add a private constructor to hide the implicit public one.(ñ§Äşÿÿÿÿ
+>
+java:S1068D"(Remove this unused "NONE" private field.(ªºÃâ
+Q
+java:S1141Â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+}
+java:S1104ƒ"aMake needAbandonAudioFocus a static final constant or non-public and provide accessors if needed.(šßÎ„şÿÿÿÿ
+W
+java:S1854Ü";Remove this useless assignment to local variable "unused7".(ÑÏÖúÿÿÿÿ
+U
+java:S2168§"9Remove this dangerous instance of double-checked locking.(Ÿ…Ö˜øÿÿÿÿ
+P
+java:S1172Û"4Remove this unused method parameter "mediaRecorder".(Ö¾·Ôûÿÿÿÿ
+A
+java:S1068E"+Remove this unused "NO_CALL" private field.(ğÈŒ
+I
+java:S1481ä"-Remove this unused "unused10" local variable.(¼ÛÅÁúÿÿÿÿ
+p
+java:S1104½"YMake mIsRejectCall a static final constant or non-public and provide accessors if needed.(Ş¥ØÃ
+v
+java:S1104ö"ZMake mRecordEndTime a static final constant or non-public and provide accessors if needed.(³¢Œşÿÿÿÿ
+m
+java:S1104O"WMake mAppContext a static final constant or non-public and provide accessors if needed.(ìŞ…º
+w
+java:S1104Á"[Make mLastPhoneState a static final constant or non-public and provide accessors if needed.(ÕÌÏ¸úÿÿÿÿ
+j
+java:S1128#"TRemove this unnecessary import: same package classes are always implicitly imported.(ÅùÁ
+W
+java:S1854Ó";Remove this useless assignment to local variable "unused3".(†Ø§Óıÿÿÿÿ
+H
+java:S1481Ü",Remove this unused "unused7" local variable.(ÑÏÖúÿÿÿÿ
+F
+java:S3740¨"/Provide the parametrized type for this generic.(‹öÿµ
+K
+java:S3740Ã"/Provide the parametrized type for this generic.(ûî•³ûÿÿÿÿ
+R
+java:S1854İ";Remove this useless assignment to local variable "unused8".(ö‘Æˆ
+i
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ªêíø
+G
+java:S1481~",Remove this unused "unused3" local variable.(˜åë÷üÿÿÿÿ
+I
+java:S1481í"-Remove this unused "unused14" local variable.(ı¸½¥şÿÿÿÿ
+]
+java:S2142µ	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+G
+java:S1068F"1Remove this unused "OUTGOING_CALL" private field.(Öù©
+u
+java:S1104´"YMake mAudioManager a static final constant or non-public and provide accessors if needed.(·’Ø˜øÿÿÿÿ
+X
+java:S1854ë"<Remove this useless assignment to local variable "unused13".(­ã‹ñşÿÿÿÿ
+v
+java:S1104º"_Make mIsCallStateOffHook a static final constant or non-public and provide accessors if needed.(Á­Ÿ®
+S
+java:S2589¥"7Remove this expression which always evaluates to "true"(Ã‡‡Éúÿÿÿÿ
+<
+java:S1181õ"%Catch Exception instead of Throwable.(áù«õ
+S
+java:S2589›"7Remove this expression which always evaluates to "true"(¥§Öõùÿÿÿÿ
+J
+java:S10686"/Remove this unused "FILE_SUFFIX" private field.(÷—Ûÿÿÿÿÿ
+P
+java:S1854f";Remove this useless assignment to local variable "unused2".(­×ºb
+t	java:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+n
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(èş‹³üÿÿÿÿ
+H
+java:S1481Õ",Remove this unused "unused4" local variable.(Åè­Ñıÿÿÿÿ
+W
+java:S1854Ø";Remove this useless assignment to local variable "unused5".(õ»Óîÿÿÿÿÿ
+I
+java:S1481ë"-Remove this unused "unused13" local variable.(­ã‹ñşÿÿÿÿ
+W
+java:S1854Õ";Remove this useless assignment to local variable "unused4".(Åè­Ñıÿÿÿÿ
+V
+java:S1854~";Remove this useless assignment to local variable "unused3".(˜åë÷üÿÿÿÿ
+H
+java:S1481Ø",Remove this unused "unused5" local variable.(õ»Óîÿÿÿÿÿ
+R
+java:S1854æ"<Remove this useless assignment to local variable "unused11".(Æ¦œ
+X
+java:S1068A"=Remove this unused "MAX_AUDIO_FOCUS_RETRY_CNT" private field.(àâÅÊıÿÿÿÿ
+n
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(Ü›îòúÿÿÿÿ
+A
+java:S1481f",Remove this unused "unused2" local variable.(­×ºb
+A
+java:S1481e"+Remove this unused "unused" local variable.(ÙäÑÄ
+>	java:S108h")Either remove or fill this block of code.(Ê„øÊ
+C
+java:S1481İ",Remove this unused "unused8" local variable.(ö‘Æˆ
+t
+java:S3923è"]This conditional operation returns the same value whether the condition is "true" or "false".(×óç¸
+X
+java:S1854í"<Remove this useless assignment to local variable "unused14".(ı¸½¥şÿÿÿÿ
+B
+java:S1905€"+Remove this unnecessary cast to "Recorder".(¢ıÂå
+b
+java:S1192´"FDefine a constant instead of duplicating this literal "audio" 3 times.(ÿõ÷Øıÿÿÿÿ
+S
+java:S1854è"<Remove this useless assignment to local variable "unused12".(Å¦Î²
+o
+java:S1192¶"SDefine a constant instead of duplicating this literal " mRecordEndTime : " 5 times.(¥şòûÿÿÿÿ
+B
+java:S1905¤	"+Remove this unnecessary cast to "Recorder".(¢ıÂå
+G
+java:S1481Ï"+Remove this unused "unused" local variable.(½Åùåùÿÿÿÿ
+C
+java:S1481ã",Remove this unused "unused9" local variable.(”æŸÕ
+Y
+java:S10682">Remove this unused "AUDIO_FOCUS_RETRY_INTERVAL" private field.(ÅÏÕÛúÿÿÿÿ
+L
+java:S10687"1Remove this unused "INCOMING_CALL" private field.(¬Ñìÿÿÿÿÿ
+X
+java:S1854ä"<Remove this useless assignment to local variable "unused10".(¼ÛÅÁúÿÿÿÿ
+D
+java:S1481è"-Remove this unused "unused12" local variable.(Å¦Î²
+Q
+java:S1141ş"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+v
+java:S1104û"ZMake mRecorderState a static final constant or non-public and provide accessors if needed.(µÙãúÿÿÿÿ
+P
+java:S1854e":Remove this useless assignment to local variable "unused".(ÙäÑÄ
+F
+java:S3740"/Provide the parametrized type for this generic.(ÊÃÄÄ
+T
+java:S2589"8Remove this expression which always evaluates to "false"(ØŸ¥Ùùÿÿÿÿ
+W
+java:S1854Ò";Remove this useless assignment to local variable "unused2".(ÙÊ¡…üÿÿÿÿ
+]
+java:S2142Ä"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S2142Î"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+x
+java:S1104ù"\Make mRecordStartTime a static final constant or non-public and provide accessors if needed.(“Ó±úÿÿÿÿ
+q
+java:S1104·"UMake mCallType a static final constant or non-public and provide accessors if needed.(à™†ûüÿÿÿÿ
+g
+java:S2583Ò"DChange this condition so that it does not always evaluate to "false"(êƒö·ûÿÿÿÿ8¥€¿¹Û.
+]
+java:S2142Ä	"FEither re-interrupt this method or rethrow the "InterruptedException".(‹Ë±Ï
+m
+java:S1192¨"QDefine a constant instead of duplicating this literal " mCurrentTime : " 5 times.(õÙ¨µşÿÿÿÿ
+d	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ã¾…
+R
+java:S1854Ú";Remove this useless assignment to local variable "unused6".(Åı Â
+j
+java:S1128$"TRemove this unnecessary import: same package classes are always implicitly imported.(ÊÅ‰æ
+R
+java:S1854ã";Remove this useless assignment to local variable "unused9".(”æŸÕ
+D
+java:S1481ñ"-Remove this unused "unused15" local variable.(íôé
+i	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õå—ˆûÿÿÿÿ
+n
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(—¥æşÿÿÿÿ
+<
+java:S1181Ç"%Catch Exception instead of Throwable.(áù«õ
+l
+java:S1192µ"UDefine a constant instead of duplicating this literal "vibrate_when_ringing" 4 times.(ß”Éş
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¾·Ôûÿÿÿÿ
+C
+java:S1481æ"-Remove this unused "unused11" local variable.(Æ¦œ
+w
+java:S1104ş"[Make mStorageHandler a static final constant or non-public and provide accessors if needed.(”¦Éûÿÿÿÿ
+C
+java:S1481Ú",Remove this unused "unused6" local variable.(Åı Â
+Q
+java:S1118“":Add a private constructor to hide the implicit public one.(ı„íø
+Y
+java:S1126Ù"BReplace this if-then-else statement by a single method invocation.(¡†‹
+}
+java:S1104¿"aMake mIsResumeRecordByCall a static final constant or non-public and provide accessors if needed.(‘ØÌĞúÿÿÿÿ
+V
+java:S1854Ï":Remove this useless assignment to local variable "unused".(½Åùåùÿÿÿÿ
+H
+java:S1481Ò",Remove this unused "unused2" local variable.(ÙÊ¡…üÿÿÿÿ
+i
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(˜âÑØ
+H
+java:S1481Ó",Remove this unused "unused3" local variable.(†Ø§Óıÿÿÿÿ
+j
+java:S1128""TRemove this unnecessary import: same package classes are always implicitly imported.( “““
+t	java:S135¸	"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+<
+java:S1181¿"%Catch Exception instead of Throwable.(áù«õ
+A
+java:S1172Ê"*Remove this unused method parameter "str".(“œë²
+S
+java:S1854ñ"<Remove this useless assignment to local variable "unused15".(íôé

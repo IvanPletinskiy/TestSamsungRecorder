@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:paddingEnd="19dp" android:paddingMode="stack">
+    <item android:gravity="right|center_vertical|center_horizontal|center|end" android:height="24dp" android:width="22dp" android:drawable="@drawable/voice_recorder_save_popup_none"/>
+    <item android:drawable="@drawable/voice_ripple_rectangle"/>
+</layer-list>

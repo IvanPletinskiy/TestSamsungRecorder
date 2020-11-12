@@ -1,0 +1,25 @@
+
+Z
+java:S1144"?Remove this unused private "handleGetRecordedFileCount" method.(šË ùÿÿÿÿ
+R
+java:S1144˜";Remove this unused private "handleGetRecordingInfo" method.(ÑÑˆ¬
+P
+java:S1144“"9Remove this unused private "handleStartTncAction" method.(Š´ê£
+I
+java:S1172"-Remove this unused method parameter "bundle".(ÿ·•ûÿÿÿÿ
+D
+java:S1172˜"-Remove this unused method parameter "bundle".(ÑÑˆ¬
+I
+java:S1172„"-Remove this unused method parameter "bundle".(àÊ¿ÿÿÿÿÿ
+D
+java:S1172“"-Remove this unused method parameter "bundle".(Š´ê£
+X
+java:S1144„"<Remove this unused private "handlePlayRecordingFile" method.(àÊ¿ÿÿÿÿÿ
+[
+java:S1144‰"?Remove this unused private "handleStartRecordingAction" method.(œáÂøÿÿÿÿ
+]
+java:S1144"ARemove this unused private "handleSpeechToTextInfoAction" method.(ÿ·•ûÿÿÿÿ
+K
+java:S3740Ÿ"/Provide the parametrized type for this generic.(–»ûŒúÿÿÿÿ
+[
+java:S2589ª"8Remove this expression which always evaluates to "false"(¢º¬Ìùÿÿÿÿ8¸ˆÈ¹Û.

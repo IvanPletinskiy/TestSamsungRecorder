@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="@drawable/recyclerview_item_background" android:focusable="true" android:clickable="true" android:descendantFocusability="blocksDescendants" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <CheckBox android:gravity="center_vertical" android:id="@+id/list_item_cb" android:background="@null" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginStart="@dimen/category_management_list_checkbox_margin_start"/>
+    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="@dimen/category_management_list_checkbox_margin_start" android:layout_marginEnd="@dimen/listrow_category_reorder_margin_end">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="18sp" android:textColor="@color/listview_title_normal" android:ellipsize="end" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/category_management_item" android:paddingTop="@dimen/category_management_list_padding_top" android:paddingBottom="@dimen/category_management_list_padding_bottom" android:layout_width="0dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+            <LinearLayout android:gravity="center" android:id="@+id/layout_arrow_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginStart="@dimen/category_management_list_recorder_btn_padding_left">
+                <ImageView android:id="@+id/category_management_recorder_button" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/tw_list_icon_reorder" android:tint="@color/list_icon_reorder_tint_color" android:contentDescription="@null"/>
+            </LinearLayout>
+        </LinearLayout>
+        <View android:id="@+id/view_divider" android:background="@color/listview_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/listview_divider_height" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+</LinearLayout>

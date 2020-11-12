@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remote-actions xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" version="1.2">
+    <action id="record_pause" label="@string/ble_action_record_pause" priority="1" trigger_key="MEDIA_RECORD">
+        <preference name="gesture" value="click"/>
+        <preference name="button_only" value="true"/>
+    </action>
+</remote-actions>

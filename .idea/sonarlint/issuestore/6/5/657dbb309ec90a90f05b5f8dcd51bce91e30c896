@@ -1,0 +1,59 @@
+
+Q
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1656‰"/Remove or correct this useless self-assignment.(¶ãÃàûÿÿÿÿ
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÁÜßÂ
+A
+java:S1181¿"%Catch Exception instead of Throwable.(´Ú‚Ÿøÿÿÿÿ
+e
+java:S4042²"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë±‚¸
+A
+java:S1181’"%Catch Exception instead of Throwable.(—à¬üÿÿÿÿ
+Q
+java:S1141©"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181ÿ"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+Q
+java:S1141ú"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1181˜"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+<
+java:S1181ˆ"%Catch Exception instead of Throwable.(áù«õ
+|
+java:S4165‰"`Remove this useless assignment; "th" already holds the assigned value along all execution paths.(¶ãÃàûÿÿÿÿ
+v
+java:S4165€"_Remove this useless assignment; "e" already holds the assigned value along all execution paths.(ÃŠÓ²
+Q
+java:S1141ê"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S2095å"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ˆãÓèüÿÿÿÿ
+A
+java:S1181¯"%Catch Exception instead of Throwable.(—à¬üÿÿÿÿ
+A
+java:S1181Ï"%Catch Exception instead of Throwable.(äş™‡øÿÿÿÿ
+A
+java:S1181Ô"%Catch Exception instead of Throwable.(äş™‡øÿÿÿÿ
+e
+java:S2095ç"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(¦ÈÖ‚
+Q
+java:S1141ø"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+F
+java:S1656€"/Remove or correct this useless self-assignment.(ÃŠÓ²
+A
+java:S1181Á"%Catch Exception instead of Throwable.(´Ú‚Ÿøÿÿÿÿ
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(³ŸÉ‘üÿÿÿÿ
+j
+java:S2095ç"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(æŒšÎşÿÿÿÿ
+
+java:S1192Œ"^Define a constant instead of duplicating this literal "Error removing atom from file" 3 times.(í­¤Ëúÿÿÿÿ8·‡Ù¹Û.

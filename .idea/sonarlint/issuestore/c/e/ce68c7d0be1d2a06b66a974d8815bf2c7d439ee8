@@ -1,0 +1,64 @@
+
+y
+java:S3923™"]This conditional operation returns the same value whether the condition is "true" or "false".(ï›ìûÿÿÿÿÿ
+<
+java:S1172<"&Remove these unused method parameters.(˜¦â©
+t
+java:S14509"YRemove the "mViewStt03" field and declare it as a local variable in the relevant methods.(¢¶â”úÿÿÿÿ
+D
+java:S10688".Remove this unused "mViewStt02" private field.(ÏºÛ
+t
+java:S14507"YRemove the "mViewStt01" field and declare it as a local variable in the relevant methods.(ÜÈôËÿÿÿÿÿ
+t
+java:S14500"YRemove the "mLayoutStt" field and declare it as a local variable in the relevant methods.(Ëûóãþÿÿÿÿ
+H
+java:S1172§",Remove this unused method parameter "view3".(üéÿÿÿÿÿ
+d	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôù€»
+œ
+java:S1862Ø"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+œ
+java:S1862Ø"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+t
+java:S1450:"YRemove the "mViewStt04" field and declare it as a local variable in the relevant methods.(ý×ÇÎþÿÿÿÿ
+H
+java:S1172E"-Remove this unused method parameter "bundle".(ÁÈî®úÿÿÿÿ
+M
+java:S1854ê"6Remove this useless assignment to local variable "i4".(Ö´Óó
+i	java:S116–"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îòààþÿÿÿÿ
+i
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(¨¯à´
+c	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þÿ¹
+u
+java:S1171˜"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+c	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¦â©
+o
+java:S14508"YRemove the "mViewStt02" field and declare it as a local variable in the relevant methods.(ÏºÛ
+B
+java:S1172¢"+Remove this unused method parameter "view".(ôù€»
+A
+java:S1172k"+Remove this unused method parameter "view".(Þÿ¹
+_
+java:S2583œ"CChange this condition so that it does not always evaluate to "true"(ÃšôÑüÿÿÿÿ
+i	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üéÿÿÿÿÿ
+i
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(—¯ïã
+I
+java:S1068:".Remove this unused "mViewStt04" private field.(ý×ÇÎþÿÿÿÿ
+œ
+java:S1862Ä"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+I
+java:S10680".Remove this unused "mLayoutStt" private field.(Ëûóãþÿÿÿÿ
+I
+java:S10687".Remove this unused "mViewStt01" private field.(ÜÈôËÿÿÿÿÿ
+D
+java:S1125™"(Remove the literal "true" boolean value.(ï›ìûÿÿÿÿÿ
+I
+java:S10689".Remove this unused "mViewStt03" private field.(¢¶â”úÿÿÿÿ
+i
+java:S1854õ"FRemove this useless assignment to local variable "navigationBarColor".(¿Á¬¤ÿÿÿÿÿ8¢ÿÄ»Û.
+`
+java:S1854ô"BRemove this useless assignment to local variable "statusBarColor".(Â²8¢ÿÄ»Û.
+Q
+java:S1481ô"3Remove this unused "statusBarColor" local variable.(Â²8¢ÿÄ»Û.
+Z
+java:S1481õ"7Remove this unused "navigationBarColor" local variable.(¿Á¬¤ÿÿÿÿÿ8¢ÿÄ»Û.

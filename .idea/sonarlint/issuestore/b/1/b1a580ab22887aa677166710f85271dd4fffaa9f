@@ -1,0 +1,13 @@
+
+B
+java:S2275s",An 'int' is expected rather than a Object[].(ƒ¨¸¿
+F
+java:S1656‡"/Remove or correct this useless self-assignment.(ÃŠÓ²
+F
+java:S11724"+Remove this unused method parameter "view".(œÉ—Ñúÿÿÿÿ
+D
+java:S1185‘"(Remove this method to simply inherit it.(¨Æíãüÿÿÿÿ
+v
+java:S4165‡"_Remove this useless assignment; "e" already holds the assigned value along all execution paths.(ÃŠÓ²
+N
+java:S3878s"8Remove this array creation and simply pass the elements.(ƒ¨¸¿

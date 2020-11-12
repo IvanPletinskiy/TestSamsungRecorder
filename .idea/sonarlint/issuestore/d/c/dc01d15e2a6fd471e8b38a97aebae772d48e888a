@@ -1,0 +1,41 @@
+
+T
+java:S2168?"9Remove this dangerous instance of double-checked locking.(Ğ¶ª©ÿÿÿÿÿ
+t
+java:S1104"^Make mCurrentCategoryId a static final constant or non-public and provide accessors if needed.(Çôˆ©
+m
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(‹¨·şÿÿÿÿ
+F
+java:S3740’"/Provide the parametrized type for this generic.(‹¤·
+n
+java:S1192ì"RDefine a constant instead of duplicating this literal "DB did not opened" 6 times.(ıïíûıÿÿÿÿ
+F
+java:S1656ı"/Remove or correct this useless self-assignment.(ÃŠÓ²
+Q
+java:S1141ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l
+java:S1192“"PDefine a constant instead of duplicating this literal " and not _id=='" 6 times.(­Ôÿãıÿÿÿÿ
+O
+java:S1118&":Add a private constructor to hide the implicit public one.(ûÓÙU
+B
+java:S1168Œ"+Return an empty collection instead of null.(¥¹ï
+Z
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(Şñü›ÿÿÿÿÿ
+N
+java:S1444"8Make this "public static mCurrentCategoryId" field final(Çôˆ©
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯¬ ¨úÿÿÿÿ
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çš¦¢ûÿÿÿÿ
+R
+java:S2696ÿ"6Make the enclosing method "static" or remove this set.( ‹Ïşúÿÿÿÿ
+v
+java:S4165ı"_Remove this useless assignment; "e" already holds the assigned value along all execution paths.(ÃŠÓ²
+E
+java:S3740""/Provide the parametrized type for this generic.(ö•Ü
+F
+java:S3740’"/Provide the parametrized type for this generic.(‹¤·
+J
+java:S3740e"/Provide the parametrized type for this generic.(‹¨·şÿÿÿÿ
+c
+java:S1192}"MDefine a constant instead of duplicating this literal " or _id == '" 4 times.(Š¸³
+i
+java:S1192©"MDefine a constant instead of duplicating this literal " and _id != " 4 times.(áÏãüÿÿÿÿ

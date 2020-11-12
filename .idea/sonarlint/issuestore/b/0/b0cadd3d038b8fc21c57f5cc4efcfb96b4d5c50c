@@ -1,0 +1,100 @@
+
+F
+java:S1066È"/Merge this if statement with the enclosing one.(¸ªŞ×
+K
+java:S1066›"/Merge this if statement with the enclosing one.(ºÇÙãûÿÿÿÿ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(çìÿ«
+M
+java:S1172Ş"6Remove this unused method parameter "dialogInterface".(èÎøÖ
+r
+java:S1104K"WMake mObservable a static final constant or non-public and provide accessors if needed.(—ï†ÿÿÿÿÿ
+K
+java:S3740á"/Provide the parametrized type for this generic.(ßù»ûÿÿÿÿ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÎøÖ
+k
+java:S1104H"UMake mActivity a static final constant or non-public and provide accessors if needed.(¾»òØ
+n
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ã½Àçùÿÿÿÿ
+D
+java:S1144¶"-Remove this unused private "getTitle" method.(Š‘®í
+K
+java:S1066œ"/Merge this if statement with the enclosing one.(ÏÚ¤Şüÿÿÿÿ
+L
+java:S2696h"6Make the enclosing method "static" or remove this set.(ÛŞêÏ
+B
+java:S1168Ÿ"+Return an empty collection instead of null.(¥¹ï
+I
+java:S1481p",Remove this unused "iBinder" local variable.(Ø±™“8œ¸²¸Û.
+2
+java:S3626ç"Remove this redundant jump.(ûÁİ…
+b	java:S101³"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£¼€N
+Q
+java:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+G
+java:S1481Á"+Remove this unused "unused" local variable.(ÔÓÙãûÿÿÿÿ
+K
+java:S1172k"5Remove this unused method parameter "dialogFragment".(÷‰õ
+K
+java:S1066Ç"/Merge this if statement with the enclosing one.(ºÇÙãûÿÿÿÿ
+2
+java:S3626Ù"Remove this redundant jump.(ûÁİ…
+u
+java:S1450Q"ZRemove the "mSearchView" field and declare it as a local variable in the relevant methods.(‡‘ÿÄıÿÿÿÿ
+l
+java:S1104S"VMake mShareTask a static final constant or non-public and provide accessors if needed.(ˆ…ÿÏ
+F
+java:S3740à"/Provide the parametrized type for this generic.(¤¶Ÿ€
+X
+java:S1068L"6Remove this unused "mPrivateModeBinder" private field.(ÜÄøÿÿÿÿ8œ¸²¸Û.
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(×Ì‚ûÿÿÿÿ
+F
+java:S1066±"/Merge this if statement with the enclosing one.(›²¹
+t	java:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+U
+java:S1155ñ">Use isEmpty() to check whether the collection is empty or not.(æÔÆ›
+?	java:S108Ñ")Either remove or fill this block of code.(š£âõ
+p
+java:S1192"ZDefine a constant instead of duplicating this literal "ActivityNotFoundException" 8 times.(óğìÏ
+i
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(İøÇ‰
+h
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(íûÛQ
+F
+java:S1066š"/Merge this if statement with the enclosing one.(¸ªŞ×
+N
+java:S1854Ú"7Remove this useless assignment to local variable "str".(Îşàÿ
+U
+java:S1155ğ">Use isEmpty() to check whether the collection is empty or not.(Ã£ëÔ
+i
+java:S3776’"RRefactor this method to reduce its Cognitive Complexity from 82 to the 15 allowed.(»Ğˆö
+[
+java:S1874„"?Remove this use of "getSupportLoaderManager"; it is deprecated.(ıûÕÈüÿÿÿÿ
+V
+java:S1854Á":Remove this useless assignment to local variable "unused".(ÔÓÙãûÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(¶’ŠÎ
+i	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©øØˆüÿÿÿÿ
+F
+java:S3740à"/Provide the parametrized type for this generic.(¤¶Ÿ€
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“µ{
+K
+java:S3740á"/Provide the parametrized type for this generic.(ßù»ûÿÿÿÿ
+U
+java:S1155ı">Use isEmpty() to check whether the collection is empty or not.(ä’·Ë
+R
+java:S1172Ø"6Remove this unused method parameter "dialogInterface".(©øØˆüÿÿÿÿ
+K
+java:S1066™"/Merge this if statement with the enclosing one.(ºÇÙãûÿÿÿÿ
+L
+java:S1854Û"5Remove this useless assignment to local variable "j".(¥¯Œæ
+o
+java:S1128!"TRemove this unnecessary import: same package classes are always implicitly imported.(…™Œàøÿÿÿÿ
+h
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(÷‰õ
+2
+java:S3626¡"Remove this redundant jump.(ûÁİ…
+J
+java:S1068Q"/Remove this unused "mSearchView" private field.(‡‘ÿÄıÿÿÿÿ

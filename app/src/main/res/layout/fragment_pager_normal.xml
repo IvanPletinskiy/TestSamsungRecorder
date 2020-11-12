@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/layout_pager_normal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Space android:id="@+id/space_view" android:layout_width="match_parent" android:layout_height="@dimen/info_description_height"/>
+    <com.sec.android.app.voicenote.p007ui.pager.IdleWaveStandard android:id="@+id/idle_wave_normal" android:layout_width="match_parent" android:layout_height="@dimen/wave_view_standard_total_height"/>
+</LinearLayout>

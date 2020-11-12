@@ -1,0 +1,12 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(• ŞÃúÿÿÿÿ
+X
+java:S1854"6Remove this useless assignment to local variable "i2".(¾Èå’úÿÿÿÿ8İÍß¹Û.
+R
+java:S1854"5Remove this useless assignment to local variable "i".(é˜ˆò8İÍß¹Û.
+C
+java:S1481"&Remove this unused "i" local variable.(é˜ˆò8İÍß¹Û.
+I
+java:S1481"'Remove this unused "i2" local variable.(¾Èå’úÿÿÿÿ8İÍß¹Û.
+I
+java:S1068"'Remove this unused "TAG" private field.(óÃ†ıÿÿÿÿ8İÍß¹Û.

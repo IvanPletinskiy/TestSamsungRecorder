@@ -1,0 +1,37 @@
+
+V
+java:S10685";Remove this unused "ABOUT_MODE_OPEN_LICENSE" private field.(¾•äáûÿÿÿÿ
+V
+java:S1874Æ":Remove this use of "MEASURED_SIZE_MASK"; it is deprecated.(¤àÇÕùÿÿÿÿ
+I
+java:S10684"3Remove this unused "ABOUT_MODE_MAIN" private field.(¦ï½
+T
+java:S3878Æ"8Remove this array creation and simply pass the elements.(¤àÇÕùÿÿÿÿ
+w
+java:S1192£"[Use already-defined constant 'EXCHANGE_PACKAGE_NAME' instead of duplicating its value here.(»·³éûÿÿÿÿ
+N
+java:S3878m"8Remove this array creation and simply pass the elements.(Îú‰Ò
+@
+java:S1172à")Remove this unused method parameter "r7".(‘ÅØÊ
+L
+java:S1172¼"5Remove this unused method parameter "dialogFragment".(÷‰õ
+K
+java:S1172ß"/Remove this unused method parameter "stubData".(¶Ü¥Óúÿÿÿÿ
+O
+java:S10687"9Remove this unused "EXCHANGE_PACKAGE_NAME" private field.(¥ƒã¢
+M
+java:S10689"2Remove this unused "SETTING_ACTION" private field.(Ëô×úÿÿÿÿ
+F
+java:S10688"+Remove this unused "PACKAGE" private field.(ª¬µ¸şÿÿÿÿ
+F
+java:S1172Ñ"/Remove this unused method parameter "stubData".(¿–õ¡
+E
+java:S1068A"*Remove this unused "mIndex" private field.(‚¥³İùÿÿÿÿ
+_
+java:S3358W"DExtract this nested ternary operation into an independent statement.(Ê‡¹“üÿÿÿÿ
+A
+java:S1172Ò"*Remove this unused method parameter "str".(à‡ä·
+E
+java:S1172Ø"/Remove this unused method parameter "stubData".(Á±ù
+C
+java:S1068C"-Remove this unused "mOldIndex" private field.(óÇÌ±

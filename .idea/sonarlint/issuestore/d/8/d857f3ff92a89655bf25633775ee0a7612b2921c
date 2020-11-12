@@ -1,0 +1,46 @@
+
+1
+java:S2275ˆ"Not enough arguments.(ÈÍ»£ıÿÿÿÿ
+`
+java:S3358‘"DExtract this nested ternary operation into an independent statement.(…«…‹şÿÿÿÿ
+`
+java:S3358‘"DExtract this nested ternary operation into an independent statement.(…«…‹şÿÿÿÿ
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ëÅæÿÿÿÿÿ
+z
+java:S14503"_Remove the "mTimeDotTextView" field and declare it as a local variable in the relevant methods.(è›Ÿ•úÿÿÿÿ
+2
+java:S3626‚"Remove this redundant jump.(ûÁİ…
+O
+java:S3878®"8Remove this array creation and simply pass the elements.(˜ò®
+T
+java:S3878†"8Remove this array creation and simply pass the elements.(²‰šˆûÿÿÿÿ
+1
+java:S2275†"Not enough arguments.(²‰šˆûÿÿÿÿ
+O
+java:S3878„"8Remove this array creation and simply pass the elements.(Óƒ›¶
+`
+java:S3358‘"DExtract this nested ternary operation into an independent statement.(…«…‹şÿÿÿÿ
+T
+java:S3878ˆ"8Remove this array creation and simply pass the elements.(ÈÍ»£ıÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(•ëÅæÿÿÿÿÿ
+,
+java:S2275„"Not enough arguments.(Óƒ›¶
+C
+java:S2275®",An 'int' is expected rather than a Object[].(˜ò®
+H
+java:S1172z"-Remove this unused method parameter "bundle".(ÁÈî®úÿÿÿÿ
+K
+java:S1066å"/Merge this if statement with the enclosing one.(Í¶ÔÕÿÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(ÊºÒ
+h
+java:S1192"LDefine a constant instead of duplicating this literal "record_mode" 3 times.(Îôû‚ıÿÿÿÿ
+1
+java:S2275‚"Not enough arguments.(³şÂİüÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬›ïùÿÿÿÿ
+K
+java:S1066æ"/Merge this if statement with the enclosing one.(åûÁÖşÿÿÿÿ
+T
+java:S3878‚"8Remove this array creation and simply pass the elements.(³şÂİüÿÿÿÿ

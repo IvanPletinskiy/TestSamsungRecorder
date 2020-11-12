@@ -1,0 +1,47 @@
+
+[
+java:S1068""@Remove this unused "VOLUME_STATE_MEDIA_UNMOUNTED" private field.(Ğ¢³´üÿÿÿÿ
+[
+java:S1068"@Remove this unused "ACTION_KEYGUARD_STATE_UPDATE" private field.(ˆ»ø¦úÿÿÿÿ
+J
+java:S1172ƒ".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+Q
+java:S1068";Remove this unused "VOLUME_STATE_FORMATTING" private field.(ººÁ‚
+X
+java:S1068"BRemove this unused "VOLUME_STATE_MEDIA_BAD_REMOVAL" private field.(øĞó
+]
+java:S18548";Remove this useless assignment to local variable "context".(¹Òùçÿÿÿÿÿ8µ¸Û.
+I
+java:S1172h".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+J
+java:S1172¡".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+N
+java:S14818",Remove this unused "context" local variable.(¹Òùçÿÿÿÿÿ8µ¸Û.
+B
+java:S1172Ó"&Remove these unused method parameters.(š³ÿÿÿÿÿÿ
+Z
+java:S1068 "?Remove this unused "VOLUME_STATE_MEDIA_EJECTING" private field.(ˆ·éşÿÿÿÿ
+Y
+java:S1068!">Remove this unused "VOLUME_STATE_MEDIA_MOUNTED" private field.(†ìéûÿÿÿÿ
+N
+java:S1481H",Remove this unused "context" local variable.(¹Òùçÿÿÿÿÿ8¹­¸Û.
+J
+java:S1172Ÿ".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+]
+java:S1854H";Remove this useless assignment to local variable "context".(¹Òùçÿÿÿÿÿ8¹­¸Û.
+N
+java:S1068$"8Remove this unused "VOLUME_STATE_REMOVED" private field.(£›à¼
+2
+java:S3626‹"Remove this redundant jump.(ûÁİ…
+O
+java:S1068"9Remove this unused "VOLUME_STATE_CHECKING" private field.(»‹¾µ
+R
+java:S1068%"<Remove this unused "VOLUME_STATE_UNMOUNTABLE" private field.(Œ Ã
+]
+java:S1068#"BRemove this unused "VOLUME_STATE_MOUNTED_READ_ONLY" private field.(è¿Ïùÿÿÿÿ
+J
+java:S1172„".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+]
+java:S1854â":Remove this useless assignment to local variable "action".(ü£Ãûÿÿÿÿ8¼ëŸ¸Û.
+N
+java:S1481â"+Remove this unused "action" local variable.(ü£Ãûÿÿÿÿ8¼ëŸ¸Û.

@@ -1,0 +1,75 @@
+
+>
+java:S1185W"(Remove this method to simply inherit it.(©ùœä
+I
+java:S1068"3Remove this unused "CURRENT_VERSION" private field.(ƒá½Õ
+v
+java:S1192`"[Define a constant instead of duplicating this literal "INSERT INTO labels VALUES(" 4 times.(ç¿¼Üşÿÿÿÿ
+o	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“ÓÌ
+S
+java:S10687"=Remove this unused "_LABELS_SEARCH_TABLE_NAME" private field.(ŠË˜Ù
+H
+java:S10689"-Remove this unused "_TRASH_ID" private field.(Ùæõşÿÿÿÿ
+O
+java:S2168F"9Remove this dangerous instance of double-checked locking.(ÚÚÛñ
+J
+java:S3740;"/Provide the parametrized type for this generic.(€…Şåûÿÿÿÿ
+o	java:S1155"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(££ÚŞ
+M
+java:S1068%"2Remove this unused "TITLE_CATEGORY" private field.(ªãŒÔøÿÿÿÿ
+K
+java:S1068&"5Remove this unused "TRASH_CATEGORY_ID" private field.(Â™œÀ
+p
+java:S1192›"TUse already-defined constant 'TITLE_CATEGORY' instead of duplicating its value here.(”“óüÿÿÿÿ
+}
+java:S1192"aUse already-defined constant '_LABELS_CATEGORY_TABLE_NAME' instead of duplicating its value here.(û»˜ şÿÿÿÿ
+j
+java:S1192œ"NUse already-defined constant 'POSITION' instead of duplicating its value here.(Óñö¥ıÿÿÿÿ
+M
+java:S1068("7Remove this unused "TRASH_DATE_MODIFIED" private field.(©×’‹
+L
+java:S10682"6Remove this unused "TRASH_RESTORE_PATH" private field.(¥úğÍ
+S
+java:S10681"8Remove this unused "TRASH_RECORDING_TYPE" private field.(çÊ›àüÿÿÿÿ
+N
+java:S10684"3Remove this unused "TRASH_YEAR_NAME" private field.(ÆÉøøÿÿÿÿ
+I
+java:S1068-"3Remove this unused "TRASH_MIME_TYPE" private field.(•‚ìÙ
+J
+java:S1068$"/Remove this unused "TIME_SEARCH" private field.(ïèÃŸşÿÿÿÿ
+R
+java:S10688"<Remove this unused "_LABELS_TRASH_TABLE_NAME" private field.(²¸÷ 
+t	java:S1159"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ùæõşÿÿÿÿ
+J
+java:S1068)"4Remove this unused "TRASH_DATE_TAKEN" private field.(äÇ”ª
+o	java:S1157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠË˜Ù
+F
+java:S10685"0Remove this unused "_ID_CATEGORY" private field.(££ÚŞ
+G
+java:S1068,"1Remove this unused "TRASH_IS_MEMO" private field.(çÆº
+o	java:S1158"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²¸÷ 
+F
+java:S1068!"0Remove this unused "LABEL_SEARCH" private field.(„íõä
+M
+java:S1068'"7Remove this unused "TRASH_CATEGORY_NAME" private field.(Ñ¥¯
+U
+java:S10686"?Remove this unused "_LABELS_CATEGORY_TABLE_NAME" private field.(“ÓÌ
+P
+java:S1068*"5Remove this unused "TRASH_DELETE_TIME" private field.(¦ëâäøÿÿÿÿ
+D
+java:S1068.".Remove this unused "TRASH_NAME" private field.(ƒÍĞš
+E
+java:S3740:"/Provide the parametrized type for this generic.(’òàŠ
+M
+java:S1068+"2Remove this unused "TRASH_DURATION" private field.(¦ÀÊèıÿÿÿÿ
+K
+java:S10683"5Remove this unused "TRASH_VOLUME_NAME" private field.(ÅÅ·
+N
+java:S10680"8Remove this unused "TRASH_RECORDING_MODE" private field.(òã²¤
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹÷“Ö
+C
+java:S1068/".Remove this unused "TRASH_PATH" private field.(¨ÿáH
+V
+java:S1161Q":Add the "@Override" annotation above this method signature(ÛÚï68Ê¡¥¸Û.
+W
+java:S1161W":Add the "@Override" annotation above this method signature(©ùœä8Ê¡¥¸Û.

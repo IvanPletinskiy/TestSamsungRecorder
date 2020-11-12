@@ -1,0 +1,47 @@
+
+B
+java:S1168†"+Return an empty collection instead of null.(¥¹ï
+i
+java:S2095ï"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ëÀÉ¸şÿÿÿÿ
+v
+java:S4165"_Remove this useless assignment; "e" already holds the assigned value along all execution paths.(ÃŠÓ²
+X
+java:S4719Š"<Replace charset name argument with StandardCharsets.UTF_16BE(Ìèüéÿÿÿÿÿ
+A
+java:S1181®"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+<
+java:S1181"%Catch Exception instead of Throwable.(áù«õ
+E
+java:S1144Ù".Remove this unused private "strToByte" method.(‘‚¶ì
+F
+java:S1656"/Remove or correct this useless self-assignment.(ÃŠÓ²
+E
+java:S3740í"/Provide the parametrized type for this generic.(¨»Èa
+A
+java:S1068"+Remove this unused "newBKMK" private field.(›Œä«
+Q
+java:S1141ğ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+K
+java:S1144Ë"/Remove this unused private "updateBnum" method.(”¡¶©üÿÿÿÿ
+B
+java:S1168ë"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168ù"+Return an empty collection instead of null.(¥¹ï
+|
+java:S4165"`Remove this useless assignment; "th" already holds the assigned value along all execution paths.(¶ãÃàûÿÿÿÿ
+H
+java:S1068"-Remove this unused "shortBook" private field.(Ù“Öªùÿÿÿÿ
+B
+java:S1168€"+Return an empty collection instead of null.(¥¹ï
+F
+java:S1068"+Remove this unused "newBNUM" private field.(ìæ şÿÿÿÿ
+E
+java:S3740í"/Provide the parametrized type for this generic.(¨»Èa
+X
+java:S4719Š"<Replace charset name argument with StandardCharsets.UTF_16BE(Ìèüéÿÿÿÿÿ
+C
+java:S1068"-Remove this unused "TEMP_NAME" private field.(‚“—Û
+K
+java:S1656"/Remove or correct this useless self-assignment.(¶ãÃàûÿÿÿÿ
+c
+java:S2147¨"ECombine this catch with the one at line 546, which has the same body.(˜Çøª8ğÆ•¼Û.

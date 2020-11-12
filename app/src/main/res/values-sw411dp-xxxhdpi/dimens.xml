@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="category_list_add_button_margin_start">20.5dp</dimen>
+    <dimen name="category_list_item_margin_start">27.5dp</dimen>
+    <dimen name="category_management_list_checkbox_margin_start">20.5dp</dimen>
+    <dimen name="category_management_list_padding_bottom">17dp</dimen>
+    <dimen name="category_management_list_padding_top">16dp</dimen>
+    <dimen name="category_management_list_recorder_btn_padding_left">23dp</dimen>
+    <dimen name="go_to_top_bottom_padding">26dp</dimen>
+    <dimen name="help_mode_ok_button_top_margin">96dp</dimen>
+    <dimen name="help_overwrite_image_padding">10dp</dimen>
+    <dimen name="help_overwrite_ok_button_top_margin">96dp</dimen>
+    <dimen name="idle_stt_total_height">269dp</dimen>
+    <dimen name="listrow_divider_padding_end">23dp</dimen>
+    <dimen name="listrow_divider_padding_start">68dp</dimen>
+    <dimen name="listrow_icon_layout_margin_start">23dp</dimen>
+    <dimen name="listrow_layout_margin_end">27.5dp</dimen>
+    <dimen name="listrow_line_text_padding">11.75dp</dimen>
+    <dimen name="listrow_miniplay_icon_margin_start">18dp</dimen>
+    <dimen name="listrow_seekbar_end_margin">29dp</dimen>
+    <dimen name="no_recordings_description_margin_top">28.5dp</dimen>
+    <dimen name="player_amplitude_time_hover_y">96dp</dimen>
+    <dimen name="voice_label_image_height">261dp</dimen>
+    <dimen name="voice_label_image_margin">23dp</dimen>
+    <dimen name="wave_view_interview_top_bottom_height">122dp</dimen>
+    <dimen name="wave_view_interview_total_height">262dp</dimen>
+    <dimen name="wave_view_space_between_two_lines">20dp</dimen>
+    <dimen name="wave_view_standard_total_height">262dp</dimen>
+    <dimen name="wave_view_voicememo_total_height">148dp</dimen>
+</resources>

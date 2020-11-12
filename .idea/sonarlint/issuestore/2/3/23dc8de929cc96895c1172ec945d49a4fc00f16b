@@ -1,0 +1,24 @@
+
+>
+java:S1185j"(Remove this method to simply inherit it.(öÿÕÅ
+t
+java:S1171B"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+b	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Î?
+c	java:S116@"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô˜Í«
+J
+java:S3740%"/Provide the parametrized type for this generic.(Ÿª½÷ıÿÿÿÿ
+b	java:S116N"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞ‘
+t
+java:S1171P"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+A
+java:S1172["&Remove these unused method parameters.(Ê˜Ô°ûÿÿÿÿ
+_
+java:S1192a"IUse already-defined constant 'TAG' instead of duplicating its value here.(¹ñ˜Ø
+c	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñåÆ¸
+K
+java:S1172e"6Remove this unused method parameter "dialogInterface".(£Î?
+=
+java:S1068"'Remove this unused "TAG" private field.(ïå„Ô
+h	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê˜Ô°ûÿÿÿÿ
+>
+java:S1172`"(Remove this unused method parameter "i".(ñåÆ¸

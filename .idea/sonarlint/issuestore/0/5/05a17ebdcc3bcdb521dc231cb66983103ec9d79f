@@ -1,0 +1,71 @@
+
+J
+java:S1068"5Remove this unused "PREF_DIAGMON_NAME" private field.(éù”5
+A
+java:S1444"+Make this "public static srObj" field final(»¦Ç
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ù¦šøøÿÿÿÿ
+P
+java:S1068":Remove this unused "PREF_DIAGMON_TIMESTAMP" private field.(ò¶›ï
+v
+java:S3008"[Rename this field "MIN_WAITING_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¤æ‘üÿÿÿÿ
+W
+java:S1854Æ";Remove this useless assignment to local variable "unused5".(Ç¡Ô“úÿÿÿÿ
+e
+java:S1104"OMake elp a static final constant or non-public and provide accessors if needed.(ôËŸ
+V
+java:S1444";Make this "public static isEnableDefaultConfig" field final(Îèşÿÿÿÿ
+R
+java:S1854¾";Remove this useless assignment to local variable "unused2".(÷¬ù
+w
+java:S3008"aRename this field "PREF_DIAGMON_TIMESTAMP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¶›ï
+|
+java:S1104"aMake isEnableDefaultConfig a static final constant or non-public and provide accessors if needed.(Îèşÿÿÿÿ
+C
+java:S1481¾",Remove this unused "unused2" local variable.(÷¬ù
+B
+java:S1481¸"+Remove this unused "unused" local variable.(¸±ìù
+C
+java:S1444".Make this "public static instance" field final(®™¦G
+s
+java:S3008"]Rename this field "PREF_DIAGMON_CHECK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·º¿
+Q
+java:S1854¸":Remove this useless assignment to local variable "unused".(¸±ìù
+W
+java:S1854Á";Remove this useless assignment to local variable "unused3".(çï¶àøÿÿÿÿ
+i
+java:S1104"TMake instance a static final constant or non-public and provide accessors if needed.(®™¦G
+H
+java:S1444"-Make this "public static mConfig" field final(ÑÄ¦îúÿÿÿÿ
+q
+java:S3008"\Rename this field "PREF_DIAGMON_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éù”5
+g
+java:S1128
+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ÙÌôˆ
+?
+java:S1125ƒ"(Remove the literal "true" boolean value.(“ä„
+?	java:S108§")Either remove or fill this block of code.(ãµ¡³
+C
+java:S1481Â",Remove this unused "unused4" local variable.(¯Õô
+L
+java:S1068"6Remove this unused "PREF_DIAGMON_CHECK" private field.(·º¿
+O
+java:S1068"4Remove this unused "MIN_WAITING_TIME" private field.(–¤æ‘üÿÿÿÿ
+R
+java:S1854Â";Remove this useless assignment to local variable "unused4".(¯Õô
+?
+java:S1444")Make this "public static elp" field final(ôËŸ
+H
+java:S1481Æ",Remove this unused "unused5" local variable.(Ç¡Ô“úÿÿÿÿ
+n
+java:S1104"SMake mConfig a static final constant or non-public and provide accessors if needed.(ÑÄ¦îúÿÿÿÿ
+ˆ
+java:S1450"mRemove the "originUncaughtExceptionHandler" field and declare it as a local variable in the relevant methods.(œñËıÿÿÿÿ
+T
+java:S3400!"9Remove this method and declare a constant for this value.(‹°Ãİıÿÿÿÿ
+P
+java:S1118\":Add a private constructor to hide the implicit public one.(½À‡±
+g
+java:S1104"QMake srObj a static final constant or non-public and provide accessors if needed.(»¦Ç
+H
+java:S1481Á",Remove this unused "unused3" local variable.(çï¶àøÿÿÿÿ

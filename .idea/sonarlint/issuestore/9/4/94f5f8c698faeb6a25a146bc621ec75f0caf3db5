@@ -1,0 +1,14 @@
+
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÇĞòıÿÿÿÿ
+c	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñåÆ¸
+>
+java:S11726"(Remove this unused method parameter "i".(ñåÆ¸
+A
+java:S11721"&Remove these unused method parameters.(ÅÅ‘’øÿÿÿÿ
+n
+java:S2637."XThis method's return value is marked "androidx.annotation.NonNull" but null is returned.(á­ê¨
+Q
+java:S1172;"6Remove this unused method parameter "dialogInterface".(¾ÇĞòıÿÿÿÿ
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÅ‘’øÿÿÿÿ
+[
+java:S3400P"9Remove this method and declare a constant for this value.(ñª“ûÿÿÿÿ8ÜÄ¸Û.

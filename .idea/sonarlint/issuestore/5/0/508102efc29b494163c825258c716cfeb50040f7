@@ -1,0 +1,16 @@
+
+B
+java:S1068"'Remove this unused "TAG" private field.(‚‘şîÿÿÿÿÿ
+h	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘áí…úÿÿÿÿ
+h	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à’•éúÿÿÿÿ
+t
+java:S11719"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Q
+java:S1172I"6Remove this unused method parameter "dialogInterface".(‘áí…úÿÿÿÿ
+>
+java:S1185N"(Remove this method to simply inherit it.(öÿÕÅ
+J
+java:S3740 "/Provide the parametrized type for this generic.(Ÿª½÷ıÿÿÿÿ
+b	java:S1167"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞ‘
+A
+java:S1172D"&Remove these unused method parameters.(à’•éúÿÿÿÿ

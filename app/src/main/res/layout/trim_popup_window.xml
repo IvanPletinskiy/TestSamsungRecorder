@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/voice_recorder_trim_popup_bg" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:enabled="false" android:textSize="17dp" android:id="@+id/delete_selected_area" android:background="@drawable/voice_ripple_top_trim_popup_button" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/delete_selected_area" android:maxLines="1" android:fontFamily="sans-serif" android:textAlignment="textStart" android:paddingStart="24dp" android:paddingEnd="24dp"/>
+        <TextView android:enabled="false" android:textSize="17dp" android:id="@+id/delete_dimmed_area" android:background="@drawable/voice_ripple_bottom_trim_popup_button" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/delete_dimmed_area" android:maxLines="1" android:fontFamily="sans-serif" android:textAlignment="textStart" android:paddingStart="24dp" android:paddingEnd="24dp"/>
+    </LinearLayout>
+</LinearLayout>

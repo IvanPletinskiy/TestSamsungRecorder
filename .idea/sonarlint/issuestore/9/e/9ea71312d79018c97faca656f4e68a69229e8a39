@@ -1,0 +1,99 @@
+
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ä
+G
+java:S1481©"+Remove this unused "unused" local variable.(ÒŒ“Êùÿÿÿÿ
+m
+java:S1104b"XMake mBackKeyLock a static final constant or non-public and provide accessors if needed.(Š‰ì
+n
+java:S1192‰"RUse already-defined constant 'BUNDLE_SCENE' instead of duplicating its value here.(‘¿¥‰ûÿÿÿÿ
+]
+java:S1126ı	"AReplace this if-then-else statement by a single return statement.(³„®ıÿÿÿÿ
+2
+java:S3626ª"Remove this redundant jump.(ûÁİ…
+v
+java:S1192î"ZDefine a constant instead of duplicating this literal "android.intent.action.RUN" 3 times.(¾’Ã”øÿÿÿÿ
+P
+java:S1172"4Remove this unused method parameter "componentName".(ºÜÎŠÿÿÿÿÿ
+2
+java:S3626ø"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¡"Remove this redundant jump.(ûÁİ…
+d	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ââ×½
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+O
+java:S1068]"4Remove this unused "NOT_CHECK_SDCARD" private field.(ä‹Ø¨ûÿÿÿÿ
+X
+java:S1126å	"AReplace this if-then-else statement by a single return statement.(‘‘–»
+M
+java:S1905Á"1Remove this unnecessary cast to "VNMainActivity".(ô®ÉÈøÿÿÿÿ
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œƒƒ©ùÿÿÿÿ
+d	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‹¥«
+s
+java:S1104²"WMake mObservable a static final constant or non-public and provide accessors if needed.(éŠ“úÿÿÿÿ
+=	java:S131Ã""Add a default case to this switch.(Ñ¯áÆÿÿÿÿÿ
+R
+java:S1854ß";Remove this useless assignment to local variable "unused2".(õµ÷’
+B
+java:S1481‘"+Remove this unused "unused" local variable.(ˆÇÎî
+W
+java:S1068Q"<Remove this unused "CHECK_SDCARD_SHOW_DIALOG" private field.(èÒÔ‘şÿÿÿÿ
+x
+java:S1104e"]Make mClickableBackKey a static final constant or non-public and provide accessors if needed.(¾œÖ·úÿÿÿÿ
+p
+java:S1104n"UMake mIService a static final constant or non-public and provide accessors if needed.(ÊÁ‚Ÿüÿÿÿÿ
+Q
+java:S1854‘":Remove this useless assignment to local variable "unused".(ˆÇÎî
+2
+java:S3626š"Remove this redundant jump.(ûÁİ…
+E
+java:S1172†
+")Remove this unused method parameter "r7".(¯€°‹úÿÿÿÿ
+N
+java:S2589“"7Remove this expression which always evaluates to "true"(í¢¿¦
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¯öúÈ
+2
+java:S3626°"Remove this redundant jump.(ûÁİ…
+2
+java:S3626İ	"Remove this redundant jump.(ûÁİ…
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+F
+java:S1068N"0Remove this unused "BUNDLE_SCENE" private field.(Ñ×Ø€
+V
+java:S1854Å":Remove this useless assignment to local variable "unused".(­·˜«üÿÿÿÿ
+i
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(öÿÕÅ
+F
+java:S1068f"0Remove this unused "mCurrentTime" private field.(âÌŠ÷
+K
+java:S1172¢"4Remove this unused method parameter "componentName".(æ¾õ
+d	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¯âó
+t	java:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+o
+java:S3776‘"SRefactor this method to reduce its Cognitive Complexity from 142 to the 15 allowed.(÷œİ‰ûÿÿÿÿ
+V
+java:S1068O";Remove this unused "CHECK_SDCARD_DO_NOTHING" private field.(„ï¹ƒşÿÿÿÿ
+2
+java:S3626»"Remove this redundant jump.(ûÁİ…
+h
+java:S1192É"LDefine a constant instead of duplicating this literal "record_mode" 9 times.(á×™úÿÿÿÿ
+y
+java:S1104¬"bMake mIsEnableNavigationBar a static final constant or non-public and provide accessors if needed.(±²¢Æ
+V
+java:S1854©":Remove this useless assignment to local variable "unused".(ÒŒ“Êùÿÿÿÿ
+2
+java:S3626í"Remove this redundant jump.(ûÁİ…
+˜
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÿ÷
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Àïı¶üÿÿÿÿ
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(úùóüÿÿÿÿ
+2
+java:S3626Š"Remove this redundant jump.(ûÁİ…
+R
+java:S1068P"<Remove this unused "CHECK_SDCARD_HIDE_DIALOG" private field.(£œŠÉ

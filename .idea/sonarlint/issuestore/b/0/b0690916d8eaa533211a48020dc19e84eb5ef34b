@@ -1,0 +1,46 @@
+
+d
+java:S1192P"NDefine a constant instead of duplicating this literal "date_modified" 5 times.(À×‚ÿ
+[
+java:S3878"8Remove this array creation and simply pass the elements.(àû§ºıÿÿÿÿ8§ª¬¸Û.
+J
+java:S1068"/Remove this unused "ColumnCount" private field.(ÍÉä¥øÿÿÿÿ
+B
+java:S1172$"&Remove these unused method parameters.(¾¶ù\8§ª¬¸Û.
+V
+java:S34005"9Remove this method and declare a constant for this value.(”·³›8§ª¬¸Û.
+b
+java:S1192"FDefine a constant instead of duplicating this literal "title" 4 times.(µ·‹p8§ª¬¸Û.
+[
+java:S3878’"8Remove this array creation and simply pass the elements.(èó¾»ùÿÿÿÿ8§ª¬¸Û.
+L
+java:S3740Y"/Provide the parametrized type for this generic.(…†8§ª¬¸Û.
+8
+java:S2275’"Not enough arguments.(èó¾»ùÿÿÿÿ8§ª¬¸Û.
+8
+java:S2275"Not enough arguments.(àû§ºıÿÿÿÿ8§ª¬¸Û.
+B
+java:S1172,"&Remove these unused method parameters.(®ßÔ{8§ª¬¸Û.
+l
+java:S1192R"JDefine a constant instead of duplicating this literal "mime_type" 3 times.(…š™Æşÿÿÿÿ8§ª¬¸Û.
+V
+java:S3400%"9Remove this method and declare a constant for this value.(”·³›8§ª¬¸Û.
+L
+java:S1068"0Remove this unused "REGEX_SEARCH" private field.(¾ú8§ª¬¸Û.
+e
+java:S1192O"JDefine a constant instead of duplicating this literal "datetaken" 3 times.(ÂÎê™øÿÿÿÿ
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(–øÀ›8§ª¬¸Û.
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍÉä¥øÿÿÿÿ
+G
+java:S1068"1Remove this unused "GLOBAL_SEARCH" private field.(§ÏĞ
+_
+java:S1192Q"IDefine a constant instead of duplicating this literal "duration" 3 times.(êÉŒ
+D
+java:S1172ê"&Remove these unused method parameters.(¾”ıá8§ª¬¸Û.
+G
+java:S1172("*Remove this unused method parameter "uri".(Î”áâ8§ª¬¸Û.
+L
+java:S3740Y"/Provide the parametrized type for this generic.(…†8§ª¬¸Û.
+C
+java:S11724"&Remove these unused method parameters.(´øÿ÷8§ª¬¸Û.

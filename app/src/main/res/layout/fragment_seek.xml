@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="@color/main_window_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr">
+    <SeekBar android:layout_gravity="center" android:id="@+id/seekbar_simple" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="match_parent" android:layout_height="40dp" android:maxHeight="3dp" android:progressDrawable="@drawable/listrow_seekbar_progress" android:minHeight="3dp" android:thumb="@drawable/listrow_seekbar_thumb" android:layoutDirection="ltr" android:layout_marginStart="@dimen/multi_seekbar_start_margin" android:layout_marginEnd="@dimen/multi_seekbar_end_margin"/>
+</FrameLayout>

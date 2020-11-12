@@ -1,0 +1,38 @@
+
+F
+java:S1172Ñ"(Remove this unused method parameter "z".(È¤ˆÉ8·Óñ·Û.
+r
+java:S3077)"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Í­¿ıÿÿÿÿ
+M
+java:S2696Î"6Make the enclosing method "static" or remove this set.(ÙÇ÷ˆ
+W
+java:S3400"9Remove this method and declare a constant for this value.(È¸å8·Óñ·Û.
+N
+java:S1144º"+Remove this unused private "getMnc" method.( ï¼­ûÿÿÿÿ8î™ò·Û.
+R
+java:S1144Õ"/Remove this unused private "getAbiType" method.(„•øÏÿÿÿÿÿ8î™ò·Û.
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¯Óˆˆÿÿÿÿÿ
+S
+java:S1144¥"0Remove this unused private "getDeviceId" method.(ãù…®şÿÿÿÿ8î™ò·Û.
+U
+java:S11186":Add a private constructor to hide the implicit public one.(Ã¹š«ÿÿÿÿÿ
+U
+java:S1118.":Add a private constructor to hide the implicit public one.(è³Ä©ıÿÿÿÿ
+a
+java:S1068'"?Remove this unused "UPDATE_CHECK_THRESHOLD_TIME" private field.(© š¨ûÿÿÿÿ8·Óñ·Û.
+F
+java:S1068""1Remove this unused "GET_CHINA_URL" private field.(ˆƒ¤`
+I
+java:S1144Ç"+Remove this unused private "getCsc" method.(á»àÄ8î™ò·Û.
+N
+java:S1144Ñ"0Remove this unused private "getSystemId" method.(úğ‘8î™ò·Û.
+`
+java:S1068 "ERemove this unused "APK_INSTALL_REQUEST_TO_GALAXYAPPS" private field.(Ïè¾©úÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßÌÊ
+P
+java:S1068&"5Remove this unused "TYPE_UPDATE_CHECK" private field.(êÇòüÿÿÿÿ
+V
+java:S1068("4Remove this unused "UPDATE_CHECK_URL" private field.(İ×©ûûÿÿÿÿ8î™ò·Û.
+\
+java:S3400Ê"9Remove this method and declare a constant for this value.(âÅÒŠÿÿÿÿÿ8•¯÷·Û.

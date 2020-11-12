@@ -1,0 +1,147 @@
+
+U
+java:S3516Œ"9Refactor this method to not always return the same value.(Ñ¢˜·ıÿÿÿÿ
+F
+java:S3740±"/Provide the parametrized type for this generic.(æéÑà
+F
+java:S3740İ"/Provide the parametrized type for this generic.(æéÑà
+F
+java:S3740‰"/Provide the parametrized type for this generic.(ÊÃÄÄ
+E
+java:S3740“"/Provide the parametrized type for this generic.(Ôëi
+F
+java:S3740©"/Provide the parametrized type for this generic.(ÊÃÄÄ
+w
+java:S1192É	"[Define a constant instead of duplicating this literal "Fail to delete saveFile !!" 3 times.(ÍÑÙüÿÿÿÿ
+i
+java:S1192÷"MDefine a constant instead of duplicating this literal " mEndTime : " 3 times.(¤ïØ´üÿÿÿÿ
+c
+java:S1192”"LDefine a constant instead of duplicating this literal " duration :" 6 times.(ŠéÃ
+k
+java:S1192Ø"ODefine a constant instead of duplicating this literal " stack size : " 4 times.(³£†ÿøÿÿÿÿ
+f
+java:S1192Ø"JDefine a constant instead of duplicating this literal " eTime : " 4 times.(³£†ÿøÿÿÿÿ
+`
+java:S1192ë"IDefine a constant instead of duplicating this literal " path : " 5 times.(‹“Ä¼
+c
+java:S1192µ"LDefine a constant instead of duplicating this literal "record_mode" 3 times.(ğµ
+f
+java:S1192Ø"JDefine a constant instead of duplicating this literal " dTime : " 4 times.(³£†ÿøÿÿÿÿ
+_
+java:S1192”"HDefine a constant instead of duplicating this literal " END : " 6 times.(ŠéÃ
+Z
+java:S1155ú">Use isEmpty() to check whether the collection is empty or not.(ØûÔ»øÿÿÿÿ
+Z
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(ØûÔ»øÿÿÿÿ
+m
+java:S11047"WMake mAppContext a static final constant or non-public and provide accessors if needed.(ìŞ…º
+h
+java:S1104K"RMake mScene a static final constant or non-public and provide accessors if needed.(â¢‡ú
+O
+java:S2589ú"8Remove this expression which always evaluates to "false"(Õä
+S
+java:S2589‡"7Remove this expression which always evaluates to "true"(©ª°üÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÙûàÜ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¶¹í¸úÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.( “““
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(±¸ÀÜıÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÅùÁ
+j
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(ÊÅ‰æ
+
+java:S1450B"fRemove the "mIsRecordByBluetoothSCO" field and declare it as a local variable in the relevant methods.(Ê³Ã¾øÿÿÿÿ
+Œ
+java:S1450D"vRemove the "mIsShowingToastAfterSaveTranslationFile" field and declare it as a local variable in the relevant methods.(ø«±
+f
+java:S1149:"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(â‰„
+U
+java:S1118T":Add a private constructor to hide the implicit public one.(èÃë¢ÿÿÿÿÿ
+t	java:S115o"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ş³À×üÿÿÿÿ
+Œ
+java:S1845|"vRename field "WAIT" to prevent any misunderstanding/clash with method "wait" defined in superclass "java.lang.Object".(íé° 
+U
+java:S1118_":Add a private constructor to hide the implicit public one.(ÛÄ§ºøÿÿÿÿ
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úœ¦Æÿÿÿÿÿ
+=
+java:S1172§"&Remove these unused method parameters.(ÂÌö‡
+U
+java:S2168³"9Remove this dangerous instance of double-checked locking.(ÁòÖßøÿÿÿÿ
+J
+java:S1905ô".Remove this unnecessary cast to "ContentItem".(¦œĞÿÿÿÿÿ
+]
+java:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µú‡Š
+B
+java:S1172¨"+Remove this unused method parameter "file".(µú‡Š
+2
+java:S3626Í"Remove this redundant jump.(ûÁİ…
+e
+java:S4042É"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‹Î’
+e
+java:S4042â"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‹Î’
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(îÇ¶û
+8	java:S131‹""Add a default case to this switch.(ÂçÍã
+2
+java:S3626€"Remove this redundant jump.(ûÁİ…
+2
+java:S3626"Remove this redundant jump.(ûÁİ…
+2
+java:S3626œ"Remove this redundant jump.(ûÁİ…
+2
+java:S3626¨"Remove this redundant jump.(ûÁİ…
+h
+java:S3776ô"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(×¦í{
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(µ“Ù±ûÿÿÿÿ
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ú„‹…
+A
+java:S1172"*Remove this unused method parameter "r22".(¢µ©
+i
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(¢‚îì
+<
+java:S1181ù"%Catch Exception instead of Throwable.(áù«õ
+j
+java:S4042È	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ß¦ÀÂùÿÿÿÿ
+j
+java:S4042ã	"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+j
+java:S4042
+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¦ºùÎ
+h
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(ò §
+H
+java:S3985Ç",Remove this unused private "Position" class.(—Çö™şÿÿÿÿ
+e
+java:S1871¥"NThis branch's code block is the same as the block for the branch on line 1939.(å¥‡
+e
+java:S1871À"NThis branch's code block is the same as the block for the branch on line 1966.(å¥‡
+]
+java:S1126ì"AReplace this if-then-else statement by a single return statement.(äêôâøÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿ’Ûº
+n
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(£¬—ùÿÿÿÿ
+i
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¹µáŸ
+]
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(‰àÂşÿÿÿÿ
+2
+java:S3626•"Remove this redundant jump.(ûÁİ…
+?	java:S108Š")Either remove or fill this block of code.(œŞçæ
+V
+java:S1068@";Remove this unused "mIsNeedExternalMicAlert" private field.(Ç¯³øÿÿÿÿ
+V
+java:S1068B";Remove this unused "mIsRecordByBluetoothSCO" private field.(Ê³Ã¾øÿÿÿÿ
+a
+java:S1068D"KRemove this unused "mIsShowingToastAfterSaveTranslationFile" private field.(ø«±
+M
+java:S1144õ"6Remove this unused private "saveFileToMediaDB" method.(’Î¤„

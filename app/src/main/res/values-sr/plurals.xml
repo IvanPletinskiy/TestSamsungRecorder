@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d poziv je blokiran tokom snimanja</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d poziva su blokirana tokom snimanja</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d poziva je blokirano tokom snimanja</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Želite li da izbrišete %d kategoriju?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Želite li da izbrišete %d kategorije?</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Želite li da izbrišete %d kategorija?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 sat</item>
+        <item quantity="other">%d sati</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 minut</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 sekunda</item>
+        <item quantity="other">%d sekundi</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Stavke u Smeću će biti trajno izbrisane nakon %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Stavke u Smeću će biti trajno izbrisane nakon %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Stavke u Smeću će biti trajno izbrisane nakon %d dana.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Stavke u Smeću će biti trajno izbrisane posle %d dana. Pre uklanjanja SD kartice, ispraznite Smeće kako biste se postarali da je sve u njemu u potpunosti izbrisano.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Stavke u Smeću će biti trajno izbrisane posle %d dana. Pre uklanjanja SD kartice, ispraznite Smeće kako biste se postarali da je sve u njemu u potpunosti izbrisano.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Stavke u Smeću će biti trajno izbrisane posle %d dana. Pre uklanjanja SD kartice, ispraznite Smeće kako biste se postarali da je sve u njemu u potpunosti izbrisano.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Želite li da premestite %d snimak u Smeće?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Želite li da premestite %d snimka u Smeće?</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Želite li da premestite %d snimaka u Smeće?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Držite izbrisane snimke u Smeću %d dan pre nego što budu zauvek izbrisani.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Držite izbrisane snimke u Smeću %d dana pre nego što budu zauvek izbrisani.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Držite izbrisane snimke u Smeću %d dana pre nego što budu zauvek izbrisani.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Svi snimci koje izbrišete će ostati ovde %d dan pre nego što budu zauvek izbrisani.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Svi snimci koje izbrišete će ostati ovde %d dana pre nego što budu zauvek izbrisani.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Svi snimci koje izbrišete će ostati ovde %d dana pre nego što budu zauvek izbrisani.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Snimak (%d) će biti trajno izbrisan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Snimci (%d) će biti trajno izbrisani.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Snimci (%d) će biti trajno izbrisani.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Izbrisani snimci će ostati u Smeću %d dan pre nego što budu zauvek izbrisani.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Izbrisani snimci će ostati u Smeću %d dana pre nego što budu zauvek izbrisani.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Izbrisani snimci će ostati u Smeću %d dana pre nego što budu zauvek izbrisani.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d snimak</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d snimka</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d snimaka</item>
+    </plurals>
+</resources>

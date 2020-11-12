@@ -1,0 +1,37 @@
+
+H
+java:S11723"-Remove this unused method parameter "bundle".(ÁÈî®úÿÿÿÿ
+t
+java:S1171e"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+_
+java:S2583°"CChange this condition so that it does not always evaluate to "true"(ÃšôÑüÿÿÿÿ
+œ
+java:S1862à"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+h	java:S116c"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îòààþÿÿÿÿ
+H
+java:S1172À",Remove this unused method parameter "view3".(ÌšÿÇýÿÿÿÿ
+t
+java:S3923­"]This conditional operation returns the same value whether the condition is "true" or "false".(Í€éÙ
+i	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌšÿÇýÿÿÿÿ
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æº‰Æ
+<
+java:S1172*"&Remove these unused method parameters.(æº‰Æ
+F
+java:S1172o"+Remove this unused method parameter "view".(÷‰çˆúÿÿÿÿ
+œ
+java:S1862Ð"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+œ
+java:S1862à"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(‡Âœæ
+h	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷‰çˆúÿÿÿÿ
+i
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¨¯à´
+?
+java:S1125­"(Remove the literal "true" boolean value.(Í€éÙ
+i
+java:S1854•"FRemove this useless assignment to local variable "navigationBarColor".(¿Á¬¤ÿÿÿÿÿ8ÁûÁ»Û.
+`
+java:S1854”"BRemove this useless assignment to local variable "statusBarColor".(Â²8ÁûÁ»Û.
+Q
+java:S1481”"3Remove this unused "statusBarColor" local variable.(Â²8ÁûÁ»Û.
+Z
+java:S1481•"7Remove this unused "navigationBarColor" local variable.(¿Á¬¤ÿÿÿÿÿ8ÁûÁ»Û.

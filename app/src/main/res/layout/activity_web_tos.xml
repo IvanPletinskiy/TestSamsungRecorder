@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:nestedScrollingEnabled="true">
+        <LinearLayout android:orientation="vertical" android:paddingBottom="100dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="16dp" android:layout_marginRight="16dp">
+            <TextView android:textSize="15sp" android:textColor="@color/stt_button_color" android:id="@+id/main_tos" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:includeFontPadding="false" android:fontFamily="sec-roboto-light"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/disclaimer_checkbox_list_view" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/disclaimer_radio_list_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+    <ProgressBar android:id="@+id/loading_view" android:layout_width="50dp" android:layout_height="50dp" android:indeterminate="true" android:layout_centerInParent="true"/>
+</RelativeLayout>

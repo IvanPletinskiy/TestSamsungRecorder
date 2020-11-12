@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ରେକର୍ଡିଂ ସମୟରେ %dଟି କଲ୍ ଅବରୋଧ ହୋଇଛି</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ରେକର୍ଡିଂ ସମୟରେ %dଟି କଲ୍ ଅବରୋଧ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ବର୍ଗ ବିଲୋପ କରିବେ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dଟି ବର୍ଗ ବିଲୋପ କରିବେ?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ଘଣ୍ଟା</item>
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 ମିନିଟ୍</item>
+        <item quantity="other">%d ମିନିଟ୍</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 ସେକେଣ୍ଡ୍</item>
+        <item quantity="other">%d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଟ୍ରାସରେ ଥିବା ଆଇଟମଗୁଡିକ %d ଦିନ ପରେ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଟ୍ରାସରେ ଥିବା ଆଇଟମଗୁଡିକ %d ଦିନ ପରେ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ।</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଟ୍ରାସରେ ଥିବା ଆଇଟମଗୁଡିକ %d ଦିନ ପରେ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ। ଆପଣଙ୍କ SD କାର୍ଡ ଅପସାରଣ କରିବା ପୂର୍ବରୁ, ଏହା ନିଶ୍ଚିତ କରିବାକୁ ଟ୍ରାସ୍ ଖାଲି କରନ୍ତୁ କି ସେଠାରେ ସବୁକିଛି ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ବିଲୋପ ହୋଇଛି।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଟ୍ରାସରେ ଥିବା ଆଇଟମଗୁଡିକ %d ଦିନ ପରେ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ। ଆପଣଙ୍କ SD କାର୍ଡ ଅପସାରଣ କରିବା ପୂର୍ବରୁ, ଏହା ନିଶ୍ଚିତ କରିବାକୁ ଟ୍ରାସ୍ ଖାଲି କରନ୍ତୁ କି ସେଠାରେ ସବୁକିଛି ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ବିଲୋପ ହୋଇଛି।</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଟ୍ରାସକୁ %dଟି ରେକର୍ଡିଂ ଘୁଞ୍ଚାଇବେ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଟ୍ରାସକୁ %dଟି ରେକର୍ଡିଂ ଘୁଞ୍ଚାଇବେ?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଟ୍ରାସ୍ ବିଲୋପ ହୋଇଥିବା ରେକର୍ଡିଂଗୁଡିକ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ରଖିବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଟ୍ରାସ୍ ବିଲୋପ ହୋଇଥିବା ରେକର୍ଡିଂଗୁଡିକ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ରଖିବ।</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣ ବିଲୋପ କରିଥିବା ଯେକୌଣସି ରେକର୍ଡିଂ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ଏଠାରେ ରହିବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଆପଣ ବିଲୋପ କରିଥିବା ଯେକୌଣସି ରେକର୍ଡିଂ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ଏଠାରେ ରହିବ।</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ରେକର୍ଡିଂ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dଟି ରେକର୍ଡିଂ ସ୍ଥାୟୀଭାବେ ବିଲୋପ ହେବ।</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ବିଲୋପ କରିଥିବା ରେକର୍ଡିଂଗୁଡିକ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ଟ୍ରାସରେ ରହିବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ବିଲୋପ କରିଥିବା ରେକର୍ଡିଂଗୁଡିକ ସର୍ବଦା ପାଇଁ ବିଲୋପ ହେବା ପୂର୍ବରୁ %d ଦିନ ପାଇଁ ଟ୍ରାସରେ ରହିବ।</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ରେକର୍ଡିଂ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dଟି ରେକର୍ଡିଂ</item>
+    </plurals>
+</resources>

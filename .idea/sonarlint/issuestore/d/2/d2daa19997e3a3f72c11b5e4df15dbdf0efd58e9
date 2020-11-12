@@ -1,0 +1,12 @@
+
+†
+java:S4165,"kRemove this useless assignment; "mBluetoothSco" already holds the assigned value along all execution paths.(øëÚØıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÆìÕÕ
+U
+java:S1118 ":Add a private constructor to hide the implicit public one.(óÁ³Âøÿÿÿÿ
+I
+java:S1068
+"3Remove this unused "ENCODING_BPS_32" private field.(™§ş—
+M
+java:S1068"7Remove this unused "SAMPLING_RATE_24000" private field.(ğé™™

@@ -1,0 +1,38 @@
+
+p
+java:S1104"ZMake mButtonHandler a static final constant or non-public and provide accessors if needed.(ü­İÇ
+U
+java:S1854k":Remove this useless assignment to local variable "unused".(æÄ†úÿÿÿÿ
+E
+java:S1066L"/Merge this if statement with the enclosing one.(…ÄŞ
+V
+java:S1854m";Remove this useless assignment to local variable "unused2".(éĞ’ëüÿÿÿÿ
+Q
+java:S1854r";Remove this useless assignment to local variable "unused3".(ìŞŠ¹
+Q
+java:S2696k"6Make the enclosing method "static" or remove this set.(æÄ†úÿÿÿÿ
+G
+java:S1481m",Remove this unused "unused2" local variable.(éĞ’ëüÿÿÿÿ
+Q
+java:S1068"6Remove this unused "ACTION_SHORT_PRESS" private field.(¡›Şòşÿÿÿÿ
+Q
+java:S2696m"6Make the enclosing method "static" or remove this set.(éĞ’ëüÿÿÿÿ
+L
+java:S1068"6Remove this unused "DOUBLE_CLICK_DELAY" private field.(úº†œ
+L
+java:S2696r"6Make the enclosing method "static" or remove this set.(ìŞŠ¹
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©üÂ¶
+n
+java:S1104"SMake mEngine a static final constant or non-public and provide accessors if needed.(ª—àÅùÿÿÿÿ
+H
+java:S1444"2Make this "public static mDoubleClick" field final(ñ¯÷
+m
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¼ğÄıÿÿÿÿ
+F
+java:S1481k"+Remove this unused "unused" local variable.(æÄ†úÿÿÿÿ
+M
+java:S1068"7Remove this unused "ACTION_DOUBLE_CLICK" private field.(¶ªü
+n
+java:S1104"XMake mDoubleClick a static final constant or non-public and provide accessors if needed.(ñ¯÷
+B
+java:S1481r",Remove this unused "unused3" local variable.(ìŞŠ¹

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Бичлэг хийх явцад %d дуудлагыг хориглосон</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Бичлэг хийх явцад %d дуудлагыг хориглосон</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ангиллыг устгах уу?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ангиллыг устгах уу?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 цаг</item>
+        <item quantity="other">%d цаг</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 секунд</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d өдрийн дараа Хогийн сав доторх зүйлс бүрмөсөн устана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d өдрийн дараа Хогийн сав доторх зүйлс бүрмөсөн устана.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Хогийн сав доторх зүйлс %d өдрийн дараа бүрмөсөн устах болно. SD картаа арилгахаас өмнө Хогийн савыг хоосолж тэнд байгаа бүх зүйл бүрмөсөн устсан эсэхийг шалгана уу.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Хогийн сав доторх зүйлс %d өдрийн дараа бүрмөсөн устах болно. SD картаа арилгахаас өмнө Хогийн савыг хоосолж тэнд байгаа бүх зүйл бүрмөсөн устсан эсэхийг шалгана уу.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бичлэгийг Хогийн сав руу зөөх үү?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d бичлэгийг Хогийн сав руу зөөх үү?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Устгасан бичлэгүүдийг бүрмөсөн устахаас өмнө Хогийн сав дотор %d өдрийн турш хадгалаарай.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Устгасан бичлэгүүдийг бүрмөсөн устахаас өмнө Хогийн сав дотор %d өдрийн турш хадгалаарай.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны устгах ямар ч бичлэг бүрмөсөн устахаас өмнө %d өдрийн турш энд байх болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны устгах ямар ч бичлэг бүрмөсөн устахаас өмнө %d өдрийн турш энд байх болно.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бичлэг бүрмөсөн устах болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d бичлэг бүрмөсөн устах болно.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Устгасан бичлэгүүд бүрмөсөн устахаас өмнө Хогийн сав дотор %d өдрийн турш байх болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Устгасан бичлэгүүд бүрмөсөн устахаас өмнө Хогийн сав дотор %d өдрийн турш байх болно.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бичлэг</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d бичлэг</item>
+    </plurals>
+</resources>

@@ -1,0 +1,58 @@
+
+g
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(–Ïõ#
+Q
+java:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ì"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S4042®"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(üêĞ´øÿÿÿÿ
+Q
+java:S1141š"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S4042æ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–İÏøÿÿÿÿ
+Q
+java:S1141Ÿ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S4042ì"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141à"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Û"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141·"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+<
+java:S1181Ú"%Catch Exception instead of Throwable.(áù«õ
+j
+java:S4042½"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–İÏøÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(§ü©Äøÿÿÿÿ
+Q
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o
+java:S1192¦"XDefine a constant instead of duplicating this literal "dstFile.delete() failed" 5 times.(Š¼Ğé
+e
+java:S4042ğ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ŞúÜö
+V	java:S899ì";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S1192"MDefine a constant instead of duplicating this literal "IOException " 9 times.(ªË€ôÿÿÿÿÿ
+j
+java:S4042Ò"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–İÏøÿÿÿÿ
+P
+java:S1172".Remove this unused method parameter "context".(­‹¹ÿşÿÿÿÿ8ç²â¸Û.
+j
+java:S4042¥"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–İÏøÿÿÿÿ
+}
+java:S1192¨"fDefine a constant instead of duplicating this literal "srcFile and dstFile size are not same" 4 times.(ÚİåË
+Q
+java:S1141ó"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+J
+java:S1068"4Remove this unused "COPY_BUFFER_SIZE" private field.(í¨¯
+K
+java:S1172i".Remove this unused method parameter "context".(ˆŞ•ä8¿±ã¸Û.
+U
+java:S3400o"9Remove this method and declare a constant for this value.(Ó¹ª	8¿±ã¸Û.

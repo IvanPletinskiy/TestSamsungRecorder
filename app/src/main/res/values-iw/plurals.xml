@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d שיחה נחסמה בעת הקלטה</item>
+        <item quantity="two">%d שיחות נחסמו בעת הקלטה</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d שיחות נחסמו תוך כדי הקלטה</item>
+        <item quantity="other">%d שיחות נחסמו בעת הקלטה</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">האם למחוק %d קטגוריה?</item>
+        <item quantity="two">האם למחוק %d קטגוריות?</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">האם למחוק %d קטגוריות?</item>
+        <item quantity="other">האם למחוק %d קטגוריות?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">שעה אחת</item>
+        <item quantity="other">%d שעות</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">דקה</item>
+        <item quantity="other">%d דקות</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">שנייה אחת</item>
+        <item quantity="other">%d שניות</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d יום.</item>
+        <item quantity="two">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים.</item>
+        <item quantity="other">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d יום. לפני שאתה שולף את כרטיס ה-SD, רוקן את סל המיחזור כדי לוודא שכל הפריטים שבתוכו יימחקו לגמרי.</item>
+        <item quantity="two">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים. לפני שאתה שולף את כרטיס ה-SD, רוקן את סל המיחזור כדי לוודא שכל הפריטים שבתוכו יימחקו לגמרי.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים. לפני שאתה שולף את כרטיס ה-SD, רוקן את סל המיחזור כדי לוודא שכל הפריטים שבתוכו יימחקו לגמרי.</item>
+        <item quantity="other">פריטים בסל המיחזור יימחקו לצמיתות לאחר %d ימים. לפני שאתה שולף את כרטיס ה-SD, רוקן את סל המיחזור כדי לוודא שכל הפריטים שבתוכו יימחקו לגמרי.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">האם להעביר %d הקלטה אל סל המיחזור?</item>
+        <item quantity="two">האם להעביר %d הקלטות אל סל המיחזור?</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">האם להעביר %d הקלטות אל סל המיחזור?</item>
+        <item quantity="other">האם להעביר %d הקלטות אל סל המיחזור?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">שמור בסל המיחזור למשך %d יום הקלטות שנמחקו, לפני מחיקתן לצמיתות.</item>
+        <item quantity="two">שמור בסל המיחזור למשך %d ימים הקלטות שנמחקו, לפני מחיקתם לצמיתות.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">שמור בסל המיחזור למשך %d ימים הקלטות שנמחקו, לפני מחיקתם לצמיתות.</item>
+        <item quantity="other">שמור בסל המיחזור למשך %d ימים הקלטות שנמחקו, לפני מחיקתם לצמיתות.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">כל הקלטה שתמחק תישמר כאן למשך %d יום ולאחר מכן תימחק לצמיתות.</item>
+        <item quantity="two">הקלטות שתמחק יישמרו כאן למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הקלטות שתמחק יישמרו כאן למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+        <item quantity="other">הקלטות שתמחק יישמרו כאן למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d הקלטה תימחק לצמיתות.</item>
+        <item quantity="two">%d הקלטות יימחקו לצמיתות.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d הקלטות יימחקו לצמיתות.</item>
+        <item quantity="other">%d הקלטות יימחקו לצמיתות.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הקלטות שנמחקו יישמרו בסל למשך %d יום ולאחר מכן יימחקו לצמיתות.</item>
+        <item quantity="two">הקלטות שנמחקו יישמרו בסל למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הקלטות שנמחקו יישמרו בסל למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+        <item quantity="other">הקלטות שנמחקו יישמרו בסל למשך %d ימים ולאחר מכן יימחקו לצמיתות.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d הקלטה</item>
+        <item quantity="two">%d הקלטות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d הקלטות</item>
+        <item quantity="other">%d הקלטות</item>
+    </plurals>
+</resources>

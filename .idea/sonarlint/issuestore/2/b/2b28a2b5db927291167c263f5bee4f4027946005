@@ -1,0 +1,144 @@
+
+t
+java:S1104~"YMake mSimpleCursor a static final constant or non-public and provide accessors if needed.(Îšè‘øÿÿÿÿ
+A
+java:S1481i"+Remove this unused "unused" local variable.(¥ïÄ°
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+A
+java:S1481m",Remove this unused "unused2" local variable.(¨šğ"
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã»¥’ıÿÿÿÿ
+T
+java:S1068'">Remove this unused "CHILD_RECORDINGS_LOADER_ID" private field.(ˆ¦Âş
+y
+java:S1104u"^Make mIsMoveFileToTrash a static final constant or non-public and provide accessors if needed.(ŞÚÔÈùÿÿÿÿ
+E
+java:S3740ú"/Provide the parametrized type for this generic.(¨»Èa
+n
+java:S1192Ô"WDefine a constant instead of duplicating this literal " or label_id is null))" 3 times.(ƒõ½¦
+E
+java:S3740ù"/Provide the parametrized type for this generic.(¨»Èa
+V
+java:S1161":Add the "@Override" annotation above this method signature(ê³ÂÙúÿÿÿÿ
+\
+java:S1192*"FDefine a constant instead of duplicating this literal "_data" 6 times.(£ğŒä
+r
+java:S1104^"\Make mDataSetObserver a static final constant or non-public and provide accessors if needed.(­³Ïñ
+=
+java:S1172Ÿ"&Remove these unused method parameters.(ÁÅ¹ƒ
+Œ
+java:S1319Ã"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ò³ü¥úÿÿÿÿ
+Œ
+java:S1319´"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ØÌÉ›üÿÿÿÿ
+E
+java:S3740ù"/Provide the parametrized type for this generic.(¨»Èa
+<
+java:S1181Å"%Catch Exception instead of Throwable.(áù«õ
+D
+java:S1172š"-Remove this unused method parameter "loader".(‡åû
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(äÔ‰„úÿÿÿÿ
+W
+java:S1854û";Remove this useless assignment to local variable "unused2".(èÄü·ûÿÿÿÿ
+P
+java:S1854m";Remove this useless assignment to local variable "unused2".(¨šğ"
+E
+java:S3740Š"/Provide the parametrized type for this generic.(¨»Èa
+\
+java:S1192*"FDefine a constant instead of duplicating this literal "title" 3 times.(£ğŒä
+w
+java:S1104;"\Make mContentObserver a static final constant or non-public and provide accessors if needed.(Î›ø¤üÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+Œ
+java:S1319”
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£ü£éÿÿÿÿÿ
+P
+java:S1854i":Remove this useless assignment to local variable "unused".(¥ïÄ°
+R
+java:S1854ı";Remove this useless assignment to local variable "unused3".(€ƒ–Å
+V
+java:S1161”":Add the "@Override" annotation above this method signature(ê³ÂÙúÿÿÿÿ
+C
+java:S1481ı",Remove this unused "unused3" local variable.(€ƒ–Å
+S
+java:S1068&"8Remove this unused "CATEGORIES_LOADER_ID" private field.(˜—­Ôûÿÿÿÿ
+e
+java:S1192*"ODefine a constant instead of duplicating this literal "recording_mode" 3 times.(£ğŒä
+m
+java:S11042"WMake mAppContext a static final constant or non-public and provide accessors if needed.(¡µ•ï
+x
+java:S2637ˆ"aParameter 2 to this constructor is marked "androidx.annotation.NonNull" but null could be passed.(‚è‹
+A
+java:S1181·"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+E
+java:S3740ú"/Provide the parametrized type for this generic.(¨»Èa
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆ Õıùÿÿÿÿ
+K
+java:S3740‡"/Provide the parametrized type for this generic.(ø¿¢áøÿÿÿÿ
+n
+java:S1104Z"SMake mCursor a static final constant or non-public and provide accessors if needed.(èË¯ÿÿÿÿÿ
+k
+java:S1192Æ"TDefine a constant instead of duplicating this literal " and (label_id == '" 4 times.(¿õÿ›
+i
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ö¸Şê
+r
+java:S3077/"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ë•ßåÿÿÿÿÿ
+v
+java:S11045"[Make mCategoryCursor a static final constant or non-public and provide accessors if needed.(Ä·î¶ùÿÿÿÿ
+E
+java:S3740Š"/Provide the parametrized type for this generic.(¨»Èa
+i
+java:S1192Ê"RDefine a constant instead of duplicating this literal " or label_id == '" 4 times.(‡Í…«
+F
+java:S1066…"/Merge this if statement with the enclosing one.(Úì®²
+z
+java:S1104z"_Make mRecordingSearchTag a static final constant or non-public and provide accessors if needed.(·êş¦úÿÿÿÿ
+n
+java:S3776š"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(‘äúèúÿÿÿÿ
+V
+java:S1854¨":Remove this useless assignment to local variable "unused".(ş“Š„üÿÿÿÿ
+H
+java:S1481û",Remove this unused "unused2" local variable.(èÄü·ûÿÿÿÿ
+W
+java:S1068%"<Remove this unused "ALL_RECORDINGS_LOADER_ID" private field.(‰ö“†ıÿÿÿÿ
+C
+java:S1068."-Remove this unused "UNDEFINED" private field.(ÅÔÎö
+G
+java:S1481¨"+Remove this unused "unused" local variable.(ş“Š„üÿÿÿÿ
+V
+java:S1161‰":Add the "@Override" annotation above this method signature(æ¨ö®ıÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+ƒ
+java:S1104€"gMake mSimpleCursorChangeListener a static final constant or non-public and provide accessors if needed.(ôäŞˆúÿÿÿÿ
+‡
+java:S1319Ë"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶İ×¥
+f
+java:S1192ƒ"ODefine a constant instead of duplicating this literal "datetaken DESC" 3 times.(£¡ˆ
+D
+java:S1172ë"-Remove this unused method parameter "loader".(‡åû
+„
+java:S11047"iMake mCategoryCursorChangeListener a static final constant or non-public and provide accessors if needed.(¯‡¯ğıÿÿÿÿ
+K
+java:S1172¹"-Remove this unused method parameter "cursor".(‡åû8Ù‘Ä¹Û.
+B
+java:S1168¶"+Return an empty collection instead of null.(¥¹ï
+=
+java:S1172ç"&Remove these unused method parameters.(ÁÅ¹ƒ
+Y
+java:S1068,">Remove this unused "SIMPLE_RECORDING_LOADER_ID" private field.(¾ŒØ–ûÿÿÿÿ
+‡
+java:S1319ü	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ØîÆà
+K
+java:S3740¦"/Provide the parametrized type for this generic.(ã»¥’ıÿÿÿÿ
+w
+java:S1104\"aMake mCursorChangeListener a static final constant or non-public and provide accessors if needed.(ê–Í
+3
+java:S2386*"Make this member "protected".(£ğŒä
+Z
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(â×—˜ÿÿÿÿÿ
+I
+java:S1168»"+Return an empty collection instead of null.(¥¹ï8±Å¹Û.
+J
+java:S1481ø"'Remove this unused "th" local variable.(„¾Õ¿ùÿÿÿÿ8±Å¹Û.

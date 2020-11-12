@@ -1,0 +1,9 @@
+
+=
+java:S1185"(Remove this method to simply inherit it.(½ÐÂ
+A
+java:S1172"&Remove these unused method parameters.(ÌÂŠœùÿÿÿÿ
+@
+java:S1068"+Remove this unused "isDRCon" private field.(ªÑés
+F
+java:S1068	"0Remove this unused "isFirstFrame" private field.(·ß±Î

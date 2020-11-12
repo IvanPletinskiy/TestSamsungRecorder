@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <command android:label="@string/start_recording" android:icon="@mipmap/voice_recorder" android:enabled="true" android:smallIcon="@drawable/voice_recorder_edge_small_icon">
+        <extras-attr android:name="type" android:value="activity"/>
+        <extras-attr android:name="packageName" android:value="com.sec.android.app.voicenote"/>
+        <extras-attr android:name="componentName" android:value="com.sec.android.app.voicenote.main.VNMainActivity"/>
+        <extras-attr android:name="action" android:value="voicenote.intent.action.edge_start_record"/>
+        <extras-attr android:name="launchMode" android:value="newTask|singleTop"/>
+    </command>
+</executable>

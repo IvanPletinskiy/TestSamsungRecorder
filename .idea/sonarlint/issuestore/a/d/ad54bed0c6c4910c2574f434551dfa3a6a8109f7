@@ -1,0 +1,100 @@
+
+U
+java:S1854C":Remove this useless assignment to local variable "unused".(ÿÅûÿÿÿÿ
+d	java:S116¡"NRename this field "f$3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÛ€ƒ
+H
+java:S10682"-Remove this unused "RULE_3031" private field.(™¥İşûÿÿÿÿ
+d	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö©Ö£
+y
+java:S1104?"^Make mIsKeyboardVisible a static final constant or non-public and provide accessors if needed.(®µ©¢ÿÿÿÿÿ
+i	java:S116ë"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+e
+java:S1192Õ"IUse already-defined constant 'TAG' instead of duplicating its value here.(Å†Éÿÿÿÿÿ
+s
+java:S11049"XMake mInputLayout a static final constant or non-public and provide accessors if needed.(ó›ßşÿÿÿÿ
+s
+java:S1104L"XMake mReceiveTime a static final constant or non-public and provide accessors if needed.(úÄ¡…şÿÿÿÿ
+B
+java:S1172Ô"&Remove these unused method parameters.(«Òşôüÿÿÿÿ
+n
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜÅ÷¾ÿÿÿÿÿ
+˜
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼‹¶Ã
+o
+java:S1104J"YMake mPreviousName a static final constant or non-public and provide accessors if needed.(¿ıÕ¤
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(§„¿€üÿÿÿÿ
+V
+java:S1854³":Remove this useless assignment to local variable "unused".(šÜÒıÿÿÿÿ
+H
+java:S10681"-Remove this unused "RULE_3013" private field.(ßÓ—¼üÿÿÿÿ
+B
+java:S1172ä"&Remove these unused method parameters.(±Ÿäæùÿÿÿÿ
+i	java:S116”"NRename this field "f$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°–‘§úÿÿÿÿ
+i	java:S116Ÿ"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‚âïøÿÿÿÿ
+i	java:S116 "NRename this field "f$2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÔö¸ùÿÿÿÿ
+G
+java:S1481³"+Remove this unused "unused" local variable.(šÜÒıÿÿÿÿ
+c	java:S100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åòû?
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³šüªøÿÿÿÿ
+I
+java:S1068.".Remove this unused "MAX_LENGTH" private field.(è¶ÍÈúÿÿÿÿ
+u
+java:S1171í"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÜ¾øÿÿÿÿ
+i	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Òşôüÿÿÿÿ
+i	java:S116ó"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+d	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÑò
+B
+java:S1172ÿ"+Remove this unused method parameter "view".(Ö©Ö£
+u
+java:S1171£"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+C
+java:S10680"-Remove this unused "RULE_3011" private field.(¢ËÊ£
+d	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÍÖ–
+s
+java:S11046"XMake bNameChanged a static final constant or non-public and provide accessors if needed.(´¯Ÿòşÿÿÿÿ
+u
+java:S1171–"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+D
+java:S1185À"(Remove this method to simply inherit it.(İßéàúÿÿÿÿ
+F
+java:S1481C"+Remove this unused "unused" local variable.(ÿÅûÿÿÿÿ
+B
+java:S1172Î"&Remove these unused method parameters.(â¡§çÿÿÿÿÿ
+i	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿäæùÿÿÿÿ
+˜
+java:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±îÀí
+s
+java:S1104N"XMake mTotalLength a static final constant or non-public and provide accessors if needed.(òËõ±øÿÿÿÿ
+u
+java:S1171‹"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+p
+java:S1104H"ZMake mOriginalTitle a static final constant or non-public and provide accessors if needed.(ã„†Ç
+u
+java:S1171—"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171¶"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+I
+java:S1172B".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+V
+java:S1854D";Remove this useless assignment to local variable "unused2".(ƒùúâÿÿÿÿÿ
+u
+java:S1104<"ZMake mIsAddCategory a static final constant or non-public and provide accessors if needed.(ÍÌàùÿÿÿÿ
+i	java:S116´"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+c	java:S116•"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞ‘
+i	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡§çÿÿÿÿÿ
+u
+java:S1171õ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i	java:S116”"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+B
+java:S1172Ü"&Remove these unused method parameters.(³šüªøÿÿÿÿ
+G
+java:S1481D",Remove this unused "unused2" local variable.(ƒùúâÿÿÿÿÿ
+B
+java:S10683"'Remove this unused "TAG" private field.(ëÌ¹šøÿÿÿÿ
+i	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş§²ùÿÿÿÿ
+i	java:S116‰"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+R
+java:S1172ì"6Remove this unused method parameter "dialogInterface".(Ş§²ùÿÿÿÿ
+i	java:S116³"NRename this field "f$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Ãğ—ùÿÿÿÿ

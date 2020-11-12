@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:oneshot="true">
+    <item android:duration="0" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_07"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_06"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_05"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_04"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_03"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_02"/>
+    <item android:duration="20" android:drawable="@drawable/voice_recorder_control_bar_ic_play_pause_01"/>
+</animation-list>

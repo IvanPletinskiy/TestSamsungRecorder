@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">रेकर्डिङको बेला %d कलमाथि रोक लगाइयो</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">रेकर्डिङको बेला %d कलहरूमाथि रोक लगाइयो</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d कोटि मेटाउने हो?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d कोटिहरू मेटाउने हो?</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ट्रयाशमा रहेका वस्तुहरू %d दिनपछि सदाका लागि मेटिने छन्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ट्रयाशमा रहेका वस्तुहरू %d दिनपछि सदाका लागि मेटिने छन्।</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ट्र्याशमा रहेका वस्तुहरू %d दिनपछि सदाका लागि मेटिने छन्। आफ्नो SD कार्ड निकाल्नुअघि त्यसमा रहेका सबै कुराहरू पूर्णतया मेटिएका छन् भन्ने कुरा सुनिश्चित गर्न ट्र्याश खाली गर्नुहोस्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ट्र्याशमा रहेका वस्तुहरू %d दिनपछि सदाका लागि मेटिने छन्। आफ्नो SD कार्ड निकाल्नुअघि त्यसमा रहेका सबै कुराहरू पूर्णतया मेटिएका छन् भन्ने कुरा सुनिश्चित गर्न ट्र्याश खाली गर्नुहोस्।</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d रेकर्डिङलाई ट्र्याशमा सार्ने हो?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d रेकर्डिङहरूलाई ट्र्याशमा सार्ने हो?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">मेटाइएका रेकर्डिङहरू सदाका लागि मेटाउनुअघि %d दिनसम्म ट्र्याशमा राख्नुहोस्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">मेटाइएका रेकर्डिङहरू सदाका लागि मेटाउनुअघि %d दिनसम्म ट्र्याशमा राख्नुहोस्।</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">तपाईले मेटाउनुभएका जुनसुकै रेकर्डिङहरू सदाका लागि मेटिनुअघि %d दिनसम्म यहाँ रहने छन्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">तपाईले मेटाउनुभएका जुनसुकै रेकर्डिङहरू सदाका लागि मेटिनुअघि %d दिनसम्म यहाँ रहने छन्।</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d रेकर्डिङहरू सदाका लागि मेटाइने छ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d रेकर्डिङहरू सदाका लागि मेटाइने छन्।</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">मेटाइएका रेकर्डिङहरू सदाका लागि मेटिनुअघि %d दिनसम्म ट्रयाशमा रहिरहन्छन्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">मेटाइएका रेकर्डिङहरू सदाका लागि मेटिनुअघि %d दिनसम्म ट्रयाशमा रहिरहन्छन्।</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d रेकर्डिङ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d रेकर्डिङहरू</item>
+    </plurals>
+</resources>

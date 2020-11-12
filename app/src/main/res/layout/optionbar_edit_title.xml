@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/checkbox_container" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginStart="@dimen/category_management_list_checkbox_margin_start" android:layout_marginEnd="@dimen/category_management_list_checkbox_margin_start">
+        <CheckBox android:layout_gravity="center" android:id="@+id/optionbar_checkbox" android:layout_width="@dimen/records_list_checkbox_width" android:layout_height="wrap_content" android:layout_marginTop="@dimen/actionbar_checkbox_top_margin_after_N" android:importantForAccessibility="no"/>
+        <TextView android:textSize="11dp" android:textColor="@color/actionbar_text_color" android:layout_gravity="center" android:padding="1dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/actionbar_text_top_margin" android:text="@string/all" android:importantForAccessibility="no"/>
+    </LinearLayout>
+    <TextView android:layout_gravity="center_vertical" android:id="@+id/optionbar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/actionbar_title_bottom_margin" android:maxLines="1" android:paddingEnd="8dp" style="@style/ActionbarTitleTextStyle"/>
+</LinearLayout>

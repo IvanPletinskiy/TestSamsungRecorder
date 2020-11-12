@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="17sp" android:textStyle="normal" android:textColor="@color/dialog_description_text" android:id="@+id/warning_text" android:paddingTop="19dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4sp" android:fontFamily="sec-roboto-light" android:paddingStart="24dp" android:paddingEnd="24dp"/>
+    </LinearLayout>
+</ScrollView>

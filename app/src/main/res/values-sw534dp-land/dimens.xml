@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="idle_stt_total_height">93dp</dimen>
+    <dimen name="stt_language_button_top_margin_pager">29dp</dimen>
+    <dimen name="wave_view_interview_total_height">168dp</dimen>
+    <dimen name="wave_view_standard_total_height">168dp</dimen>
+    <dimen name="wave_view_voicememo_total_height">96dp</dimen>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backup_items xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <backup_item client_impl_class="com.sec.android.app.voicenote.cloud.SCloudFileBackup" contents_id="vMkD7IBgaR" duplicate_config="1" interface="IFileClient" is_enable="true" name="VOICE"/>
+</backup_items>

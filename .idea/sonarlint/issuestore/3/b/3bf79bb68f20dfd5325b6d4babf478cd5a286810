@@ -1,0 +1,102 @@
+
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá
+B
+java:S1172Í"&Remove these unused method parameters.(ò‰§—ıÿÿÿÿ
+O
+java:S3400B"9Remove this method and declare a constant for this value.(”·³›
+F
+java:S3740"/Provide the parametrized type for this generic.(æ†
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ†
+v
+java:S3776¡"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(¦ğ¿’üÿÿÿÿ8‘„¬·Û.
+F
+java:S3740Á"/Provide the parametrized type for this generic.(æ†
+A
+java:S1172="&Remove these unused method parameters.(¨îïÿÿÿÿÿ
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(æ†
+C
+java:S1172N".Remove this unused method parameter "context".(Ñ²
+C
+java:S1172i".Remove this unused method parameter "context".(Ñ²
+P
+java:S1141V"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá
+A
+java:S1148ÿ"#Use a logger to log this exception.(ÙİÑ®8‘„¬·Û.
+>
+java:S1148y"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+@
+java:S11729"*Remove this unused method parameter "uri".(úñ™
+>
+java:S1148d"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+C
+java:S1172~".Remove this unused method parameter "context".(Ñ²
+D
+java:S1172¹".Remove this unused method parameter "context".(Ñ²
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ†
+f
+java:S3027ú"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(Ü°Ê™ÿÿÿÿÿ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá
+l	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ä†ıÿÿÿÿ
+O
+java:S34006"9Remove this method and declare a constant for this value.(”·³›
+<
+java:S1172A"&Remove these unused method parameters.(ùëÛş
+m
+java:S1192R"RDefine a constant instead of duplicating this literal "client_impl_class" 6 times.(½ğ“–ûÿÿÿÿ
+D
+java:S1172“".Remove this unused method parameter "context".(Ñ²
+n
+java:S1192U"SDefine a constant instead of duplicating this literal "register - xml5 : " 6 times.(å‘úÅşÿÿÿÿ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.( Üó
+T
+java:S3878Ğ"8Remove this array creation and simply pass the elements.(éÛÖÄúÿÿÿÿ
+X
+java:S1141Á"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘„¬·Û.
+D
+java:S1172¨".Remove this unused method parameter "context".(Ñ²
+?
+java:S1148Ç"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ä†ıÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá
+D
+java:S3740,"/Provide the parametrized type for this generic.(¶ß°{
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ†
+Q
+java:S1141½"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+?
+java:S1148£"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+P
+java:S1141q"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141…"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá
+Q
+java:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+x
+java:S1192a"]Define a constant instead of duplicating this literal "failed cast to BNRClient~!! " 4 times.(¾½•ùûÿÿÿÿ
+?
+java:S1148´"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+X
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘„¬·Û.
+h	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(Äáİéÿÿÿÿÿ8‘„¬·Û.
+X
+java:S1141®"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘„¬·Û.
+c	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(µ’””8‘„¬·Û.
+F
+java:S1148Ğ"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8‘„¬·Û.
+E
+java:S3740*"/Provide the parametrized type for this generic.(í§´Â
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ä†ıÿÿÿÿ
+Q
+java:S1141¬"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¨’îıÿÿÿÿ
+R
+java:S1066¬"/Merge this if statement with the enclosing one.(è«ùúÿÿÿÿ8‘„¬·Û.
+<
+java:S11725"&Remove these unused method parameters.(¡áÚÅ
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡§ñá

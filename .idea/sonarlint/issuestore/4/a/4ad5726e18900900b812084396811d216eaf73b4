@@ -1,0 +1,94 @@
+
+y
+java:S11046"^Make mIsKeyboardVisible a static final constant or non-public and provide accessors if needed.(®µ©¢ÿÿÿÿÿ
+s
+java:S11043"XMake mInputLayout a static final constant or non-public and provide accessors if needed.(ó›ßşÿÿÿÿ
+p
+java:S11048"ZMake mIsNameChanged a static final constant or non-public and provide accessors if needed.(†¤å
+Q
+java:S1854Ğ":Remove this useless assignment to local variable "unused".(ÉÙş
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öû‡µùÿÿÿÿ
+I
+java:S1172;".Remove this unused method parameter "context".(š³ÿÿÿÿÿÿ
+R
+java:S2589j"7Remove this expression which always evaluates to "true"(ˆŒæñşÿÿÿÿ
+o
+java:S1104C"YMake mPreviousName a static final constant or non-public and provide accessors if needed.(¿ıÕ¤
+m
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ô¯ë•úÿÿÿÿ
+F
+java:S1066Ã"/Merge this if statement with the enclosing one.(ëÁªÅ
+i	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áæ­úÿÿÿÿ
+R
+java:S1172—"6Remove this unused method parameter "dialogInterface".(±»çëÿÿÿÿÿ
+˜
+java:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±îÀí
+B
+java:S1481=",Remove this unused "unused2" local variable.(€ ñ
+I
+java:S1068.".Remove this unused "MAX_LENGTH" private field.(è¶ÍÈúÿÿÿÿ
+u
+java:S1171Ğ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+U
+java:S1854<":Remove this useless assignment to local variable "unused".(ÂÒÔùÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¦Ã÷
+=
+java:S1172ù"&Remove these unused method parameters.(ÁÎî
+W
+java:S1854¾";Remove this useless assignment to local variable "unused3".(çüÕøÿÿÿÿ
+C
+java:S1481µ",Remove this unused "unused2" local variable.(»Îµ 
+H
+java:S1481¾",Remove this unused "unused3" local variable.(çüÕøÿÿÿÿ
+i	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±»çëÿÿÿÿÿ
+d	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ”¡Œ
+c	java:S116Ì"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œĞ‘
+B
+java:S1172©"+Remove this unused method parameter "view".(ÿ”¡Œ
+p
+java:S1104A"ZMake mOriginalTitle a static final constant or non-public and provide accessors if needed.(ã„†Ç
+Q
+java:S1854=";Remove this useless assignment to local variable "unused2".(€ ñ
+V
+java:S1854±":Remove this useless assignment to local variable "unused".(âÔ³°øÿÿÿÿ
+i	java:S116à"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+u
+java:S1171â"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú€öøÿÿÿÿ
+=
+java:S1172"&Remove these unused method parameters.(È¦Ã÷
+i	java:S116ƒ"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+=
+java:S1172‡"&Remove these unused method parameters.(¦¦ªİ
+R
+java:S1854µ";Remove this useless assignment to local variable "unused2".(»Îµ 
+d	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—š«©
+s
+java:S1104E"XMake mReceiveTime a static final constant or non-public and provide accessors if needed.(úÄ¡…şÿÿÿÿ
+i	java:S116"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼‹¶Ã
+d	java:S116Î"NRename this field "f$3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÛ€ƒ
+G
+java:S1481±"+Remove this unused "unused" local variable.(âÔ³°øÿÿÿÿ
+d	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú»“Ó
+d	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÎî
+=
+java:S1172ÿ"&Remove these unused method parameters.(ú»“Ó
+i	java:S116‹"NRename this field "f$1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹¯éúÿÿÿÿ
+d	java:S116Í"NRename this field "f$2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ï‹Î
+u
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+s
+java:S1104G"XMake mTotalLength a static final constant or non-public and provide accessors if needed.(òËõ±øÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(§„¿€üÿÿÿÿ
+u
+java:S1171…"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+d	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¦ªİ
+u
+java:S1171Ÿ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+F
+java:S1481<"+Remove this unused "unused" local variable.(ÂÒÔùÿÿÿÿ
+B
+java:S1481Ğ"+Remove this unused "unused" local variable.(ÉÙş

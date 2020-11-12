@@ -1,0 +1,29 @@
+
+?	java:S108Ù")Either remove or fill this block of code.(Ží‰ã
+j
+java:S11924"ODefine a constant instead of duplicating this literal " playStatus : " 3 times.(ÐÐšÁþÿÿÿÿ
+c
+java:S1192<"MDefine a constant instead of duplicating this literal "notification" 3 times.(Ò¾ÁÚ
+@
+java:S1172‹")Remove this unused method parameter "i2".(Œ¯´Ä
+<	java:S131""Add a default case to this switch.(Œýí«øÿÿÿÿ
+n
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(åÍ„åùÿÿÿÿ
+F
+java:S1066À"/Merge this if statement with the enclosing one.(ù„â¡
+O
+java:S3878ú"8Remove this array creation and simply pass the elements.(†¡Þý
+,
+java:S2275ú"Not enough arguments.(†¡Þý
+1
+java:S2275ü"Not enough arguments.(˜‹£Ûøÿÿÿÿ
+d
+java:S11924"IDefine a constant instead of duplicating this literal " type : " 3 times.(ÐÐšÁþÿÿÿÿ
+B
+java:S1172¥"&Remove these unused method parameters.(ÊéÐ ýÿÿÿÿ
+T
+java:S3878ü"8Remove this array creation and simply pass the elements.(˜‹£Ûøÿÿÿÿ
+m
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Û™ž¡ÿÿÿÿÿ
+Q
+java:S1066p"/Merge this if statement with the enclosing one.(àí‹Ñúÿÿÿÿ8ŒØ‰¹Û.

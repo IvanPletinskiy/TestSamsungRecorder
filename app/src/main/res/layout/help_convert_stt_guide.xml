@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:id="@+id/help_convert_stt_parent" android:background="@color/mode_help_bg" android:focusable="true" android:focusableInTouchMode="true" android:nextFocusLeft="@+id/help_convert_stt_ok_button" android:nextFocusRight="@+id/help_convert_stt_ok_button" android:nextFocusUp="@+id/help_convert_stt_ok_button" android:nextFocusDown="@+id/help_convert_stt_ok_button" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/help_convert_stt_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/help_convert_stt_seekbar_guide" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" android:paddingStart="@dimen/item_padding_left" android:paddingEnd="@dimen/item_padding_right">
+                <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/help_convert_stt_guide_image_height" android:src="@drawable/help_overaly_arrow_scroll" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@null"/>
+                <TextView android:textSize="@dimen/help_overwrite_text_size" android:textColor="@color/overlay_help_text" android:gravity="center" android:id="@+id/help_convert_stt_seekbar_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_convert_stt_guide_text_margin_top" android:text="@string/help_convert_stt_description_text" android:fontFamily="sans-serif"/>
+            </LinearLayout>
+            <Button android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/help_convert_stt_ok_button" android:nextFocusLeft="@+id/help_convert_stt_parent" android:nextFocusRight="@+id/help_convert_stt_parent" android:nextFocusUp="@+id/help_convert_stt_parent" android:nextFocusDown="@+id/help_convert_stt_parent" android:layout_marginTop="@dimen/help_overwrite_ok_button_top_margin" android:text="@string/ok" style="@style/HelpButtonCommonStyle"/>
+            <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

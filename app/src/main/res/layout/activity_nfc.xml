@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/actionbar_color_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:gravity="center" android:layout_gravity="center" android:id="@+id/nfc_image" android:background="@drawable/bg_voice_label" android:padding="@dimen/voice_label_image_margin" android:layout_width="match_parent" android:layout_height="@dimen/voice_label_image_height" android:src="@drawable/voice_recorder_ic_write_to_voice_label" android:scaleType="fitXY"/>
+            <TextView android:textSize="16sp" android:textStyle="normal" android:textColor="@color/nfc_writing_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/description_text_margin_top" android:text="@string/hold_the_back_of_your_device_over_the_tag_to_write" android:fontFamily="sec-roboto-light" android:textAlignment="gravity" android:layout_marginStart="@dimen/description_text_margin" android:layout_marginEnd="@dimen/description_text_margin"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

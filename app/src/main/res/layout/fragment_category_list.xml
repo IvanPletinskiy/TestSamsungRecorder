@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/layout_list_category" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/list_margin_side" android:layout_marginEnd="@dimen/list_margin_side">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/category_list" android:background="@color/list_background_color" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <View android:id="@+id/view_margin_bottom" android:background="@color/list_background_margin_bottom" android:layout_width="match_parent" android:layout_height="@dimen/list_margin_bottom"/>
+    </LinearLayout>
+</FrameLayout>

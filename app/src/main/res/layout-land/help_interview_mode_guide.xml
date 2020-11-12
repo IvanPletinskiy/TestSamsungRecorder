@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="@+id/help_interview_mode" android:background="@color/mode_help_bg" android:focusable="true" android:focusableInTouchMode="true" android:nextFocusLeft="@+id/help_interview_ok_button" android:nextFocusRight="@+id/help_interview_ok_button" android:nextFocusUp="@+id/help_interview_ok_button" android:nextFocusDown="@+id/help_interview_ok_button" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/pager_content_padding_top" android:paddingBottom="@dimen/pager_content_padding_top" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/content_guide_layout" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/item_padding_left" android:layout_marginRight="@dimen/item_padding_right" android:weightSum="1">
+                <FrameLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0.4">
+                    <ImageView android:layout_gravity="center" android:id="@+id/interview_guide_image" android:background="@drawable/help_image_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/ic_voice_recorder_help_interview_mode" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@null"/>
+                </FrameLayout>
+                <FrameLayout android:id="@+id/interview_description_text_layout" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginLeft="@dimen/padding_between_textview_imageview" android:layout_weight="0.6">
+                    <TextView android:textSize="@dimen/text_description_size" android:textColor="@color/overlay_help_text" android:id="@+id/interview_guide_description" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/help_interview_description_text" android:fontFamily="sec-roboto-light"/>
+                </FrameLayout>
+            </LinearLayout>
+            <FrameLayout android:id="@+id/help_interview_ok_button_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_mode_ok_button_top_margin">
+                <Button android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/help_interview_ok_button" android:nextFocusLeft="@+id/help_interview_mode" android:nextFocusRight="@+id/help_interview_mode" android:nextFocusUp="@+id/help_interview_mode" android:nextFocusDown="@+id/help_interview_mode" android:text="@string/ok" style="@style/HelpButtonCommonStyle"/>
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Įrašant užblokuotas %d skambutis</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Įrašant užblokuoti %d skambučiai</item>
+        <item quantity="many">Įrašant užblokuota %d skambučių</item>
+        <item quantity="other">Įrašant užblokuota %d skambučių</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Trinti %d kategoriją?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Trinti %d kategorijas?</item>
+        <item quantity="many">Trinti %d kategorijų?</item>
+        <item quantity="other">Trinti %d kategorijų?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 valanda</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 minutė</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 sekundė</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui.</item>
+        <item quantity="many">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui.</item>
+        <item quantity="other">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui. Prieš išimdami savo SD kortelę ištuštinkite šiukšlinę, kad viskas iš ten būtų saugiai ištrinta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui. Prieš išimdami savo SD kortelę ištuštinkite šiukšlinę, kad viskas iš ten būtų saugiai ištrinta.</item>
+        <item quantity="many">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui. Prieš išimdami savo SD kortelę ištuštinkite šiukšlinę, kad viskas iš ten būtų saugiai ištrinta.</item>
+        <item quantity="other">Po %d d. šiukšlinėje esantys elementai bus ištrinti visam laikui. Prieš išimdami savo SD kortelę ištuštinkite šiukšlinę, kad viskas iš ten būtų saugiai ištrinta.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Perkelti %d įrašą į šiukšlinę?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Perkelti %d įrašus į šiukšlinę?</item>
+        <item quantity="many">Perkelti %d įrašų į šiukšlinę?</item>
+        <item quantity="other">Perkelti %d įrašų į šiukšlinę?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Laikyti ištrintus įrašus šiukšliadėžėje %d d., tada ištrinti visam laikui.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Laikyti ištrintus įrašus šiukšliadėžėje %d d., tada ištrinti visam laikui.</item>
+        <item quantity="many">Laikyti ištrintus įrašus šiukšliadėžėje %d d., tada ištrinti visam laikui.</item>
+        <item quantity="other">Laikyti ištrintus įrašus šiukšliadėžėje %d d., tada ištrinti visam laikui.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Visi jūsų ištrinti įrašai bus laikomi čia %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Visi jūsų ištrinti įrašai bus laikomi čia %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="many">Visi jūsų ištrinti įrašai bus laikomi čia %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="other">Visi jūsų ištrinti įrašai bus laikomi čia %d d., tada bus ištrinti visam laikui.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d įrašas bus ištrintas visam laikui.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d įrašai bus ištrinti visam laikui.</item>
+        <item quantity="many">%d įrašų bus ištrinta visam laikui.</item>
+        <item quantity="other">%d įrašų bus ištrinta visam laikui.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ištrinti įrašai bus laikomi šiukšliadėžėje %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ištrinti įrašai bus laikomi šiukšliadėžėje %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="many">Ištrinti įrašai bus laikomi šiukšliadėžėje %d d., tada bus ištrinti visam laikui.</item>
+        <item quantity="other">Ištrinti įrašai bus laikomi šiukšliadėžėje %d d., tada bus ištrinti visam laikui.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d įrašas</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d įrašai</item>
+        <item quantity="many">%d įrašų</item>
+        <item quantity="other">%d įrašų</item>
+    </plurals>
+</resources>

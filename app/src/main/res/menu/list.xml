@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@+id/option_select" android:title="@string/edit"/>
+    <item android:id="@+id/option_share" android:title="@string/sharevia"/>
+    <item android:id="@+id/option_sort_by" android:title="@string/sort_by"/>
+    <item android:icon="@drawable/search_icon" android:id="@+id/option_search" android:title="@string/search" app:showAsAction="always"/>
+    <item android:id="@+id/import_from_app" android:title="@string/import_from_app"/>
+    <item android:id="@+id/option_settings" android:title="@string/action_settings"/>
+    <item android:id="@+id/option_trash" android:title="@string/trash"/>
+    <item android:icon="@drawable/voice_rec_ab_speaker_on" android:id="@+id/option_play_receiver" android:title="@string/play_through_speaker" app:showAsAction="always"/>
+    <item android:icon="@drawable/voice_rec_ab_speaker_off" android:id="@+id/option_play_speaker" android:title="@string/play_through_receiver" app:showAsAction="always"/>
+</menu>

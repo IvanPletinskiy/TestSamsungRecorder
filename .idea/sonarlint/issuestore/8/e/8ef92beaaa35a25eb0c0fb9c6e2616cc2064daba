@@ -1,0 +1,9 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(³ÏèŒ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(—ö¥‘ÿÿÿÿÿ
+K
+java:S1172	".Remove this unused method parameter "context".(„£Ô§8¢êƒ¼Û.
+C
+java:S1068"'Remove this unused "TAG" private field.(ö’Ÿ+8¢êƒ¼Û.

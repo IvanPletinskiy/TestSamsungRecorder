@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/main_dialog_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:orientation="vertical" android:id="@+id/about_page_body" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:baselineAligned="false" android:weightSum="1" android:fillViewport="true">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.5">
+                <TextView android:textSize="@dimen/about_page_app_name_size" android:textStyle="normal" android:textColor="@color/about_page_plain_text_color" android:id="@+id/about_app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/about_app_name_margin_top" android:text="@string/app_name" android:fontFamily="sans-serif-light" android:textAlignment="center"/>
+                <TextView android:textSize="@dimen/about_page_app_version_text_size" android:textStyle="normal" android:textColor="@color/about_page_version_text_color" android:id="@+id/about_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/about_app_version_margin_top" android:fontFamily="sec-roboto-light" android:textAlignment="center"/>
+                <TextView android:textSize="@dimen/about_page_version_status_text_size" android:textColor="@color/about_page_version_status_text_color" android:gravity="center_horizontal" android:id="@+id/about_version_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/about_version_status_margin_top" android:layout_marginStart="32dp" android:layout_marginEnd="32dp"/>
+                <ProgressBar android:id="@+id/about_version_loading" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginTop="@dimen/about_version_status_margin_top" android:indeterminate="true"/>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/about_version_update_button_margin_top">
+                    <TextView android:id="@+id/about_update_button" android:text="@string/update" style="@style/AboutButtonUpdateRetryStyle"/>
+                    <TextView android:id="@+id/retry_button" android:text="@string/retry" style="@style/AboutButtonUpdateRetryStyle"/>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="0.5">
+                <Button android:id="@+id/about_privacy_policy" android:onClick="pageLinkClick" style="@style/AboutButtonCommonStyle"/>
+                <Button android:id="@+id/about_open_source_license" android:onClick="pageLinkClick" style="@style/AboutButtonBottomStyle"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <WebView android:id="@+id/open_source_license_view" style="@style/AboutWebViewStyle"/>
+</LinearLayout>

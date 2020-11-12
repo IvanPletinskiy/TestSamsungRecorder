@@ -1,0 +1,37 @@
+
+L
+java:S1068"1Remove this unused "QUA_GAIN_CODE" private field.(‹ Ë¹üÿÿÿÿ
+s
+java:S3008"XRename this field "QUA_GAIN_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ Ë¹üÿÿÿÿ
+T
+java:S3400"9Remove this method and declare a constant for this value.(ºÀ¢Üÿÿÿÿÿ
+>
+java:S1068"(Remove this unused "GRAY" private field.(’ªÆÓ
+o
+java:S3008"YRename this field "QUA_GAIN_PITCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â´Ôí
+t
+java:S3008"YRename this field "QUA_ENER_MR515" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“„ƒÀıÿÿÿÿ
+c
+java:S1192T"MDefine a constant instead of duplicating this literal "ExtractorAMR" 6 times.(ş†Ñò
+e
+java:S3008"ORename this field "GRAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ªÆÓ
+M
+java:S1068"2Remove this unused "QUA_ENER_MR515" private field.(“„ƒÀıÿÿÿÿ
+H
+java:S1068"2Remove this unused "QUA_GAIN_PITCH" private field.(â´Ôí
+t
+java:S3008"YRename this field "GAIN_FAC_MR475" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖ¼›ûÿÿÿÿ
+l
+java:S3008"VRename this field "BLOCK_SIZES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼²‚
+t
+java:S3008"YRename this field "GAIN_FAC_MR515" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â“éşÿÿÿÿ
+T
+java:S3400#"9Remove this method and declare a constant for this value.(®ÿİ¬şÿÿÿÿ
+M
+java:S1068"2Remove this unused "GAIN_FAC_MR515" private field.(â“éşÿÿÿÿ
+E
+java:S1068"/Remove this unused "BLOCK_SIZES" private field.(¼²‚
+M
+java:S1068"2Remove this unused "GAIN_FAC_MR475" private field.(šÖ¼›ûÿÿÿÿ
+m
+java:S3776B"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÅØÔÂøÿÿÿÿ

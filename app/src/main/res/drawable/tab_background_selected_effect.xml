@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:color="?android:attr/colorControlHighlight">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/main_tab_selected_bg_color"/>
+            <stroke android:width="@dimen/main_tab_width_stroke_bg" android:color="@color/main_tab_selected_stroke_color"/>
+            <corners android:radius="@dimen/main_tab_radius_bg"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/mask">
+        <inset>
+            <shape android:shape="rectangle">
+                <solid android:color="@color/main_tab_selected_bg_color"/>
+                <corners android:radius="@dimen/main_tab_radius_bg"/>
+            </shape>
+        </inset>
+    </item>
+</ripple>

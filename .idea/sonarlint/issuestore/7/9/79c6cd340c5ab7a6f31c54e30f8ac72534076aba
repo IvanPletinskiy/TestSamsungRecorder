@@ -1,0 +1,80 @@
+
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ı­
+f
+java:S1192»"JDefine a constant instead of duplicating this literal " eTime : " 4 times.(µš§Íøÿÿÿÿ
+j
+java:S1104*"OMake TAG a static final constant or non-public and provide accessors if needed.(½ĞõÒüÿÿÿÿ
+O
+java:S2589¤"8Remove this expression which always evaluates to "false"(³•ÊË
+2
+java:S3626è"Remove this redundant jump.(ûÁİ…
+e
+java:S1192»"IDefine a constant instead of duplicating this literal " path : " 4 times.(µš§Íøÿÿÿÿ
+Œ
+java:S1845z"vRename field "WAIT" to prevent any misunderstanding/clash with method "wait" defined in superclass "java.lang.Object".(íé° 
+o
+java:S1104Q"TMake mSession a static final constant or non-public and provide accessors if needed.(Ò“Ò¦şÿÿÿÿ
+x
+java:S1104J"]Make mOriginalFilePath a static final constant or non-public and provide accessors if needed.(‹Ş¿•şÿÿÿÿ
+F
+java:S3740Ÿ"/Provide the parametrized type for this generic.(ÊÃÄÄ
+o	java:S115n"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÖÍ
+i
+java:S3008*"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ĞõÒüÿÿÿÿ
+2
+java:S3626ñ"Remove this redundant jump.(ûÁİ…
+D
+java:S1444*")Make this "public static TAG" field final(½ĞõÒüÿÿÿÿ
+q
+java:S1192¥"[Define a constant instead of duplicating this literal "Fail to delete saveFile !!" 3 times.(”—Ó.
+h
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(×¦í{
+j
+java:S4042¤"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ß¦ÀÂùÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÙûàÜ
+j
+java:S4042õ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ë“«øÿÿÿÿ
+F
+java:S3740†"/Provide the parametrized type for this generic.(æéÑà
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ş¨Ï…ÿÿÿÿÿ
+j
+java:S4042½"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+N
+java:S2589±"7Remove this expression which always evaluates to "true"(¬ßµ©
+2
+java:S3626ß"Remove this redundant jump.(ûÁİ…
+U
+java:S1118_":Add a private constructor to hide the implicit public one.(ÛÄ§ºøÿÿÿÿ
+k
+java:S1192»"ODefine a constant instead of duplicating this literal " stack size : " 4 times.(µš§Íøÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(©İ£Ëüÿÿÿÿ
+f
+java:S1192»"JDefine a constant instead of duplicating this literal " dTime : " 4 times.(µš§Íøÿÿÿÿ
+m
+java:S1104A"WMake mAppContext a static final constant or non-public and provide accessors if needed.(¡µ•ï
+K
+java:S3740‘"/Provide the parametrized type for this generic.(ÇÒÔÿÿÿÿÿ
+=
+java:S1172°"&Remove these unused method parameters.(ÂÌö‡
+q
+java:S1104U"[Make mSimpleMetadata a static final constant or non-public and provide accessors if needed.(ÕÚİú
+F
+java:S3740³"/Provide the parametrized type for this generic.(ÊÃÄÄ
+f
+java:S1149D"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(â‰„
+g
+java:S1104ª"QMake mPath a static final constant or non-public and provide accessors if needed.(„³‚N
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ú„‹…
+m
+java:S1104L"RMake mPayer a static final constant or non-public and provide accessors if needed.(è¦±òşÿÿÿÿ
+P
+java:S1118}":Add a private constructor to hide the implicit public one.(„›¢
+i
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(¢‚îì
+`
+java:S2259Ğ"BA "NullPointerException" could be thrown; "file" is nullable here.(ˆı–×8¿‘²¹Û.

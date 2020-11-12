@@ -1,0 +1,29 @@
+
+Q
+java:S1854n"<Remove this useless assignment to local variable "isEmpty2".(ˆ†ád
+P
+java:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S1192]"UDefine a constant instead of duplicating this literal "policy_received_date" 4 times.(… õÓ
+n
+java:S11923"SDefine a constant instead of duplicating this literal "Fail to get Policy" 4 times.(–ûçşüÿÿÿÿ
+\
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "dq-3g" 3 times.(ªµ³O
+@
+java:S1181e"%Catch Exception instead of Throwable.(Ìòåúûÿÿÿÿ
+B
+java:S1481n"-Remove this unused "isEmpty2" local variable.(ˆ†ád
+Q
+java:S1854\";Remove this useless assignment to local variable "isEmpty".(­ı¥Ş
+;
+java:S1181_"%Catch Exception instead of Throwable.(áù«õ
+d
+java:S1192‰"HDefine a constant instead of duplicating this literal "bat-uri" 3 times.(Ğäí£øÿÿÿÿ
+P
+java:S1141X"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+\
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "oq-3g" 3 times.(ªµ³O
+B
+java:S1481\",Remove this unused "isEmpty" local variable.(­ı¥Ş
+O
+java:S2864+"4Iterate over the "entrySet" instead of the "keySet".(Æƒ¬ÿÿÿÿÿ

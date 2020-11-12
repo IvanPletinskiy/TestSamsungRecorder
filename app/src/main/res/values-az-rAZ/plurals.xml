@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d zəng yazı zamanı bloklandı</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d zəng yazı zamanı bloklandı</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kateqoriya silinsin?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d kateqoriya silinsin?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 dəqiqə</item>
+        <item quantity="other">%d dəqiqə</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 saniyə</item>
+        <item quantity="other">%d saniyə</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zibil qutusundakı elementlər %d gün sonra həmişəlik silinəcək.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zibil qutusundakı elementlər %d gün sonra həmişəlik silinəcək.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zibil qutusundakı elementlər %d gün sonra həmişəlik silinəcək. SD kartı silməzdən öncə hər şeyin tam silindiyindən əmin olmaq üçün Zibil qutusunu boşaldın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zibil qutusundakı elementlər %d gün sonra həmişəlik silinəcək. SD kartı silməzdən öncə hər şeyin tam silindiyindən əmin olmaq üçün Zibil qutusunu boşaldın.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d yazı Zibil qutusuna köçürülsün?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d yazı Zibil qutusuna köçürülsün?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Silinmiş qeydlər həmişəlik silinməzdən öncə %d gün Zibil qutusunda saxlayın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Silinmiş qeydlər həmişəlik silinməzdən öncə %d gün Zibil qutusunda saxlayın.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sildiyiniz istənilən qeydlər həmişəlik silinməzdən öncə %d gün burada qalacaq.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sildiyiniz istənilən qeydlər həmişəlik silinməzdən öncə %d gün burada qalacaq.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d qeyd həmişəlik silinəcək.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d qeyd həmişəlik silinəcək.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Silinmiş qeydlər həmişəlik silinməzdən öncə %d gün Zibil qutusunda qalacaq.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Silinmiş qeydlər həmişəlik silinməzdən öncə %d gün Zibil qutusunda qalacaq.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d qeyd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d qeyd</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <TextView android:textSize="@dimen/text_size_spinner" android:textColor="@color/category_textcolor_selector" android:ellipsize="end" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/label_title" android:paddingTop="14dp" android:paddingBottom="14dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="true" android:fontFamily="sec-roboto-light" android:layout_marginStart="24dp" android:layout_marginEnd="8dp"/>
+    </LinearLayout>
+    <TextView android:textSize="@dimen/text_size_spinner" android:textColor="@color/category_textcolor_selector" android:gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/number_category" android:paddingTop="14dp" android:paddingBottom="14dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:includeFontPadding="true" android:layout_marginEnd="24dp"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="20dp" android:textColor="@color/stt_button_color" android:gravity="center_vertical" android:id="@+id/title_view" android:background="@color/actionbar_color_bg" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp" android:paddingStart="16dp" android:paddingEnd="16dp"/>
+    <RelativeLayout android:background="@color/main_window_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/title_view">
+        <WebView android:id="@+id/webview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ProgressBar android:id="@+id/disclaimer_loading_view" android:layout_width="50dp" android:layout_height="50dp" android:indeterminate="true" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">பதிவுசெய்யும் போது, %d அழைப்பு தடுக்கப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">பதிவுசெய்யும் போது, %d அழைப்புகள் முடக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d வகையை நீக்கவா?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d வகைகளை நீக்கவா?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 மணிநேரம்</item>
+        <item quantity="other">%d மணி நேரம்</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 நிமிடம்</item>
+        <item quantity="other">%d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 வினாடி</item>
+        <item quantity="other">%d வினாடிகள்</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">தேவையற்றவையிலுள்ள உருப்படிகள் %d நாளுக்குப் பிறகு நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">தேவையற்றவையிலுள்ள உருப்படிகள் %d நாட்களுக்குப் பிறகு நிரந்தரமாக நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">தேவையற்றவையில் உள்ள உருப்படிகள் %d நாளுக்குப் பிறகு நிரந்தரமாக நீக்கப்படும். உங்கள் SD அட்டையை அகற்றுவதற்கு முன்னர், அதில் இருந்த அனைத்தும் முழுவதுமாக நீக்கப்பட்டுள்ளதை உறுதிசெய்ய தேவையற்றவையை காலி செய்யவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">தேவையற்றவையில் உள்ள உருப்படிகள் %d நாட்களுக்குப் பிறகு நிரந்தரமாக நீக்கப்படும். உங்கள் SD அட்டையை அகற்றுவதற்கு முன்னர், அதில் இருந்த அனைத்தும் முழுவதுமாக நீக்கப்பட்டுள்ளதை உறுதிசெய்ய தேவையற்றவையை காலி செய்யவும்.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d பதிவை தேவையற்றவைக்கு நகர்த்தவா?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d பதிவுகளைத் தேவையற்றவைக்கு நகர்த்தவா?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">நீக்கப்பட்ட பதிவுகளை நிரந்தரமாக நீக்குவதற்கு முன்னர் %d நாளுக்கு அவற்றை தேவையற்றவையில் வைத்திருக்கவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">நீக்கப்பட்ட பதிவுகளை நிரந்தரமாக நீக்குவதற்கு முன்னர் %d நாட்களுக்கு அவற்றை தேவையற்றவையில் வைத்திருக்கவும்.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">நீங்கள் நீக்கும் பதிவுகள், அவை நிரந்தரமாக நீக்கப்படுவதற்கு முன்னர் %d நாள் இங்கு வைத்திருக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">நீங்கள் நீக்கும் பதிவுகள், அவை நிரந்தரமாக நீக்கப்படுவதற்கு முன்னர் %d நாட்கள் இங்கு வைத்திருக்கப்படும்.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d பதிவு நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d பதிவுகள் நிரந்தரமாக நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">நீக்கப்பட்ட பதிவுகள் நிரந்தரமாக நீக்கப்படுவதற்கு முன்னர் %d நாள் வரை தேவையற்றவை என்பதில் வைத்திருக்கப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">நீக்கப்பட்ட பதிவுகள் நிரந்தரமாக நீக்கப்படுவதற்கு முன்னர் %d நாட்கள் வரை தேவையற்றவை என்பதில் வைத்திருக்கப்படும்.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d பதிதல்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d பதிதல்கள்</item>
+    </plurals>
+</resources>

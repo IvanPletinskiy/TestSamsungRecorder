@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ರೆಕಾರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿರುವ ಸಮಯದಲ್ಲಿ %d ಕರೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ರೆಕಾರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿರುವ ಸಮಯದಲ್ಲಿ %d ಕರೆಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ವರ್ಗವನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ವರ್ಗಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 ಗಂಟೆ</item>
+        <item quantity="other">%d ಗಂಟೆಗಳು</item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 ನಿಮಿಷ</item>
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 ಸೆಕೆಂಡು</item>
+        <item quantity="other">%d ಸೆಕೆಂಡುಗಳು</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಅನುಪಯುಕ್ತದಲ್ಲಿನ ಐಟಮ್‌ಗಳನ್ನು %d ದಿನದ ನಂತರ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಅನುಪಯುಕ್ತದಲ್ಲಿನ ಐಟಮ್‌ಗಳನ್ನು %d ದಿನಗಳ ನಂತರ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಅನುಪಯುಕ್ತದಲ್ಲಿರುವ ಐಟಮ್‌ಗಳನ್ನು %d ದಿನದ ನಂತರ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನಿಮ್ಮ SD ಕಾರ್ಡ್ ತೆಗೆದುಹಾಕುವ ಮೊದಲು, ಅನುಪಯುಕ್ತದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದನ್ನೂ ಸಂಪೂರ್ಣವಾಗಿ ಅಳಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅದನ್ನು ಖಾಲಿ ಮಾಡಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಅನುಪಯುಕ್ತದಲ್ಲಿರುವ ಐಟಮ್‌ಗಳನ್ನು %d ದಿನಗಳ ನಂತರ ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನಿಮ್ಮ SD ಕಾರ್ಡ್ ತೆಗೆದುಹಾಕುವ ಮೊದಲು, ಅನುಪಯುಕ್ತದಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದನ್ನೂ ಸಂಪೂರ್ಣವಾಗಿ ಅಳಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅದನ್ನು ಖಾಲಿ ಮಾಡಿ.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸುವುದೇ?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಅಳಿಸಲಾಗಿರುವ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲ್ಪಡುವ ಮುನ್ನ ಅವುಗಳನ್ನು %d ದಿನದವರೆಗೆ ಅನುಪಯುಕ್ತದಲ್ಲಿ ಇರಿಸಿಕೊಳ್ಳಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಅಳಿಸಲಾಗಿರುವ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲ್ಪಡುವ ಮುನ್ನ ಅವುಗಳನ್ನು %d ದಿನಗಳವರೆಗೆ ಅನುಪಯುಕ್ತದಲ್ಲಿ ಇರಿಸಿಕೊಳ್ಳಿ.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ನೀವು ಅಳಿಸುವ ಯಾವುದೇ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು ಅವುಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುವುದಕ್ಕೂ ಮೊದಲು %d ದಿನದ ಕಾಲ ಇಲ್ಲಿ ಇರುತ್ತವೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ನೀವು ಅಳಿಸುವ ಯಾವುದೇ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲ್ಪಡುವ ಮೊದಲು ಅವುಗಳು %d ದಿನಗಳವರೆಗೆ ಇಲ್ಲಿ ಉಳಿಯುತ್ತವೆ.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಅಳಿಸಲಾದ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲ್ಪಡುವ ಮುನ್ನ ಅವುಗಳು %d ದಿನದವರೆಗೆ ಅನುಪಯುಕ್ತದಲ್ಲಿ ಉಳಿಯುತ್ತವೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಅಳಿಸಲಾದ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳನ್ನು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸಲ್ಪಡುವ ಮುನ್ನ ಅವುಗಳು %d ದಿನಗಳವರೆಗೆ ಅನುಪಯುಕ್ತದಲ್ಲಿ ಉಳಿಯುತ್ತವೆ.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ರೆಕಾರ್ಡಿಂಗ್</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ರೆಕಾರ್ಡಿಂಗ್‌ಗಳು</item>
+    </plurals>
+</resources>

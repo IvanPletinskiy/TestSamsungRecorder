@@ -1,0 +1,62 @@
+
+]
+java:S3878ş"ADisambiguate this call by either casting as "Class" or "Class[]".(×üÊúıÿÿÿÿ
+T
+java:S1068">Remove this unused "LOW_STORAGE_SAFE_THRESHOLD" private field.(ş˜÷ƒ
+`
+java:S2583®"DChange this condition so that it does not always evaluate to "false"(Ê¿Õ¤úÿÿÿÿ
+]
+java:S3878ÿ"ADisambiguate this call by either casting as "Class" or "Class[]".(­¿ğÖşÿÿÿÿ
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–İÏøÿÿÿÿ
+`
+java:S2583‹"DChange this condition so that it does not always evaluate to "false"(Ê¿Õ¤úÿÿÿÿ
+7
+java:S3878ı"Remove this array creation.(ÔÔÎÛùÿÿÿÿ
+d
+java:S1871"MThis branch's code block is the same as the block for the branch on line 139.(¹ŒØÓ
+M
+java:S1481Ê"*Remove this unused "state" local variable.(·Ê®üÿÿÿÿ8èğ‡¼Û.
+T
+java:S3878ş"8Remove this array creation and simply pass the elements.(×üÊúıÿÿÿÿ
+X
+java:S1126ö"AReplace this if-then-else statement by a single return statement.(™ÑÏº
+7
+java:S3878ÿ"Remove this array creation.(­¿ğÖşÿÿÿÿ
+z
+java:S3008"_Rename this field "SD_CARD_READONLY_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÔêùÿÿÿÿ
+]
+java:S3878ş"ADisambiguate this call by either casting as "Class" or "Class[]".(×üÊúıÿÿÿÿ
+<
+java:S1181µ"%Catch Exception instead of Throwable.(áù«õ
+7
+java:S3878ş"Remove this array creation.(×üÊúıÿÿÿÿ
+]
+java:S3878ı"ADisambiguate this call by either casting as "Class" or "Class[]".(ÔÔÎÛùÿÿÿÿ
+7
+java:S3878ş"Remove this array creation.(×üÊúıÿÿÿÿ
+]
+java:S3878ş"ADisambiguate this call by either casting as "Class" or "Class[]".(×üÊúıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¤•
+u
+java:S1171î"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+\
+java:S1854Ê"9Remove this useless assignment to local variable "state".(·Ê®üÿÿÿÿ8èğ‡¼Û.
+j
+java:S4042£"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+Z
+java:S2583h"DChange this condition so that it does not always evaluate to "false"(„Á°
+E
+java:S1905ş")Remove this unnecessary cast to "String".(×üÊúıÿÿÿÿ
+]
+java:S1126Ò"AReplace this if-then-else statement by a single return statement.(÷Ç²Çÿÿÿÿÿ
+i	java:S116ì"NRename this field "f$0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¡¬éúÿÿÿÿ
+W
+java:S1126F"AReplace this if-then-else statement by a single return statement.(¾Üı
+r
+java:S1854Ô"ORemove this useless assignment to local variable "convertToSDCardReadOnlyPath".(¤»á·ÿÿÿÿÿ8 “ˆ¼Û.
+G
+java:S1481Õ")Remove this unused "next" local variable.(Êˆæ¨8 “ˆ¼Û.
+c
+java:S1481Ô"@Remove this unused "convertToSDCardReadOnlyPath" local variable.(¤»á·ÿÿÿÿÿ8 “ˆ¼Û.

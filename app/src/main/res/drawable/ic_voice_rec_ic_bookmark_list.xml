@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="@dimen/bookmark_image_width_height" android:width="@dimen/bookmark_image_width_height" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="@color/add_bookmark_text_color" android:pathData="M18.0195,1.7541L5.9795,1.7541C5.0515,1.7541 4.2995,2.5061 4.2995,3.4341L4.2995,21.8981C4.2995,22.2231 4.5205,22.3411 4.7915,22.1611L11.4965,17.6751C11.7675,17.4941 12.2085,17.4941 12.4795,17.6751L19.1845,22.1611C19.4555,22.3421 19.6765,22.2241 19.6765,21.8981L19.7005,3.4341C19.6995,2.5061 18.9465,1.7541 18.0195,1.7541Z" android:strokeColor="#00000000" android:strokeWidth="0"/>
+</vector>

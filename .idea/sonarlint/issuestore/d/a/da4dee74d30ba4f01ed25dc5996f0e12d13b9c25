@@ -1,0 +1,34 @@
+
+T
+java:S1068
+"9Remove this unused "OUTSIDE_SECURE_FOLDER" private field.(Ğüàÿÿÿÿÿÿ
+^
+java:S1068"CRemove this unused "VOICE_RECORDER_SECURE_FOLDER_ID" private field.(ö¡¾±ûÿÿÿÿ
+K
+java:S1172D".Remove this unused method parameter "context".(£Ò§œ8ã¸å¸Û.
+K
+java:S1172".Remove this unused method parameter "context".(Ú„úÕ8ÎÓä¸Û.
+Š
+java:S1319D"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(£Ò§œ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ƒ³Æ¼ûÿÿÿÿ
+N
+java:S1068"8Remove this unused "INSIDE_SECURE_FOLDER" private field.(ì²Ï°
+Š
+java:S1319O"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(’ºâÒ
+\
+java:S1068	":Remove this unused "KNOX_CONTAINER_VERSION" private field.(óØ—šüÿÿÿÿ8Ô·ä¸Û.
+_
+java:S1854E"=Remove this useless assignment to local variable "pathByIds".(ÕÕÒÄøÿÿÿÿ8êå¸Û.
+K
+java:S1172O".Remove this unused method parameter "context".(’ºâÒ8êå¸Û.
+_
+java:S1854P"=Remove this useless assignment to local variable "pathByIds".(ÕÕÒÄøÿÿÿÿ8êå¸Û.
+P
+java:S1481E".Remove this unused "pathByIds" local variable.(ÕÕÒÄøÿÿÿÿ8êå¸Û.
+P
+java:S1481P".Remove this unused "pathByIds" local variable.(ÕÕÒÄøÿÿÿÿ8êå¸Û.
+I
+java:S1068"'Remove this unused "TAG" private field.(ş¹²¡şÿÿÿÿ8êå¸Û.
+M
+java:S1068"0Remove this unused "mContainerID" private field.(ıíë8êå¸Û.

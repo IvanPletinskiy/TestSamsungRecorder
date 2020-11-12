@@ -1,0 +1,149 @@
+
+b
+java:S1192Ú"FDefine a constant instead of duplicating this literal "false" 3 times.(Úœ×©øÿÿÿÿ
+B
+java:S1481ö"+Remove this unused "unused" local variable.(Ìâ¦¾
+Q
+java:S1854¢":Remove this useless assignment to local variable "unused".(Í»Éß
+G
+java:S1481µ"+Remove this unused "unused" local variable.(õã’üÿÿÿÿ
+G
+java:S1481å"+Remove this unused "unused" local variable.(îñòîüÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(•òÄıÿÿÿÿ
+v
+java:S1104ç"ZMake tempFrameCount a static final constant or non-public and provide accessors if needed.(‡ªúÿÿÿÿ
+g
+java:S1104;"QMake total a static final constant or non-public and provide accessors if needed.(É›Í©
+?
+java:S1172³"(Remove this unused method parameter "i".(©Â¡Õ
+]
+java:S2142–"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+c
+java:S1192†"LDefine a constant instead of duplicating this literal "contenttype" 3 times.(ÈË¬
+P
+java:S1161s":Add the "@Override" annotation above this method signature(®”ğ©
+D
+java:S1905
+"-Remove this unnecessary cast to "QueueItems".(ÍªúŞ
+r
+java:S1104""\Make asrResponseQueue a static final constant or non-public and provide accessors if needed.(ùê¦–
+R
+java:S2589S"7Remove this expression which always evaluates to "true"(öˆƒŠÿÿÿÿÿ
+w
+java:S1104+"\Make mASRResultThread a static final constant or non-public and provide accessors if needed.(ÈÈ¡—øÿÿÿÿ
+C
+java:S1481§",Remove this unused "unused3" local variable.(×Š“ñ
+i
+java:S1192Ğ"MDefine a constant instead of duplicating this literal "ASRProfiling" 8 times.(Üæşµûÿÿÿÿ
+q
+java:S1104-"[Make mAudioProcessor a static final constant or non-public and provide accessors if needed.(îğ‡Í
+Q
+java:S1161Ó":Add the "@Override" annotation above this method signature(“–ış
+f	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÛÉw
+X
+java:S1126ì"AReplace this if-then-else statement by a single return statement.(¢á¥­
+o
+java:S1104$"TMake deviceId a static final constant or non-public and provide accessors if needed.(Æı¹ƒüÿÿÿÿ
+Q
+java:S1854¿
+":Remove this useless assignment to local variable "unused".(§”ãÓ
+s
+java:S1104)"XMake instanceList a static final constant or non-public and provide accessors if needed.(è¶¾…øÿÿÿÿ
+Q
+java:S1854ö":Remove this useless assignment to local variable "unused".(Ìâ¦¾
+V
+java:S1854õ":Remove this useless assignment to local variable "unused".(³ë‡æÿÿÿÿÿ
+Q
+java:S1161ô":Add the "@Override" annotation above this method signature(“–ış
+]
+java:S2142Á"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+X
+java:S1126¤
+"AReplace this if-then-else statement by a single return statement.(•ûúé
+c
+java:S1192Ï"GDefine a constant instead of duplicating this literal "islast" 3 times.(ÖÍÚÆÿÿÿÿÿ
+B
+java:S1481¥"+Remove this unused "unused" local variable.(ÓÛ‰Ô
+H
+java:S1481Ú",Remove this unused "unused2" local variable.(¾ö¼úüÿÿÿÿ
+?
+java:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+j
+java:S11045"TMake mHandler a static final constant or non-public and provide accessors if needed.(ëÖáÈ
+G
+java:S1481õ"+Remove this unused "unused" local variable.(³ë‡æÿÿÿÿÿ
+?
+java:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R
+java:S1854¦";Remove this useless assignment to local variable "unused2".(ŞÆİ
+W
+java:S1854Ú";Remove this useless assignment to local variable "unused2".(¾ö¼úüÿÿÿÿ
+?
+java:S1148é"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—üÈ¬
+V
+java:S1854µ":Remove this useless assignment to local variable "unused".(õã’üÿÿÿÿ
+B
+java:S1481¿
+"+Remove this unused "unused" local variable.(§”ãÓ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ú²¬ª
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(¢°í¬
+C
+java:S1068%"-Remove this unused "epdOffset" private field.(Ô¸¢ú
+f
+java:S1192R"KDefine a constant instead of duplicating this literal "tickcount" 55 times.(ûŸæèøÿÿÿÿ
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(©Â¡Õ
+
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌÕñõÿÿÿÿÿ
+p
+java:S1104'"UMake firstSend a static final constant or non-public and provide accessors if needed.(ìŞÌáøÿÿÿÿ
+k
+java:S11042"PMake mCtx a static final constant or non-public and provide accessors if needed.(òö„›ûÿÿÿÿ
+V
+java:S1854å":Remove this useless assignment to local variable "unused".(îñòîüÿÿÿÿ
+g	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö±È
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(™äªùÿÿÿÿ
+`
+java:S1192¿"JDefine a constant instead of duplicating this literal "utterance" 8 times.(Ü”¿3
+F
+java:S3740¿
+"/Provide the parametrized type for this generic.(§”ãÓ
+l
+java:S11040"VMake mCancelled a static final constant or non-public and provide accessors if needed.(ÀÔĞ
+n
+java:S1450%"XRemove the "epdOffset" field and declare it as a local variable in the relevant methods.(Ô¸¢ú
+C
+java:S1481¦",Remove this unused "unused2" local variable.(ŞÆİ
+2
+java:S3626á"Remove this redundant jump.(ûÁİ…
+E
+java:S3740f"/Provide the parametrized type for this generic.(âİìÊ
+t	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+T
+java:S1144œ
+"8Remove this unused private "checkForNextElement" method.(ÇàÏ·şÿÿÿÿ
+l
+java:S1104ã"UMake currentId a static final constant or non-public and provide accessors if needed.(ñÎ˜¤
+k
+java:S1192Š"TDefine a constant instead of duplicating this literal "SamsungRecognizer@" 18 times.(ñ·‰å
+F
+java:S3740ê"/Provide the parametrized type for this generic.(ú²¬ª
+B
+java:S1481ê"+Remove this unused "unused" local variable.(ú²¬ª
+?
+java:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+G
+java:S2446É
+"0"notify" may not wake up the appropriate thread.(ëÔş´
+B
+java:S1481¢"+Remove this unused "unused" local variable.(Í»Éß
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¢åÉûÿÿÿÿ
+Q
+java:S1854¥":Remove this useless assignment to local variable "unused".(ÓÛ‰Ô
+R
+java:S1854§";Remove this useless assignment to local variable "unused3".(×Š“ñ

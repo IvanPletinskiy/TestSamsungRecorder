@@ -1,0 +1,165 @@
+
+n
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(å­€€ùÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÊÅ‰æ
+@
+java:S1125Ö
+")Remove the literal "false" boolean value.(¸ÖÎã
+Q
+java:S1144µ"5Remove this unused private "getCurrentVolume" method.(“€·çÿÿÿÿÿ
+<
+java:S1181Ş"%Catch Exception instead of Throwable.(áù«õ
+n
+java:S1104_"XMake mMediaPlayer a static final constant or non-public and provide accessors if needed.(Ë²£’
+M
+java:S1068E"2Remove this unused "VOLUME_DEFAULT" private field.(˜™°şÿÿÿÿ
+Z
+java:S2276È"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Üë‡
+P
+java:S3985Ø"4Remove this unused private "MediaPlayerState" class.(ğ’ò½úÿÿÿÿ
+X
+java:S1144"<Remove this unused private "createVolumeShapeConfig" method.(øó×œùÿÿÿÿ
+W
+java:S1854˜";Remove this useless assignment to local variable "unused5".(™¥ŠÀûÿÿÿÿ
+I
+java:S1172ï"2Remove this unused method parameter "mediaPlayer".(µº“Ú
+F
+java:S1481m"+Remove this unused "unused" local variable.(¤ì÷èøÿÿÿÿ
+,
+java:S2275ù"Not enough arguments.(ÁüæÓ
+R
+java:S1068>"7Remove this unused "MIN_REPEAT_INTERVAL" private field.(ñ÷ øÿÿÿÿ
+s
+java:S1104«"\Make mSkipSilenceTask a static final constant or non-public and provide accessors if needed.(›ñÕ‚
+o
+java:S1104d"YMake mPausedByCall a static final constant or non-public and provide accessors if needed.(Ïä±­
+j
+java:S3776Å"SRefactor this method to reduce its Cognitive Complexity from 119 to the 15 allowed.(ƒ¸š¥
+O
+java:S1068?"4Remove this unused "MSG_SKIP_SILENCE" private field.(²¥Õÿÿÿÿÿ
+Q
+java:S1141Ç"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+d	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ÿ“Ä
+M
+java:S1068A"8Remove this unused "STATE_REPEAT_NOT_SET" private field.(¥Ë™|
+n
+java:S3776Ş
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿ñ‘Âùÿÿÿÿ
+K
+java:S3740º"/Provide the parametrized type for this generic.(ûî•³ûÿÿÿÿ
+E
+java:S1905‡
+")Remove this unnecessary cast to "Player".(£œÓ«øÿÿÿÿ
+i
+java:S1104°"RMake mState a static final constant or non-public and provide accessors if needed.(èŠ½Œ
+K
+java:S1066Ü"/Merge this if statement with the enclosing one.(€Ä›“úÿÿÿÿ
+R
+java:S1854‹";Remove this useless assignment to local variable "unused3".(±úÈ›
+@
+java:S1172f"*Remove this unused method parameter "str".(“œë²
+n
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÔÖäÂûÿÿÿÿ
+H
+java:S1481€",Remove this unused "unused2" local variable.(Ä»£ıÿÿÿÿ
+i
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(’Ÿ“Ä
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ñ•ˆÚúÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ã´•õşÿÿÿÿ
+<
+java:S1181ô"%Catch Exception instead of Throwable.(áù«õ
+V
+java:S1118Ê":Add a private constructor to hide the implicit public one.(æ”Õ‹ûÿÿÿÿ
+R
+java:S1854";Remove this useless assignment to local variable "unused4".(Ì›³ø
+~
+java:S1488•"gImmediately return this expression instead of assigning it to the temporary variable "currentPosition".(Ü¿ƒá
+P
+java:S1068-"5Remove this unused "DURATION_INTERVAL" private field.(ÿ«Àïùÿÿÿÿ
+Q
+java:S1118Ñ":Add a private constructor to hide the implicit public one.(ÿ¶î
+X
+java:S1068="=Remove this unused "MAX_AUDIO_FOCUS_RETRY_CNT" private field.(àâÅÊıÿÿÿÿ
+@
+java:S1905î	")Remove this unnecessary cast to "Player".(®ıå 
+?	java:S108ƒ")Either remove or fill this block of code.(ÓÄ·¦
+
+java:S1104V"fMake mIsDisableSkipMutedForCall a static final constant or non-public and provide accessors if needed.(Ôè’øùÿÿÿÿ
+Q
+java:S1118¹":Add a private constructor to hide the implicit public one.(·ö³ù
+w
+java:S2234Ö"[Parameters to setVolume have the same names but not the same order as the method arguments.(˜¯î‚ûÿÿÿÿ
+O
+java:S3878ù"8Remove this array creation and simply pass the elements.(ÁüæÓ
+w
+java:S1104§"[Make mRepeatPosition a static final constant or non-public and provide accessors if needed.(ß„Ô„ÿÿÿÿÿ
+C
+java:S1481‹",Remove this unused "unused3" local variable.(±úÈ›
+C
+java:S1481",Remove this unused "unused4" local variable.(Ì›³ø
+P
+java:S2168é"9Remove this dangerous instance of double-checked locking.(Äı††
+W
+java:S1854€";Remove this useless assignment to local variable "unused2".(Ä»£ıÿÿÿÿ
+Y
+java:S1068,">Remove this unused "AUDIO_FOCUS_RETRY_INTERVAL" private field.(ÅÏÕÛúÿÿÿÿ
+]
+java:S1192´"FDefine a constant instead of duplicating this literal "state" 3 times.(¢Ã¢İ
+s
+java:S1104¥"WMake mRepeatMode a static final constant or non-public and provide accessors if needed.(â‰§éüÿÿÿÿ
+`
+java:S2259›"IA "NullPointerException" could be thrown; "mediaPlayer" is nullable here.(ˆ…ä÷
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸š¥
+m
+java:S1104I"WMake mAppContext a static final constant or non-public and provide accessors if needed.(ìŞ…º
+E
+java:S3740×"/Provide the parametrized type for this generic.(Øùã
+[
+java:S1068<"@Remove this unused "KEY_PARAMETER_USE_SW_DECODER" private field.(ëÓí°øÿÿÿÿ
+]
+java:S2142Ê"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Q
+java:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+F
+java:S1066¼"/Merge this if statement with the enclosing one.(×ø’º
+<
+java:S1181§"%Catch Exception instead of Throwable.(áù«õ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÙûàÜ
+r
+java:S1192Ê
+"VDefine a constant instead of duplicating this literal "IllegalStateException" 3 times.(´ıÆªıÿÿÿÿ
+d
+java:S1126µ"AReplace this if-then-else statement by a single return statement.(€‹Ó®ıÿÿÿÿ8˜ş¼¹Û.
+U
+java:S1854m":Remove this useless assignment to local variable "unused".(¤ì÷èøÿÿÿÿ
+B
+java:S1172ø"&Remove these unused method parameters.(óÁÅûÿÿÿÿ
+H
+java:S1481˜",Remove this unused "unused5" local variable.(™¥ŠÀûÿÿÿÿ
+n
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚÇï´ûÿÿÿÿ
+F
+java:S3740Í"/Provide the parametrized type for this generic.(ÊÃÄÄ
+K
+java:S1172³"(Remove this unused method parameter "i".(²ä”úÿÿÿÿ8˜ş¼¹Û.
+X
+java:S1068®"<Remove this unused "mSpeedInContinuePlayMode" private field.(£±Šïÿÿÿÿÿ
+Q
+java:S1118Â":Add a private constructor to hide the implicit public one.(ôì°³
+J
+java:S1068C"4Remove this unused "STREAM_VOICENOTE" private field.(ìø–
+2
+java:S3626¥"Remove this redundant jump.(ûÁİ…
+o
+java:S1104S"TMake mHandler a static final constant or non-public and provide accessors if needed.(ß²¡“úÿÿÿÿ
+w
+java:S2234ò"[Parameters to setVolume have the same names but not the same order as the method arguments.(˜¯î‚ûÿÿÿÿ
+2
+java:S3626ø"Remove this redundant jump.(ûÁİ…
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÌàØÕ
+o	java:S116G"URename this field "SYN_OBJECT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šâ¥şÿÿÿÿ

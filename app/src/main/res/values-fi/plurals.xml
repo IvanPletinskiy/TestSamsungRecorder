@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_blocked_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d puhelu estetty tallennuksen aikana</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d puhelua estetty tallennuksen aikana</item>
+    </plurals>
+    <plurals name="delete_category_title">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Poistetaanko %d luokka?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Poistetaanko %d luokkaa?</item>
+    </plurals>
+    <plurals name="timer_hr">
+        <item quantity="one">1 tunti</item>
+        <item quantity="other">%d tuntia </item>
+    </plurals>
+    <plurals name="timer_min">
+        <item quantity="one">1 minuutti</item>
+        <item quantity="other">%d minuuttia</item>
+    </plurals>
+    <plurals name="timer_sec">
+        <item quantity="one">1 sekunti</item>
+        <item quantity="other">%d sekuntia</item>
+    </plurals>
+    <plurals name="trash_body_notification_no_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Roskakorissa olevat kohteet poistetaan lopullisesti %d päivän kuluttua.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Roskakorissa olevat kohteet poistetaan lopullisesti %d päivän kuluttua.</item>
+    </plurals>
+    <plurals name="trash_body_notification_with_sdcard">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Roskakorissa olevat kohteet poistetaan lopullisesti %d päivän kuluttua. Tyhjennä roskakori ennen SD-kortin poistamista, jotta kaikki roskakorissa olevat sisällöt poistetaan täydellisesti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Roskakorissa olevat kohteet poistetaan lopullisesti %d päivän kuluttua. Tyhjennä roskakori ennen SD-kortin poistamista, jotta kaikki roskakorissa olevat sisällöt poistetaan täydellisesti.</item>
+    </plurals>
+    <plurals name="trash_header_move_file_to_trash">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Siirretäänkö %d tallenne roskakoriin?</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Siirretäänkö %d tallennetta roskakoriin?</item>
+    </plurals>
+    <plurals name="trash_keep_deleted_recording_before_deleted_forever">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Säilytä poistettuja tallenteita roskakorissa %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Säilytä poistettuja tallenteita roskakorissa %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+    </plurals>
+    <plurals name="trash_recordings_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Poistamasi tallenteet pysyvät täällä %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Poistamasi tallenteet pysyvät täällä %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+    </plurals>
+    <plurals name="trash_recordings_permanently_deleted">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tallenne poistetaan lopullisesti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d tallennetta poistetaan lopullisesti.</item>
+    </plurals>
+    <plurals name="trash_recordings_stay_in_the_trash_for_days">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Poistetut tallenteet pysyvät roskakorissa %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Poistetut tallenteet pysyvät roskakorissa %d päivän ajan, ennen kuin ne poistetaan lopullisesti.</item>
+    </plurals>
+    <plurals name="trash_sub_header">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tallenne</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d tallennetta</item>
+    </plurals>
+</resources>

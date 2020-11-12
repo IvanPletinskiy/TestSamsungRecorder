@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/stereo_main_layout" android:background="@color/actionbar_color_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="center_vertical" android:id="@+id/stereo_layout" android:background="@drawable/master_on_off_switch_bg" android:layout_width="match_parent" android:layout_height="@dimen/record_stereo_text_height" android:layout_marginTop="@dimen/record_stereo_switch_margin_top">
+        <TextView android:textSize="@dimen/record_stereo_switch_text_size" android:textColor="@color/stereo_recording_off_text_color" android:gravity="center" android:id="@+id/stereo_text" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/off" android:fontFamily="sec-roboto-light" android:layout_marginStart="@dimen/record_stereo_switch_text_margin_tart"/>
+        <androidx.appcompat.widget.SwitchCompat android:theme="@style/SwitchButton" android:gravity="center" android:id="@+id/switch_stereo" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginEnd="@dimen/record_stereo_switch_margin_end" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <ScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/stereo_text_layout" android:paddingTop="@dimen/record_stereo_text_margin_top" android:paddingBottom="@dimen/record_stereo_text_margin_top" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:background="@drawable/bg_voice_label" android:padding="@dimen/record_stereo_image_margin" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/voice_recorder_ic_stereo_label"/>
+            <TextView android:textSize="16sp" android:textStyle="normal" android:textColor="@color/stereo_recording_remind_text_color" android:id="@+id/image_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/record_stereo_text_margin_top" android:fontFamily="sec-roboto-light" android:textAlignment="gravity" android:layout_marginStart="@dimen/record_stereo_text_margin_start" android:layout_marginEnd="@dimen/record_stereo_text_margin_end"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
